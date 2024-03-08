@@ -1,0 +1,449 @@
+Mitogenomes	sample	Morphpspecies_Image	Image_Family	Image_Subfamily	Site_ID	Site	Collection_method	Collection_year	Country
+BIOD00043	BIBC_BIP15_C07	MS1375	Staphylinidae	Paederinae	PD	Poring	PITFALL		Malaysia
+BIOD02124	BIBC_BIP17_F04	MS1600	Staphylinidae	Paederinae	PB	Poring	FIT2		Malaysia
+BIOD00258	BIBC_BIP27_G01	MS2571	Staphylinidae	Staphylininae	PD	Poring	FIT2		Malaysia
+BIOD02762	BIBC_BIP10_A01	MS865	Leiodidae	Leiodinae	PD	Poring	BEATING		Malaysia
+BIOD02763	BIBC_BIP23_A12	MS2126	Staphylinidae		PA	Poring	FIT1		Malaysia
+BIOD02764	BIBC_BIP23_B01	MS2127	Staphylinidae	Scaphidiinae	PA	Poring	FIT1		Malaysia
+BIOD02767	BIBC_BIP02_D08	MS140	Staphylinidae	Aleocharinae	PC	Poring	MALAISE		Malaysia
+BIOD02770	BIBC_BIP26_H03	MS2489	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02773	BIBC_BIP27_C05	MS2527	Staphylinidae	Pselaphinae	PC	Poring	FIT1		Malaysia
+BIOD02774	BIBC_BIP27_D01	MS2535	Leiodidae		PC	Poring	FIT1		Malaysia
+BIOD02775	BIBC_BIP19_G08	MS1808	Ptiliidae		PB	Poring	FIT2		Malaysia
+BIOD02777	BIBC_BIP29_A05	MS2695	Staphylinidae	Proteininae	PD	Poring	FIT2		Malaysia
+BIOD02778	BIBC_BIP29_C06	MS2720	Leiodidae		PD	Poring	FIT2		Malaysia
+BIOD02779	BIBC_BIP29_C09	MS2723	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD02780	BIBC_BIP14_A11	MS1259	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD02806	BIBC_SOP1_B02	Aleoch3	Staphylinidae	Aleocharinae		Danum Valley			Malaysia
+BIOD02869	BIBC_BIP05_F12	MS456	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD02872	BIBC_BIP10_A12	MS876	Staphylinidae		PD	Poring	BEATING		Malaysia
+BIOD02877	BIBC_BIP19_F02	MS1790	Staphylinidae	Pselaphinae	PB	Poring	FIT2		Malaysia
+BIOD02884	BIBC_BIP14_F08	MS1316	Staphylinidae	Oxytelinae	PA	Poring	WINKLER		Malaysia
+BIOD02885	BIBC_BIP14_G01	MS1321	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD02887	BIBC_BIP12_B01	MS1069	Staphylinidae		PB	Poring	WINKLER		Malaysia
+BIOD02888	BIBC_BIP12_E12	MS1116	Leiodidae	Leiodinae	PC	Poring	WINKLER		Malaysia
+BIOD02909	BIBC_SOP1_G08	Paed10	Staphylinidae	Paederinae		Danum Valley			Malaysia
+BIOD02973	BIBC_BIP23_B08	MS2134	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD02974	BIBC_BIP25_A01	MS2307	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD02978	BIBC_BIP17_A12	MS1548	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD02979	BIBC_BIP17_B02	MS1550	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD02981	BIBC_BIP19_D01	MS1765	Leiodidae		PB	Poring	FIT2		Malaysia
+BIOD02982	BIBC_BIP19_G10	MS1810	Staphylinidae	Pselaphinae	PB	Poring	FIT2		Malaysia
+BIOD02991	BIBC_BIP12_A11	MS1067	Staphylinidae	Aleocharinae	PB	Poring	WINKLER		Malaysia
+BIOD02992	BIBC_BIP12_E02	MS1106	Staphylinidae	Pselaphinae	PC	Poring	WINKLER		Malaysia
+BIOD03057	BIBC_BIP06_H08	MS572	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD03058	BIBC_BIP21_F07	MS1988	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD03060	BIBC_BIP23_A08	MS2122	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD03062	BIBC_BIP21_E02	MS1971	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD03064	BIBC_BIP26_E10	MS2460	Staphylinidae	Pselaphinae	PC	Poring	FIT1		Malaysia
+BIOD03066	BIBC_BIP27_C09	MS2531	Staphylinidae	Pselaphinae	PC	Poring	FIT1		Malaysia
+BIOD03071	BIBC_BIP19_E11	MS1787	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD03072	BIBC_BIP19_F05	MS1793	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD03075	BIBC_BIP28_H08	MS2686	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD03076	BIBC_BIP29_A04	MS2694	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD03078	BIBC_BIP29_B04	MS2706	Histeridae		PD	Poring	FIT2		Malaysia
+BIOD00625	BIBC_BIP21_B07	MS1940	Staphylinidae	Staphylininae	PA	Poring	FIT1		Malaysia
+BIOD03081	BIBC_BIP11_E07	MS1015	Staphylinidae	Osoriinae	PB	Poring	WINKLER		Malaysia
+BIOD03084	BIBC_BIP13_B03	MS1167	Staphylinidae	Pselaphinae	PD	Poring	WINKLER		Malaysia
+BIOD03110	BIBC_SOP2_H06	Paed23	Staphylinidae	Paederinae		Danum Valley			Malaysia
+BIOD01746	BIBC_BIP12_A10	MS1066	Staphylinidae	Scaphidiinae	PB	Poring	WINKLER		Malaysia
+BIOD00904	BIBC_BIP18_G05	MS1709	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00063	BIBC_BIP13_H11	MS1247	Staphylinidae	Oxytelinae	PA	Poring	WINKLER		Malaysia
+BIOD02676	BIBC_BIP22_B05	MS2034	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD01616	BIBC_BIP18_B07	MS1651	Staphylinidae	Oxytelinae	PB	Poring	FIT2		Malaysia
+BIOD00407	BIBC_BIP25_B12	MS2330	Staphylinidae	Scaphidiinae	PC	Poring	FIT1		Malaysia
+BIOD00368	BIBC_BIP18_F09	MS1701	Staphylinidae	Tachyporinae	PB	Poring	FIT2		Malaysia
+BIOD00910	BIBC_BIP15_C10	MS1378	Staphylinidae	Aleocharinae	PD	Poring	PITFALL		Malaysia
+BIOD01505	BIBC_BIP14_B10	MS1270	Staphylinidae	Scaphidiinae	PA	Poring	WINKLER		Malaysia
+BIOD00432	BIBC_BIP12_C01	MS1081	Staphylinidae	Aleocharinae	PC	Poring	WINKLER		Malaysia
+BIOD02988	BIBC_BIP11_D08	MS1004	Staphylinidae	Pseudopsinae	PB	Poring	WINKLER		Malaysia
+BIOD02437	BIBC_BIP15_D09	MS1389	Staphylinidae	Aleocharinae	PD	Poring	PITFALL		Malaysia
+BIOD00637	BIBC_BIP01_B07	MS19	Staphylinidae	Staphylininae	PB	Poring	MALAISE		Malaysia
+BIOD01035	BIBC_BIP16_D11	MS1487	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01477	BIBC_BIP24_D09	MS2255	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD02586	BIBC_BIP22_D01	MS2054	Staphylinidae	Pseudopsinae	PA	Poring	FIT1		Malaysia
+BIOD01480	BIBC_BIP18_H06	MS1722	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01152	BIBC_BIP19_A04	MS1732	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02113	BIBC_BIP15_E10	MS1402	Staphylinidae	Aleocharinae	PD	Poring	PITFALL		Malaysia
+BIOD02771	BIBC_BIP24_H12	MS2306	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD02682	BIBC_BIP26_G03	MS2477	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD00790	BIBC_BIP05_F11	MS455	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD02521	BIBC_BIP23_B09	MS2135	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD01555	BIBC_BIP26_G12	MS2486	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02886	BIBC_BIP11_F12	MS1032	Staphylinidae	Oxytelinae	PB	Poring	WINKLER		Malaysia
+BIOD00897	BIBC_BIP14_A05	MS1253	Staphylinidae	Scydmaeninae	PA	Poring	WINKLER		Malaysia
+BIOD01520	BIBC_BIP18_F10	MS1702	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00343	BIBC_BIP27_G07	MS2577	Staphylinidae	Staphylininae	PD	Poring	FIT2		Malaysia
+BIOD01115	BIBC_BIP26_C08	MS2434	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD00358	BIBC_BIP16_D09	MS1485	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02016	BIBC_BIP07_G03	MS651	Hydrophilidae		PC	Poring	BEATING		Malaysia
+BIOD01863	BIBC_BIP19_A01	MS1729	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00130	BIBC_BIP21_B02	MS1935	Staphylinidae	Staphylininae	PA	Poring	FIT1		Malaysia
+BIOD02385	BIBC_BIP22_F02	MS2079	Staphylinidae	Oxytelinae	PA	Poring	FIT1		Malaysia
+BIOD02687	BIBC_BIP19_A05	MS1733	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01589	BIBC_BIP22_E02	MS2067	Staphylinidae	Paederinae	PA	Poring	FIT1		Malaysia
+BIOD00550	BIBC_BIP13_D10	MS1198	Staphylinidae	Aleocharinae	PD	Poring	WINKLER		Malaysia
+BIOD00935	BIBC_BIP16_B12	MS1464	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD00849	BIBC_BIP20_D09	MS1869	Ptiliidae		PB	Poring	FIT2		Malaysia
+BIOD01220	BIBC_BIP02_C10	MS130	Staphylinidae	Scaphidiinae	PC	Poring	MALAISE		Malaysia
+BIOD03083	BIBC_BIP12_B04	MS1072	Staphylinidae	Aleocharinae	PB	Poring	WINKLER		Malaysia
+BIOD00559	BIBC_BIP18_A02	MS1634	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00523	BIBC_BIP13_E10	MS1210	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD00093	BIBC_BIP18_D01	MS1669	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00865	BIBC_BIP18_H10	MS1726	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00901	BIBC_BIP16_C04	MS1468	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD00974	BIBC_BIP26_E12	MS2462	Staphylinidae	Scydmaeninae	PC	Poring	FIT1		Malaysia
+BIOD01534	BIBC_BIP14_F01	MS1309	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD03070	BIBC_BIP19_E09	MS1785	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00765	BIBC_BIP02_C09	MS129	Staphylinidae	Aleocharinae	PC	Poring	MALAISE		Malaysia
+BIOD00917	BIBC_BIP14_A04	MS1252	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD02530	BIBC_BIP14_C08	MS1280	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD02588	BIBC_BIP18_B12	MS1656	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00086	BIBC_BIP11_G10	MS1042	Staphylinidae	Aleocharinae	PB	Poring	WINKLER		Malaysia
+BIOD01590	BIBC_BIP28_E03	MS2645	Staphylinidae	Scaphidiinae	PD	Poring	FIT2		Malaysia
+BIOD02364	BIBC_BIP06_H01	MS565	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD01329	BIBC_BIP17_G10	MS1618	Staphylinidae	Oxytelinae	PB	Poring	FIT2		Malaysia
+BIOD00303	BIBC_BIP25_C07	MS2337	Staphylinidae	Paederinae	PC	Poring	FIT1		Malaysia
+BIOD00321	BIBC_BIP28_A03	MS2597	Staphylinidae	Staphylininae	PD	Poring	FIT2		Malaysia
+BIOD02078	BIBC_BIP16_A10	MS1450	Staphylinidae	Staphylininae	PD	Poring	BEATING		Malaysia
+BIOD00141	BIBC_BIP26_E02	MS2452	Staphylinidae	Scaphidiinae	PC	Poring	FIT1		Malaysia
+BIOD00622	BIBC_BIP13_A10	MS1162	Staphylinidae	Aleocharinae	PD	Poring	WINKLER		Malaysia
+BIOD01386	BIBC_BIP16_C06	MS1470	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD01384	BIBC_BIP16_D04	MS1480	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD01917	BIBC_BIP29_H09	MS2783	Staphylinidae	Staphylininae	PB	Poring	FIT1		Malaysia
+BIOD00403	BIBC_BIP21_D09	MS1966	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD02890	BIBC_BIP13_A09	MS1161	Staphylinidae	Oxytelinae	PD	Poring	WINKLER		Malaysia
+BIOD02156	BIBC_BIP12_E09	MS1113	Staphylinidae	Aleocharinae	PC	Poring	WINKLER		Malaysia
+BIOD01108	BIBC_BIP18_C04	MS1660	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01475	BIBC_BIP18_C07	MS1663	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02441	BIBC_BIP18_H12	MS1728	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00083	BIBC_BIP28_A07	MS2601	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD00872	BIBC_BIP26_F02	MS2464	Staphylinidae	Scaphidiinae	PC	Poring	FIT1		Malaysia
+BIOD01032	BIBC_BIP15_A09	MS1353	Staphylinidae	Scaphidiinae	PA	Poring	WINKLER		Malaysia
+BIOD01372	BIBC_BIP24_A09	MS2219	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD01968	BIBC_BIP16_C09	MS1473	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD00088	BIBC_BIP18_A07	MS1639	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01014	BIBC_BIP22_F08	MS2086	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD01818	BIBC_BIP26_F05	MS2467	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD01833	BIBC_BIP14_A01	MS1249	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD01501	BIBC_BIP25_E03	MS2357	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02397	BIBC_BIP20_D08	MS1868	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00927	BIBC_BIP23_G08	MS2194	Staphylinidae	Staphylininae	PC	Poring	FIT1		Malaysia
+BIOD02990	BIBC_BIP11_H05	MS1049	Staphylinidae	Aleocharinae	PB	Poring	WINKLER		Malaysia
+BIOD02589	BIBC_BIP18_G12	MS1716	Staphylinidae	Osoriinae	PB	Poring	FIT2		Malaysia
+BIOD01559	BIBC_BIP15_A12	MS1356	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD01698	BIBC_BIP17_E12	MS1596	Staphylinidae	Paederinae	PB	Poring	FIT2		Malaysia
+BIOD01970	BIBC_BIP16_D05	MS1481	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02268	BIBC_BIP25_C04	MS2334	Staphylinidae	Staphylininae	PC	Poring	FIT1		Malaysia
+BIOD01627	BIBC_BIP25_A12	MS2318	Hydrophilidae		PC	Poring	FIT1		Malaysia
+BIOD01051	BIBC_BIP14_D07	MS1291	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD00547	BIBC_BIP14_E12	MS1308	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD01050	BIBC_BIP25_F06	MS2372	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD01381	BIBC_BIP16_E01	MS1489	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD01708	BIBC_BIP28_B08	MS2614	Staphylinidae	Megalopsidiinae	PD	Poring	FIT2		Malaysia
+BIOD02170	BIBC_BIP11_D03	MS999	Staphylinidae	Scaphidiinae	PB	Poring	WINKLER		Malaysia
+BIOD02017	BIBC_BIP27_C04	MS2526	Staphylinidae	Scydmaeninae	PC	Poring	FIT1		Malaysia
+BIOD02587	BIBC_BIP25_F03	MS2369	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02223	BIBC_BIP15_A05	MS1349	Staphylinidae	Scydmaeninae	PA	Poring	WINKLER		Malaysia
+BIOD01253	BIBC_BIP15_B10	MS1366	Staphylinidae	Aleocharinae	PD	Poring	PITFALL		Malaysia
+BIOD01974	BIBC_BIP28_F07	MS2661	Staphylinidae	Tachyporinae	PD	Poring	FIT2		Malaysia
+BIOD01439	BIBC_BIP18_C10	MS1666	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00049	BIBC_BIP22_C03	MS2044	Staphylinidae	Staphylininae	PA	Poring	FIT1		Malaysia
+BIOD00381	BIBC_BIP27_G09	MS2579	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD00168	BIBC_BIP17_H11	MS1631	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02875	BIBC_BIP19_D06	MS1770	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02353	BIBC_BIP13_G07	MS1231	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD00724	BIBC_BIP27_H03	MS2585	Staphylinidae	Tachyporinae	PD	Poring	FIT2		Malaysia
+BIOD00674	BIBC_BIP08_H02	MS756	Staphylinidae	Aleocharinae	PC	Poring	BEATING		Malaysia
+BIOD00502	BIBC_BIP01_F12	MS72	Staphylinidae	Aleocharinae	PB	Poring	MALAISE		Malaysia
+BIOD00241	BIBC_BIP06_A10	MS490	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD01422	BIBC_BIP28_E12	MS2654	Staphylinidae	Oxytelinae	PD	Poring	FIT2		Malaysia
+BIOD01525	BIBC_BIP28_E11	MS2653	Staphylinidae	Paederinae	PD	Poring	FIT2		Malaysia
+BIOD00779	BIBC_BIP15_C05	MS1373	Staphylinidae	Aleocharinae	PD	Poring	PITFALL		Malaysia
+BIOD02692	BIBC_BIP28_G12	MS2678	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD02677	BIBC_BIP22_G08	MS2098	Staphylinidae	Oxytelinae	PA	Poring	FIT1		Malaysia
+BIOD00926	BIBC_BIP25_D09	MS2351	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD03073	BIBC_BIP19_G04	MS1804	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01563	BIBC_BIP27_H11	MS2593	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD00194	BIBC_BIP14_B11	MS1271	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD02264	BIBC_BIP25_C03	MS2333	Staphylinidae	Staphylininae	PC	Poring	FIT1		Malaysia
+BIOD01058	BIBC_BIP22_C04	MS2045	Staphylinidae	Tachyporinae	PA	Poring	FIT1		Malaysia
+BIOD00165	BIBC_BIP16_E11	MS1499	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD00909	BIBC_BIP16_E10	MS1498	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01116	BIBC_BIP16_D06	MS1482	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01273	BIBC_BIP25_F09	MS2375	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD00235	BIBC_BIP05_F05	MS449	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD00457	BIBC_BIP18_B03	MS1647	Staphylinidae	Staphylininae	PB	Poring	FIT2		Malaysia
+BIOD01388	BIBC_BIP29_E12	MS2750	Staphylinidae	Staphylininae	PB	Poring	FIT1		Malaysia
+BIOD02597	BIBC_BIP12_E05	MS1109	Staphylinidae	Oxytelinae	PC	Poring	WINKLER		Malaysia
+BIOD02069	BIBC_BIP26_C12	MS2438	Staphylinidae	Scaphidiinae	PC	Poring	FIT1		Malaysia
+BIOD02135	BIBC_BIP19_A03	MS1731	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02986	BIBC_BIP14_D01	MS1285	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD00193	BIBC_BIP29_D08	MS2734	Ptiliidae		PD	Poring	FIT2		Malaysia
+BIOD02781	BIBC_BIP14_G03	MS1323	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD00264	BIBC_BIP16_E07	MS1495	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02131	BIBC_BIP09_C01	MS793	Staphylinidae	Scaphidiinae	PC	Poring	BEATING		Malaysia
+BIOD00918	BIBC_BIP28_A04	MS2598	Staphylinidae	Staphylininae	PD	Poring	FIT2		Malaysia
+BIOD00243	BIBC_BIP13_A11	MS1163	Staphylinidae	Aleocharinae	PD	Poring	WINKLER		Malaysia
+BIOD01015	BIBC_BIP24_A11	MS2221	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD01352	BIBC_BIP26_C10	MS2436	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD00856	BIBC_BIP16_E12	MS1500	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02216	BIBC_BIP21_B05	MS1938	Staphylinidae	Staphylininae	PA	Poring	FIT1		Malaysia
+BIOD02976	BIBC_SOP1_B11	Tach5	Staphylinidae	Tachyporinae		Danum Valley			Malaysia
+BIOD01599	BIBC_BIP13_A12	MS1164	Staphylinidae	Tachyporinae	PD	Poring	WINKLER		Malaysia
+BIOD00065	BIBC_BIP06_F12	MS552	Staphylinidae	Scaphidiinae	PA	Poring	BEATING		Malaysia
+BIOD00169	BIBC_BIP28_C02	MS2620	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD01719	BIBC_BIP05_F08	MS452	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD00565	BIBC_BIP13_B04	MS1168	Staphylinidae	Aleocharinae	PD	Poring	WINKLER		Malaysia
+BIOD00136	BIBC_BIP22_F09	MS2087	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD01859	BIBC_BIP17_F06	MS1602	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00791	BIBC_BIP26_F03	MS2465	Staphylinidae	Scaphidiinae	PC	Poring	FIT1		Malaysia
+BIOD00973	BIBC_BIP13_A05	MS1157	Staphylinidae	Paederinae	PD	Poring	WINKLER		Malaysia
+BIOD03065	BIBC_BIP26_H02	MS2488	Staphylinidae	Proteininae	PC	Poring	FIT1		Malaysia
+BIOD01961	BIBC_BIP23_H01	MS2199	Staphylinidae	Staphylininae	PC	Poring	FIT1		Malaysia
+BIOD00920	BIBC_BIP28_H06	MS2684	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD02194	BIBC_BIP28_D11	MS2641	Staphylinidae	Megalopsidiinae	PD	Poring	FIT2		Malaysia
+BIOD00157	BIBC_BIP12_B12	MS1080	Staphylinidae	Paederinae	PC	Poring	WINKLER		Malaysia
+BIOD01957	BIBC_BIP27_H08	MS2590	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD01775	BIBC_BIP25_E04	MS2358	Staphylinidae	Pselaphinae	PC	Poring	FIT1		Malaysia
+BIOD02473	BIBC_BIP14_C09	MS1281	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD02977	BIBC_BIP25_F02	MS2368	Staphylinidae	Staphylininae	PC	Poring	FIT1		Malaysia
+BIOD01966	BIBC_BIP23_H04	MS2202	Staphylinidae	Megalopsidiinae	PC	Poring	FIT1		Malaysia
+BIOD02871	BIBC_BIP03_G11	MS275	Staphylinidae	Aleocharinae	PB	Poring	BEATING		Malaysia
+BIOD00252	BIBC_BIP25_H03	MS2393	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02808	BIBC_SOP2_B11	Staph5	Staphylinidae	Stapylininae		Danum Valley			Malaysia
+BIOD02352	BIBC_BIP17_G07	MS1615	Staphylinidae	Paederinae	PB	Poring	FIT2		Malaysia
+BIOD01089	BIBC_BIP21_C02	MS1947	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD00807	BIBC_BIP05_F07	MS451	Staphylinidae	Aleocharinae	PA	Poring	BEATING		Malaysia
+BIOD01527	BIBC_BIP17_G02	MS1610	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01850	BIBC_BIP17_F06	MS1602	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02697	BIBC_BIP14_A07	MS1255	Staphylinidae	Scaphidiinae	PA	Poring	WINKLER		Malaysia
+BIOD02421	BIBC_BIP12_A12	MS1068	Staphylinidae	Osoriinae	PB	Poring	WINKLER		Malaysia
+BIOD00511	BIBC_BIP28_H05	MS2683	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD01114	BIBC_BIP17_F02	MS1598	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01427	BIBC_BIP22_H01	MS2103	Staphylinidae	Proteininae	PA	Poring	FIT1		Malaysia
+BIOD00261	BIBC_BIP19_H10	MS1822	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02339	BIBC_BIP01_G12	MS84	Staphylinidae	Aleocharinae	PB	Poring	MALAISE		Malaysia
+BIOD00804	BIBC_BIP26_G11	MS2485	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD00233	BIBC_BIP24_B04	MS2226	Staphylinidae	Megalopsidiinae	PC	Poring	FIT1		Malaysia
+BIOD02386	BIBC_BIP28_H09	MS2687	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD02598	BIBC_BIP12_F11	MS1127	Staphylinidae	Pselaphinae	PC	Poring	WINKLER		Malaysia
+BIOD02048	BIBC_BIP28_F04	MS2658	Staphylinidae	Tachyporinae	PD	Poring	FIT2		Malaysia
+BIOD01870	BIBC_BIP13_F05	MS1217	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD01674	BIBC_BIP13_F07	MS1219	Staphylinidae	Osoriinae	PA	Poring	WINKLER		Malaysia
+BIOD00633	BIBC_BIP11_C09	MS993	Staphylinidae	Paederinae	PB	Poring	WINKLER		Malaysia
+BIOD01363	BIBC_BIP23_E12	MS2174	Staphylinidae	Staphylininae	PC	Poring	FIT1		Malaysia
+BIOD01348	BIBC_BIP28_B05	MS2611	Staphylinidae	Tachyporinae	PD	Poring	FIT2		Malaysia
+BIOD02173	BIBC_BIP10_B02	MS878	Staphylinidae	Aleocharinae	PD	Poring	BEATING		Malaysia
+BIOD02685	BIBC_BIP17_G12	MS1620	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02972	BIBC_BIP23_B03	MS2129	Staphylinidae	Pselaphinae	PA	Poring	FIT1		Malaysia
+BIOD01860	BIBC_BIP28_C01	MS2619	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD02989	BIBC_BIP11_E02	MS1010	Staphylinidae	Osoriinae	PB	Poring	WINKLER		Malaysia
+BIOD00919	BIBC_BIP17_C02	MS1562	Hydrophilidae		PB	Poring	FIT2		Malaysia
+BIOD02985	BIBC_BIP14_C10	MS1282	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD02486	BIBC_SOP1_B01	Osor12	Staphylinidae	Osoriinae		Danum Valley			Malaysia
+BIOD02873	BIBC_BIP14_G08	MS1328	Staphylinidae	Paederinae	PA	Poring	WINKLER		Malaysia
+BIOD03074	BIBC_BIP12_A05	MS1061	Staphylinidae	Pselaphinae	PB	Poring	WINKLER		Malaysia
+BIOD02471	BIBC_BIP19_D09	MS1773	Staphylinidae		PB	Poring	FIT2		Malaysia
+BIOD01874	BIBC_BIP18_H11	MS1727	Staphylinidae	Pselaphinae	PB	Poring	FIT2		Malaysia
+BIOD00247	BIBC_BIP08_F12	MS744	Staphylinidae	Paederinae	PC	Poring	BEATING		Malaysia
+BIOD02993	BIBC_BIP12_F08	MS1124	Staphylinidae	Pselaphinae	PC	Poring	WINKLER		Malaysia
+BIOD00982	BIBC_BIP09_F10	MS838	Staphylinidae	Paederinae	PD	Poring	BEATING		Malaysia
+BIOD02474	BIBC_BIP11_D11	MS1007	Staphylinidae	Paederinae	PB	Poring	WINKLER		Malaysia
+BIOD00473	BIBC_BIP18_A01	MS1633	Staphylinidae	Osoriinae	PB	Poring	FIT2		Malaysia
+BIOD02444	BIBC_BIP09_A03	MS771	Staphylinidae	Pselaphinae	PC	Poring	BEATING		Malaysia
+BIOD01778	BIBC_BIP18_A12	MS1644	Staphylinidae	Megalopsidiinae	PB	Poring	FIT2		Malaysia
+BIOD00131	BIBC_BIP24_A12	MS2222	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02719	BIBC_SOP1_F07	Tach7	Staphylinidae	Tachyporinae		Danum Valley			Malaysia
+BIOD02453	BIBC_BIP23_B02	MS2128	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD02012	BIBC_BIP28_E06	MS2648	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD00002	BIBC_BIP13_E09	MS1209	Histeridae		PA	Poring	WINKLER		Malaysia
+BIOD00017	BIBC_BIP12_C11	MS1091	Histeridae		PC	Poring	WINKLER		Malaysia
+BIOD00052	BIBC_SOP1_C12	Osor7	Staphylinidae	Osoriinae		Danum Valley			Malaysia
+BIOD00059	BIBC_BIP17_G11	MS1619	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD00074	BIBC_BIP18_H07	MS1723	Staphylinidae	Proteinae	PB	Poring	FIT2		Malaysia
+BIOD00079	BIBC_BIP25_H10	MS2400	Leiodidae	Cholevinae	PC	Poring	FIT1		Malaysia
+BIOD00090	BIBC_BIP17_E06	MS1590	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD00110	BIBC_BIP22_H10	MS2112	Leiodidae		PA	Poring	FIT1		Malaysia
+BIOD00120	BIBC_BIP18_E12	MS1692	Leiodidae	Leiodinae	PB	Poring	FIT2		Malaysia
+BIOD00151	BIBC_BIP22_B07	MS2036	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD00154	BIBC_BIP19_H08	MS1820	Staphylinidae	Pselaphinae	PB	Poring	FIT2		Malaysia
+BIOD00159	BIBC_BIP24_E10	MS2268	Leiodidae		PC	Poring	FIT1		Malaysia
+BIOD00162	BIBC_BIP25_C09	MS2339	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD00181	BIBC_BIP17_C04	MS1564	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD00184	BIBC_BIP16_B04	MS1456	Staphylinidae	Tachyporinae	PD	Poring	BEATING		Malaysia
+BIOD00191	BIBC_BIP24_C02	MS2236	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD00228	BIBC_BIP25_H02	MS2392	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD00234	BIBC_BIP26_G10	MS2484	Staphylinidae	Proteininae	PC	Poring	FIT1		Malaysia
+BIOD00296	BIBC_BIP22_D04	MS2057	Staphylinidae	Paederinae	PA	Poring	FIT1		Malaysia
+BIOD00301	BIBC_BIP29_A01	MS2691	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD00334	BIBC_BIP27_H04	MS2586	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD00351	BIBC_BIP13_E07	MS1207	Staphylinidae	Paederinae	PA	Poring	WINKLER		Malaysia
+BIOD00398	BIBC_BIP13_F09	MS1221	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD00402	BIBC_BIP21_C12	MS1957	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD00449	BIBC_BIP11_H02	MS1046	Hydrophilidae		PB	Poring	WINKLER		Malaysia
+BIOD00470	BIBC_BIP25_C11	MS2341	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD00486	BIBC_BIP03_H01	MS277	Staphylinidae	Pselaphinae	PB	Poring	BEATING		Malaysia
+BIOD00515	BIBC_BIP13_H12	MS1248	Staphylinidae	Osoriinae	PA	Poring	WINKLER		Malaysia
+BIOD00519	BIBC_BIP15_D03	MS1383	Ptiliidae		PD	Poring	PITFALL		Malaysia
+BIOD00529	BIBC_BIP10_A07	MS871	Staphylinidae	Staphylininae	PD	Poring	BEATING		Malaysia
+BIOD00532	BIBC_BIP28_A10	MS2604	Staphylinidae	Tachyporinae	PD	Poring	FIT2		Malaysia
+BIOD00539	BIBC_BIP13_G08	MS1232	Staphylinidae	Paederinae	PA	Poring	WINKLER		Malaysia
+BIOD00540	BIBC_BIP13_D05	MS1193	Staphylinidae	Pselaphinae	PD	Poring	WINKLER		Malaysia
+BIOD00542	BIBC_BIP09_A05	MS773	Staphylinidae	Tachyporinae	PC	Poring	BEATING		Malaysia
+BIOD00556	BIBC_BIP11_D01	MS997	Staphylinidae	Scaphidiinae	PB	Poring	WINKLER		Malaysia
+BIOD00579	BIBC_BIP21_B03	MS1936	Staphylinidae	Staphylininae	PA	Poring	FIT1		Malaysia
+BIOD00621	BIBC_BIP13_A03	MS1155	Staphylinidae	Paederinae	PD	Poring	WINKLER		Malaysia
+BIOD00648	BIBC_BIP25_H01	MS2391	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD00650	BIBC_BIP01_E01	MS49	Staphylinidae	Scaphidiinae	PB	Poring	MALAISE		Malaysia
+BIOD00654	BIBC_BIP12_D06	MS1098	Staphylinidae	Aleocharinae	PC	Poring	WINKLER		Malaysia
+BIOD00656	BIBC_BIP25_H05	MS2395	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD00675	BIBC_BIP09_F11	MS839	Staphylinidae	Scaphidiinae	PD	Poring	BEATING		Malaysia
+BIOD00789	BIBC_BIP27_C08	MS2530	Staphylinidae	Pselaphinae	PC	Poring	FIT1		Malaysia
+BIOD00802	BIBC_BIP19_H03	MS1815	Leiodidae		PB	Poring	FIT2		Malaysia
+BIOD00820	BIBC_BIP12_C09	MS1089	Histeridae		PC	Poring	WINKLER		Malaysia
+BIOD00823	BIBC_BIP12_B03	MS1071	Staphylinidae	Pselaphinae	PB	Poring	WINKLER		Malaysia
+BIOD00828	BIBC_BIP12_H04	MS1144	Hydrophilidae	Sphaeridiinae	PC	Poring	WINKLER		Malaysia
+BIOD00836	BIBC_BIP05_H08	MS476	Staphylinidae	Paederinae	PA	Poring	BEATING		Malaysia
+BIOD00841	BIBC_BIP06_H06	MS570	Staphylinidae	Pselaphinae	PA	Poring	BEATING		Malaysia
+BIOD00842	BIBC_BIP15_A06	MS1350	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD00878	BIBC_BIP14_A12	MS1260	Leiodidae	Leiodinae	PA	Poring	WINKLER		Malaysia
+BIOD00879	BIBC_BIP15_C04	MS1372	Hydrophilidae	Sphaeridiinae	PD	Poring	PITFALL		Malaysia
+BIOD00892	BIBC_BIP22_C06	MS2047	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD00893	BIBC_BIP14_D08	MS1292	Staphylinidae	Scaphidiinae	PA	Poring	WINKLER		Malaysia
+BIOD00895	BIBC_BIP13_E08	MS1208	Staphylinidae	Osoriinae	PA	Poring	WINKLER		Malaysia
+BIOD00923	BIBC_BIP26_A05	MS2407	Leiodidae	Cholevinae	PC	Poring	FIT1		Malaysia
+BIOD00956	BIBC_BIP21_D10	MS1967	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD00963	BIBC_BIP17_A04	MS1540	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD00990	BIBC_BIP26_D03	MS2441	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD01003	BIBC_BIP17_C05	MS1565	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD01033	BIBC_BIP29_D09	MS2735	Ptiliidae		PD	Poring	FIT2		Malaysia
+BIOD01037	BIBC_BIP17_H07	MS1627	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01052	BIBC_BIP26_F12	MS2474	Staphylinidae	Scaphidiinae	PC	Poring	FIT1		Malaysia
+BIOD01054	BIBC_BIP20_D05	MS1865	Staphylinidae	Pselaphinae	PB	Poring	FIT2		Malaysia
+BIOD01059	BIBC_BIP27_F01	MS2559	Histeridae		PD	Poring	FIT2		Malaysia
+BIOD01064	BIBC_BIP11_F04	MS1024	Staphylinidae	Pselaphinae	PB	Poring	WINKLER		Malaysia
+BIOD01070	BIBC_BIP25_E06	MS2360	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD01113	BIBC_BIP18_G03	MS1707	Staphylinidae	Scaphidiinae	PB	Poring	FIT2		Malaysia
+BIOD01117	BIBC_BIP13_C04	MS1180	Staphylinidae	Tachyporinae	PD	Poring	WINKLER		Malaysia
+BIOD01118	BIBC_BIP20_B09	MS1845	Hydrophilidae		PB	Poring	FIT2		Malaysia
+BIOD01144	BIBC_BIP28_B04	MS2610	Histeridae		PD	Poring	FIT2		Malaysia
+BIOD01162	BIBC_BIP04_E06	MS342	Histeridae		PA	Poring	BEATING		Malaysia
+BIOD01163	BIBC_BIP22_C10	MS2051	Staphylinidae	Scaphidiinae	PA	Poring	FIT1		Malaysia
+BIOD01201	BIBC_BIP25_F12	MS2378	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD01227	BIBC_BIP22_C05	MS2046	Staphylinidae	Tachyporinae	PA	Poring	FIT1		Malaysia
+BIOD01229	BIBC_BIP17_F11	MS1607	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01249	BIBC_BIP13_G12	MS1236	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD01278	BIBC_BIP26_F04	MS2466	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD01279	BIBC_BIP29_B06	MS2708	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD01285	BIBC_BIP29_B07	MS2709	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD01288	BIBC_BIP14_D12	MS1296	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD01302	BIBC_BIP11_E08	MS1016	Staphylinidae	Paederinae	PB	Poring	WINKLER		Malaysia
+BIOD01307	BIBC_BIP19_C10	MS1762	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD01341	BIBC_BIP29_E09	MS2747	Staphylinidae	Staphylininae	PB	Poring	FIT1		Malaysia
+BIOD01343	BIBC_BIP13_D04	MS1192	Staphylinidae	Aleocharinae	PD	Poring	WINKLER		Malaysia
+BIOD01354	BIBC_BIP25_B09	MS2327	Staphylinidae	Paederinae	PC	Poring	FIT1		Malaysia
+BIOD01370	BIBC_BIP26_B12	MS2426	Leiodidae		PC	Poring	FIT1		Malaysia
+BIOD01411	BIBC_BIP24_B11	MS2233	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD01416	BIBC_BIP26_B04	MS2418	Leiodidae	Cholevinae	PC	Poring	FIT1		Malaysia
+BIOD01423	BIBC_BIP24_G02	MS2284	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD01425	BIBC_BIP14_H08	MS1340	Leiodidae		PA	Poring	WINKLER		Malaysia
+BIOD01437	BIBC_BIP27_D06	MS2540	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD01444	BIBC_BIP19_B06	MS1746	Leiodidae	Leiodinae	PB	Poring	FIT2		Malaysia
+BIOD01452	BIBC_BIP19_C04	MS1756	Leiodidae		PB	Poring	FIT2		Malaysia
+BIOD01491	BIBC_BIP23_A02	MS2116	Staphylinidae	Pselaphinae	PA	Poring	FIT1		Malaysia
+BIOD01496	BIBC_BIP10_A08	MS872	Staphylinidae	Staphylininae	PD	Poring	BEATING		Malaysia
+BIOD01521	BIBC_BIP17_C08	MS1568	Hydrophilidae	Sphaeridiinae	PB	Poring	FIT2		Malaysia
+BIOD01528	BIBC_BIP23_A06	MS2120	Hydrophilidae		PA	Poring	FIT1		Malaysia
+BIOD01530	BIBC_BIP12_G04	MS1132	Leiodidae		PC	Poring	WINKLER		Malaysia
+BIOD01533	BIBC_BIP11_E05	MS1013	Staphylinidae	Paederinae	PB	Poring	WINKLER		Malaysia
+BIOD01577	BIBC_BIP28_D12	MS2642	Leiodidae		PD	Poring	FIT2		Malaysia
+BIOD01594	BIBC_BIP12_F04	MS1120	Hydrophilidae	Sphaeridiinae	PC	Poring	WINKLER		Malaysia
+BIOD01597	BIBC_BIP29_B08	MS2710	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD01600	BIBC_BIP13_H01	MS1237	Staphylinidae	Aleocharinae	PA	Poring	WINKLER		Malaysia
+BIOD01605	BIBC_BIP06_B03	MS495	Staphylinidae	Scaphidiinae	PA	Poring	BEATING		Malaysia
+BIOD01621	BIBC_BIP07_G07	MS655	Histeridae		PC	Poring	BEATING		Malaysia
+BIOD01632	BIBC_BIP28_F09	MS2663	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD00164	BIBC_BIP22_B04	MS2033	Staphylinidae	Staphylininae	PA	Poring	FIT1		Malaysia
+BIOD01649	BIBC_BIP26_E01	MS2451	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD01657	BIBC_BIP07_H06	MS666	Histeridae		PC	Poring	BEATING		Malaysia
+BIOD01678	BIBC_BIP21_F08	MS1989	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD01692	BIBC_BIP18_F01	MS1693	Staphylinidae	Tachyporinae	PB	Poring	FIT2		Malaysia
+BIOD01706	BIBC_BIP10_H09	MS957	Staphylinidae	Aleocharinae	PD	Poring	BEATING		Malaysia
+BIOD01721	BIBC_BIP12_H02	MS1142	Staphylinidae	Pselaphinae	PC	Poring	WINKLER		Malaysia
+BIOD01780	BIBC_BIP15_A01	MS1345	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD01783	BIBC_BIP13_G09	MS1233	Staphylinidae	Paederinae	PA	Poring	WINKLER		Malaysia
+BIOD01814	BIBC_BIP12_E08	MS1112	Leiodidae	Leiodinae	PC	Poring	WINKLER		Malaysia
+BIOD01828	BIBC_BIP25_C08	MS2338	Staphylinidae	Oxytelinae	PC	Poring	FIT1		Malaysia
+BIOD01630	BIBC_BIP26_C11	MS2437	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD01838	BIBC_BIP22_E10	MS2075	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD01846	BIBC_BIP19_D05	MS1769	Leiodidae		PB	Poring	FIT2		Malaysia
+BIOD01865	BIBC_BIP26_B08	MS2422	Leiodidae		PC	Poring	FIT1		Malaysia
+BIOD01871	BIBC_BIP23_F04	MS2178	Staphylinidae	Staphylininae	PC	Poring	FIT1		Malaysia
+BIOD01878	BIBC_BIP19_E10	MS1786	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD01929	BIBC_BIP17_E07	MS1591	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD01945	BIBC_BIP20_B12	MS1848	Staphylinidae	Pselaphinae	PB	Poring	FIT2		Malaysia
+BIOD01973	BIBC_BIP08_A01	MS673	Histeridae		PC	Poring	BEATING		Malaysia
+BIOD01980	BIBC_BIP26_D05	MS2443	Hydrophilidae		PC	Poring	FIT1		Malaysia
+BIOD02020	BIBC_BIP26_D01	MS2439	Staphylinidae	Scaphidiinae	PC	Poring	FIT1		Malaysia
+BIOD02024	BIBC_BIP17_F03	MS1599	Staphylinidae	Tachyporinae	PB	Poring	FIT2		Malaysia
+BIOD02071	BIBC_BIP17_E01	MS1585	Histeridae		PB	Poring	FIT2		Malaysia
+BIOD02075	BIBC_BIP17_B08	MS1556	Staphylinidae	Scaphidiinae	PB	Poring	FIT2		Malaysia
+BIOD02097	BIBC_BIP25_C10	MS2340	Staphylinidae	Tachyporinae	PC	Poring	FIT1		Malaysia
+BIOD02105	BIBC_BIP29_H11	MS2785	Staphylinidae	Scaphidiinae	PB	Poring	FIT1		Malaysia
+BIOD02129	BIBC_BIP11_A10	MS970	Hydrophilidae	Sphaeridiinae	PD	Poring	BEATING		Malaysia
+BIOD02134	BIBC_BIP11_H09	MS1053	Staphylinidae	Aleocharinae	PB	Poring	WINKLER		Malaysia
+BIOD02148	BIBC_BIP28_C08	MS2626	Histeridae		PD	Poring	FIT2		Malaysia
+BIOD02152	BIBC_BIP22_A12	MS2029	Hydrophilidae		PA	Poring	FIT1		Malaysia
+BIOD02155	BIBC_BIP22_G07	MS2097	Staphylinidae	Scaphidiinae	PA	Poring	FIT1		Malaysia
+BIOD02174	BIBC_BIP23_A04	MS2118	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD02180	BIBC_BIP26_G09	MS2483	Staphylinidae	Oxytelinae	PC	Poring	FIT1		Malaysia
+BIOD02183	BIBC_BIP19_B11	MS1751	Hydrophilidae		PB	Poring	FIT2		Malaysia
+BIOD02240	BIBC_BIP27_B04	MS2514	Staphylinidae		PC	Poring	FIT1		Malaysia
+BIOD02278	BIBC_BIP22_C11	MS2052	Staphylinidae	Staphylininae	PA	Poring	FIT1		Malaysia
+BIOD02307	BIBC_BIP14_E01	MS1297	Staphylinidae	Osoriinae	PA	Poring	WINKLER		Malaysia
+BIOD02314	BIBC_BIP15_F09	MS1413	Staphylinidae	Scaphidiinae	PD	Poring	BEATING		Malaysia
+BIOD02349	BIBC_BIP11_G05	MS1037	Staphylinidae	Osoriinae	PB	Poring	WINKLER		Malaysia
+BIOD02383	BIBC_SOP2_F10	Tach1	Staphylinidae	Tachyporinae		Danum Valley			Malaysia
+BIOD02392	BIBC_BIP29_B12	MS2714	Staphylinidae	Aleocharinae	PD	Poring	FIT2		Malaysia
+BIOD02402	BIBC_BIP13_G04	MS1228	Staphylinidae	Staphylininae	PA	Poring	WINKLER		Malaysia
+BIOD02413	BIBC_BIP20_C07	MS1855	Staphylinidae	Scydmaeninae	PB	Poring	FIT2		Malaysia
+BIOD02415	BIBC_BIP19_G09	MS1809	Ptiliidae		PB	Poring	FIT2		Malaysia
+BIOD02427	BIBC_BIP27_C01	MS2523	Staphylinidae		PC	Poring	FIT1		Malaysia
+BIOD02468	BIBC_BIP22_H11	MS2113	Leiodidae		PA	Poring	FIT1		Malaysia
+BIOD02469	BIBC_BIP23_B06	MS2132	Staphylinidae	Scaphidiinae	PA	Poring	FIT1		Malaysia
+BIOD02470	BIBC_BIP29_B01	MS2703	Leiodidae		PD	Poring	FIT2		Malaysia
+BIOD02472	BIBC_BIP29_B02	MS2704	Staphylinidae	Pselaphinae	PD	Poring	FIT2		Malaysia
+BIOD02487	BIBC_SOP1_B09	Paed3	Staphylinidae	Paederinae		Danum Valley			Malaysia
+BIOD02489	BIBC_SOP2_D04	Oxyt13	Staphylinidae	Oxytelinae		Danum Valley			Malaysia
+BIOD00521	BIBC_BIP25_D11	MS2353	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02517	BIBC_BIP09_B12	MS792	Staphylinidae	Paederinae	PC	Poring	BEATING		Malaysia
+BIOD02519	BIBC_BIP17_H12	MS1632	Staphylinidae	Paederinae	PB	Poring	FIT2		Malaysia
+BIOD02523	BIBC_BIP27_C03	MS2525	Staphylinidae	Scydmaeninae	PC	Poring	FIT1		Malaysia
+BIOD02525	BIBC_BIP28_G11	MS2677	Staphylinidae	Proteininae	PD	Poring	FIT2		Malaysia
+BIOD02526	BIBC_BIP29_C05	MS2719	Staphylinidae	Pselaphinae	PD	Poring	FIT2		Malaysia
+BIOD02527	BIBC_BIP29_D06	MS2732	Ptiliidae		PD	Poring	FIT2		Malaysia
+BIOD02531	BIBC_BIP14_D03	MS1287	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD02542	BIBC_SOP1_C09	Georges1	Georissidae			Danum Valley			Malaysia
+BIOD02543	BIBC_SOP1_H07	Oxyt5	Staphylinidae	Oxytelinae		Danum Valley			Malaysia
+BIOD02585	BIBC_BIP21_C07	MS1952	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD02590	BIBC_BIP20_A02	MS1826	Leiodidae	Cholevinae	PB	Poring	FIT2		Malaysia
+BIOD02591	BIBC_BIP14_B03	MS1263	Staphylinidae	Oxytelinae	PA	Poring	WINKLER		Malaysia
+BIOD02592	BIBC_BIP14_G09	MS1329	Staphylinidae	Pselaphinae	PA	Poring	WINKLER		Malaysia
+BIOD02594	BIBC_BIP12_A01	MS1057	Staphylinidae	Osoriinae	PB	Poring	WINKLER		Malaysia
+BIOD02595	BIBC_BIP12_A03	MS1059	Staphylinidae	Scydmaeninae	PB	Poring	WINKLER		Malaysia
+BIOD02596	BIBC_BIP12_A04	MS1060	Staphylinidae	Pselaphinae	PB	Poring	WINKLER		Malaysia
+BIOD02671	BIBC_BIP03_E05	MS245	Staphylinidae	Paederinae	PB	Poring	BEATING		Malaysia
+BIOD02674	BIBC_BIP23_A04	MS2118	Histeridae		PA	Poring	FIT1		Malaysia
+BIOD02678	BIBC_BIP22_H02	MS2104	Staphylinidae	Aleocharinae	PA	Poring	FIT1		Malaysia
+BIOD02679	BIBC_BIP24_E07	MS2265	Histeridae		PC	Poring	FIT1		Malaysia
+BIOD02681	BIBC_BIP25_G08	MS2386	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02683	BIBC_BIP26_G06	MS2480	Staphylinidae	Aleocharinae	PC	Poring	FIT1		Malaysia
+BIOD02686	BIBC_BIP18_G06	MS1710	Staphylinidae	Paederinae	PB	Poring	FIT2		Malaysia
+BIOD02688	BIBC_BIP19_D10	MS1774	Staphylinidae	Pselaphinae	PB	Poring	FIT2		Malaysia
+BIOD02690	BIBC_BIP19_H02	MS1814	Leiodidae		PB	Poring	FIT2		Malaysia
+BIOD02691	BIBC_BIP20_C08	MS1856	Staphylinidae	Aleocharinae	PB	Poring	FIT2		Malaysia
+BIOD02694	BIBC_BIP29_C08	MS2722	Staphylinidae	Euaesthetinae	PD	Poring	FIT2		Malaysia
+BIOD02698	BIBC_BIP14_H10	MS1342	Staphylinidae	Scaphidiinae	PA	Poring	WINKLER		Malaysia
+BIOD02701	BIBC_BIP13_C01	MS1177	Staphylinidae	Pseudopsinae	PD	Poring	WINKLER		Malaysia
+BIOD02718	BIBC_SOP1_F03	Osor2	Staphylinidae	Osoriinae		Danum Valley			Malaysia

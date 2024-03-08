@@ -1,0 +1,1286 @@
+ASV_withDuplication	Project	project_readfile_id	project_sample_id	sample	Morphpspecies_Image	Image_Family	Image_Subfamily	Edited_subfamily	Site_ID	Site	Collection_method	Collection_year	Country	MMG_match	MMG_similarity	ASV_presence	MMG_presence
+6KP385	6K_project	6K_BIP01_B07	BIBC_BIP01_B07		MS19	Staphylinidae	Staphylininae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD00637	100	#N/A	Y
+6KP129	6K_project	6K_BIP01_D04	BIBC_BIP01_D04		MS40	Staphylinidae	Aleocharinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD09323	99.761	Y	#N/A
+6KP334	6K_project	6K_BIP01_E01	BIBC_BIP01_E01		MS49	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD00650	100	#N/A	Y
+6KP597	6K_project	6K_BIP01_F11	BIBC_BIP01_F11		MS71	Staphylinidae	Oxytelinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD09212	99.761	Y	#N/A
+6KP16	6K_project	6K_BIP01_F12	BIBC_BIP01_F12		MS72	Staphylinidae	Aleocharinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP175	6K_project	6K_BIP01_G12	BIBC_BIP01_G12		MS84	Staphylinidae	Aleocharinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD02339	100	#N/A	Y
+6KP1342	6K_project	6K_BIP01_H02	BIBC_BIP01_H02		MS86	Staphylinidae	Aleocharinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD00674	98.565	Y	Y
+6KP53	6K_project	6K_BIP02_A01	BIBC_BIP02_A01		MS97	Staphylinidae	Aleocharinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP527	6K_project	6K_BIP02_C07	BIBC_BIP02_C07		MS127	Staphylinidae	Aleocharinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD09323	97.129	Y	#N/A
+6KP95	6K_project	6K_BIP02_C09	BIBC_BIP02_C09		MS129	Staphylinidae	Aleocharinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD00765	100	#N/A	Y
+6KP875	6K_project	6K_BIP02_C10	BIBC_BIP02_C10		MS130	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD01220	100	#N/A	Y
+6KP167	6K_project	6K_BIP02_D08	BIBC_BIP02_D08		MS140	Staphylinidae	Aleocharinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD02767	100	#N/A	Y
+6KP896	6K_project	6K_BIP02_A09	BIBC_BIP02_A09		MS105	Staphylinidae	Staphylininae	#N/A	PA	Poring	MALAISE	2013	Malaysia			Y	#N/A
+6KP3149	6K_project	6K_BIP03_E05	BIBC_BIP03_E05		MS245	Staphylinidae	Paederinae	#N/A	PB	Poring	BEATING	2013	Malaysia	BIOD02671	100	#N/A	Y
+6KP1575	6K_project	6K_BIP03_E06	BIBC_BIP03_E06		MS246	Staphylinidae	Aleocharinae	#N/A	PB	Poring	BEATING	2013	Malaysia	BIOD02685	98.325	Y	Y
+6KP535	6K_project	6K_BIP03_G08	BIBC_BIP03_G08		MS272	Staphylinidae	Paederinae	#N/A	PB	Poring	BEATING	2013	Malaysia	BIOD04792	96.172	Y	#N/A
+6KP4351	6K_project	6K_BIP03_G09	BIBC_BIP03_G09		MS273	Staphylinidae	Pselaphinae	#N/A	PB	Poring	BEATING	2013	Malaysia	BIOD02970	100	Y	#N/A
+6KP1415	6K_project	6K_BIP03_G11	BIBC_BIP03_G11		MS275	Staphylinidae	Aleocharinae	#N/A	PB	Poring	BEATING	2013	Malaysia	BIOD02871	100	#N/A	Y
+6KP2834	6K_project	6K_BIP03_H01	BIBC_BIP03_H01		MS277	Staphylinidae	Pselaphinae	#N/A	PB	Poring	BEATING	2013	Malaysia	BIOD00486	100	#N/A	Y
+6KP801	6K_project	6K_BIP03_G12	BIBC_BIP03_G12		MS276	Staphylinidae	Pselaphinae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP628	6K_project	6K_BIP05_F05	BIBC_BIP05_F05		MS449	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD09047	100	Y	#N/A
+6KP16	6K_project	6K_BIP05_F06	BIBC_BIP05_F06		MS450	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP368	6K_project	6K_BIP05_F07	BIBC_BIP05_F07		MS451	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00807	100	#N/A	Y
+6KP2540	6K_project	6K_BIP05_F08	BIBC_BIP05_F08		MS452	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD01719	100	#N/A	Y
+6KP368	6K_project	6K_BIP05_F10	BIBC_BIP05_F10		MS454	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00807	100	#N/A	Y
+6KP979	6K_project	6K_BIP05_F11	BIBC_BIP05_F11		MS455	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00790	100	#N/A	Y
+6KP2056	6K_project	6K_BIP05_F12	BIBC_BIP05_F12		MS456	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02869	100	#N/A	Y
+6KP535	6K_project	6K_BIP05_G01	BIBC_BIP05_G01		MS457	Staphylinidae	Paederinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD04792	96.172	Y	#N/A
+6KP3640	6K_project	6K_BIP05_H08	BIBC_BIP05_H08		MS476	Staphylinidae	Paederinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00836	100	#N/A	Y
+6KP3521	6K_project	6K_BIP05_G02	BIBC_BIP05_G02		MS458	Staphylinidae	Osorinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP2509	6K_project	6K_BIP06_A10	BIBC_BIP06_A10		MS490	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00241	100	#N/A	Y
+6KP1363	6K_project	6K_BIP06_B03	BIBC_BIP06_B03		MS495	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD01605	100	#N/A	Y
+6KP1509	6K_project	6K_BIP06_F06	BIBC_BIP06_F06		MS546	Staphylinidae	Osorinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00448	100	Y	#N/A
+6KP431	6K_project	6K_BIP06_F12	BIBC_BIP06_F12		MS552	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00065	100	#N/A	Y
+6KP1210	6K_project	6K_BIP06_H01	BIBC_BIP06_H01		MS565	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02364	100	#N/A	Y
+6KP643	6K_project	6K_BIP06_H05	BIBC_BIP06_H05		MS569	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02444	100	#N/A	Y
+6KP3821	6K_project	6K_BIP06_H06	BIBC_BIP06_H06		MS570	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00841	100	#N/A	Y
+6KP3499	6K_project	6K_BIP06_H08	BIBC_BIP06_H08		MS572	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD03057	100	#N/A	Y
+6KP2221	6K_project	6K_BIP06_F10	BIBC_BIP06_F10		MS550	Staphylinidae	Tachyporinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP1857	6K_project	6K_BIP06_G11	BIBC_BIP06_G11		MS563	Staphylinidae	Scydmaeninae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP2373	6K_project	6K_BIP06_H02	BIBC_BIP06_H02		MS566	Staphylinidae	Tachyporinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP2467	6K_project	6K_BIP06_H04	BIBC_BIP06_H04		MS568	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP2783	6K_project	6K_BIP06_H09	BIBC_BIP06_H09		MS573	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP1007	6K_project	6K_BIP07_G04	BIBC_BIP07_G04		MS652	Staphylinidae	Tachyporinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00368	99.522	Y	Y
+6KP1181	6K_project	6K_BIP07_G05	BIBC_BIP07_G05		MS653	Staphylinidae	Tachyporinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00368	98.804	Y	Y
+6KP1094	6K_project	6K_BIP07_H04	BIBC_BIP07_H04		MS664	Staphylinidae	Tachyporinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00368	99.522	Y	Y
+6KP699	6K_project	6K_BIP07_H07	BIBC_BIP07_H07		MS667	Staphylinidae	Tachyporinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00368	99.522	Y	Y
+6KP1443	6K_project	6K_BIP08_D11	BIBC_BIP08_D11		MS719	Staphylinidae	Tachyporinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD01348	99.761	Y	Y
+6KP1735	6K_project	6K_BIP08_F12	BIBC_BIP08_F12		MS744	Staphylinidae	Paederinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00247	100	#N/A	Y
+6KP592	6K_project	6K_BIP08_H01	BIBC_BIP08_H01		MS757	Staphylinidae	Aleocharinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00674	100	#N/A	Y
+6KP2241	6K_project	6K_BIP08_H05	BIBC_BIP08_H05		MS761	Staphylinidae	Aleocharinae	#N/A	PC	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP643	6K_project	6K_BIP09_A03	BIBC_BIP09_A03		MS771	Staphylinidae	Pselaphinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD02444	100	#N/A	Y
+6KP535	6K_project	6K_BIP09_A04	BIBC_BIP09_A04		MS772	Staphylinidae	Paederinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD04792	96.172	Y	#N/A
+6KP1681	6K_project	6K_BIP09_A05	BIBC_BIP09_A05		MS773	Staphylinidae	Tachyporinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00542	100	#N/A	Y
+6KP1499	6K_project	6K_BIP09_B11	BIBC_BIP09_B11		MS791	Staphylinidae	Aleocharinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD00241	98.325	Y	Y
+6KP2446	6K_project	6K_BIP09_B12	BIBC_BIP09_B12		MS792	Staphylinidae	Paederinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD02517	100	#N/A	Y
+6KP1087	6K_project	6K_BIP09_C01	BIBC_BIP09_C01		MS793	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	BEATING	2013	Malaysia	BIOD02131	100	#N/A	Y
+6KP2422	6K_project	6K_BIP09_F10	BIBC_BIP09_F10		MS838	Staphylinidae	Paederinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD00982	100	#N/A	Y
+6KP1231	6K_project	6K_BIP09_F11	BIBC_BIP09_F11		MS839	Staphylinidae	Scaphidiinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD00675	100	#N/A	Y
+6KP2002	6K_project	6K_BIP09_F07	BIBC_BIP09_F07		MS835	Staphylinidae	Pselaphinae	#N/A	PD	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP2119	6K_project	6K_BIP10_A07	BIBC_BIP10_A07		MS871	Staphylinidae	Staphylininae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD00529	100	#N/A	Y
+6KP660	6K_project	6K_BIP10_A08	BIBC_BIP10_A08		MS872	Staphylinidae	Staphylininae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD01496	100	#N/A	Y
+6KP660	6K_project	6K_BIP10_A09	BIBC_BIP10_A09		MS873	Staphylinidae	Staphylininae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD01496	100	#N/A	Y
+6KP2701	6K_project	6K_BIP10_A12	BIBC_BIP10_A12		MS876	Staphylinidae		#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD02872	100	#N/A	Y
+6KP1539	6K_project	6K_BIP10_B01	BIBC_BIP10_B01		MS877	Staphylinidae	Aleocharinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD02173	99.522	Y	Y
+6KP2809	6K_project	6K_BIP10_B02	BIBC_BIP10_B02		MS878	Staphylinidae	Aleocharinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD02173	100	#N/A	Y
+6KP1071	6K_project	6K_BIP10_H09	BIBC_BIP10_H09		MS957	Staphylinidae	Aleocharinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD01706	100	#N/A	Y
+6KP2859	6K_project	6K_BIP10_H08	BIBC_BIP10_H08		MS956	Staphylinidae	Aleocharinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD02009	100	Y	#N/A
+6KP3807	6K_project	6K_BIP10_H12	BIBC_BIP10_H12		MS960	Staphylinidae	Scydmaeninae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD02467	96.411	Y	#N/A
+6KP1959	6K_project	6K_BIP11_C09	BIBC_BIP11_C09		MS993	Staphylinidae	Paederinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD07375	100	Y	#N/A
+6KP2546	6K_project	6K_BIP11_D01	BIBC_BIP11_D01		MS997	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD00556	100	#N/A	Y
+6KP1884	6K_project	6K_BIP11_D03	BIBC_BIP11_D03		MS999	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02170	100	#N/A	Y
+6KP2448	6K_project	6K_BIP11_D04	BIBC_BIP11_D04		MS1000	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD01616	99.043	Y	Y
+6KP4102	6K_project	6K_BIP11_D08	BIBC_BIP11_D08		MS1004	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02988	100	#N/A	Y
+6KP2375	6K_project	6K_BIP11_D09	BIBC_BIP11_D09		MS1005	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02597	96.172	Y	Y
+6KP3424	6K_project	6K_BIP11_D11	BIBC_BIP11_D11		MS1007	Staphylinidae	Paederinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02474	100	#N/A	Y
+6KP1898	6K_project	6K_BIP11_D12	BIBC_BIP11_D12		MS1008	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD00141	96.651	Y	Y
+6KP2774	6K_project	6K_BIP11_E02	BIBC_BIP11_E02		MS1010	Staphylinidae	Osorinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02989	100	#N/A	Y
+6KP2448	6K_project	6K_BIP11_E04	BIBC_BIP11_E04		MS1012	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD01616	99.043	Y	Y
+6KP3284	6K_project	6K_BIP11_E05	BIBC_BIP11_E05		MS1013	Staphylinidae	Paederinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD01533	100	#N/A	Y
+6KP9671	6K_project	6K_BIP11_E07	BIBC_BIP11_E07		MS1015	Staphylinidae	Osorinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD03081	100	#N/A	Y
+6KP4157	6K_project	6K_BIP11_E08	BIBC_BIP11_E08		MS1016	Staphylinidae	Paederinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD01302	100	#N/A	Y
+6KP3202	6K_project	6K_BIP11_E12	BIBC_BIP11_E12		MS1020	Staphylinidae	Pseudopsinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02988	99.043	Y	Y
+6KP3869	6K_project	6K_BIP11_F04	BIBC_BIP11_F04		MS1024	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD01064	100	#N/A	Y
+6KP3424	6K_project	6K_BIP11_F05	BIBC_BIP11_F05		MS1025	Staphylinidae	Paederinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02474	100	#N/A	Y
+6KP3339	6K_project	6K_BIP11_F06	BIBC_BIP11_F06		MS1026	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02597	95.694	Y	Y
+6KP2752	6K_project	6K_BIP11_F07	BIBC_BIP11_F07		MS1027	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP3071	6K_project	6K_BIP11_F08	BIBC_BIP11_F08		MS1028	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02677	96.411	Y	Y
+6KP2752	6K_project	6K_BIP11_F09	BIBC_BIP11_F09		MS1029	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP392	6K_project	6K_BIP11_F10	BIBC_BIP11_F10		MS1030	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP392	6K_project	6K_BIP11_F11	BIBC_BIP11_F11		MS1031	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP7110	6K_project	6K_BIP11_F12	BIBC_BIP11_F12		MS1032	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02886	100	#N/A	Y
+6KP392	6K_project	6K_BIP11_G01	BIBC_BIP11_G01		MS1033	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP13258	6K_project	6K_BIP11_G02	BIBC_BIP11_G02		MS1034	Staphylinidae	Osorinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02307	95.933	Y	Y
+6KP721	6K_project	6K_BIP11_G03	BIBC_BIP11_G03		MS1035	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02591	95.933	Y	Y
+6KP843	6K_project	6K_BIP11_G04	BIBC_BIP11_G04		MS1036	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02591	96.172	Y	Y
+6KP4850	6K_project	6K_BIP11_G05	BIBC_BIP11_G05		MS1037	Staphylinidae	Osorinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02349	100	#N/A	Y
+6KP357	6K_project	6K_BIP11_G10	BIBC_BIP11_G10		MS1042	Staphylinidae	Aleocharinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD00086	100	#N/A	Y
+6KP1791	6K_project	6K_BIP11_G12	BIBC_BIP11_G12		MS1044	Staphylinidae	Aleocharinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD01534	100	#N/A	Y
+6KP2122	6K_project	6K_BIP11_H03	BIBC_BIP11_H03		MS1047	Staphylinidae	Aleocharinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD00241	98.804	Y	Y
+6KP3807	6K_project	6K_BIP11_H04	BIBC_BIP11_H04		MS1048	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02467	96.411	Y	#N/A
+6KP3551	6K_project	6K_BIP11_H05	BIBC_BIP11_H05		MS1049	Staphylinidae	Aleocharinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02990	100	#N/A	Y
+6KP3821	6K_project	6K_BIP11_H07	BIBC_BIP11_H07		MS1051	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD00841	100	#N/A	Y
+6KP3192	6K_project	6K_BIP11_H09	BIBC_BIP11_H09		MS1053	Staphylinidae	Aleocharinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02134	100	#N/A	Y
+6KP1931	6K_project	6K_BIP11_C12	BIBC_BIP11_C12		MS996	Staphylinidae	Steninae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP6835	6K_project	6K_BIP11_D02	BIBC_BIP11_D02		MS998	Staphylinidae	Paederinae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP5334	6K_project	6K_BIP11_D05	BIBC_BIP11_D05		MS1001	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3109	6K_project	6K_BIP11_D10	BIBC_BIP11_D10		MS1006	Staphylinidae	Staphylininae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4237	6K_project	6K_BIP11_H06	BIBC_BIP11_H06		MS1050	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4237	6K_project	6K_BIP11_H08	BIBC_BIP11_H08		MS1052	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4318	6K_project	6K_BIP11_H10	BIBC_BIP11_H10		MS1054	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3140	6K_project	6K_BIP12_A01	BIBC_BIP12_A01		MS1057	Staphylinidae	Osorinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02594	100	#N/A	Y
+6KP3110	6K_project	6K_BIP12_A03	BIBC_BIP12_A03		MS1059	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02595	100	#N/A	Y
+6KP4670	6K_project	6K_BIP12_A04	BIBC_BIP12_A04		MS1060	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02596	100	#N/A	Y
+6KP3845	6K_project	6K_BIP12_A05	BIBC_BIP12_A05		MS1061	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD03074	100	#N/A	Y
+6KP4087	6K_project	6K_BIP12_A06	BIBC_BIP12_A06		MS1062	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02598	98.804	Y	Y
+6KP3100	6K_project	6K_BIP12_A07	BIBC_BIP12_A07		MS1063	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02700	99.761	Y	#N/A
+6KP2501	6K_project	6K_BIP12_A10	BIBC_BIP12_A10		MS1066	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD01746	100	#N/A	Y
+6KP4454	6K_project	6K_BIP12_A11	BIBC_BIP12_A11		MS1067	Staphylinidae	Aleocharinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02991	100	#N/A	Y
+6KP1933	6K_project	6K_BIP12_A12	BIBC_BIP12_A12		MS1068	Staphylinidae	Osorinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02421	100	#N/A	Y
+6KP4641	6K_project	6K_BIP12_B01	BIBC_BIP12_B01		MS1069	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02887	100	#N/A	Y
+6KP9985	6K_project	6K_BIP12_B02	BIBC_BIP12_B02		MS1070	Staphylinidae	Oxytelinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD02884	95.694	Y	Y
+6KP4021	6K_project	6K_BIP12_B03	BIBC_BIP12_B03		MS1071	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD00823	100	#N/A	Y
+6KP3726	6K_project	6K_BIP12_B04	BIBC_BIP12_B04		MS1072	Staphylinidae	Aleocharinae	#N/A	PB	Poring	WINKLER	2013	Malaysia	BIOD03083	100	#N/A	Y
+6KP1388	6K_project	6K_BIP12_B08	BIBC_BIP12_B08		MS1076	Staphylinidae	Staphylininae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD01386	99.282	Y	Y
+6KP465	6K_project	6K_BIP12_B12	BIBC_BIP12_B12		MS1080	Staphylinidae	Paederinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD00157	100	#N/A	Y
+6KP3392	6K_project	6K_BIP12_C01	BIBC_BIP12_C01		MS1081	Staphylinidae	Aleocharinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD00432	100	#N/A	Y
+6KP2972	6K_project	6K_BIP12_C05	BIBC_BIP12_C05		MS1085	Staphylinidae	Osorinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02486	97.847	Y	Y
+6KP1985	6K_project	6K_BIP12_C07	BIBC_BIP12_C07		MS1087	Staphylinidae		#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02890	97.368	Y	Y
+6KP1001	6K_project	6K_BIP12_C12	BIBC_BIP12_C12		MS1092	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD01870	99.522	Y	Y
+6KP7337	6K_project	6K_BIP12_D02	BIBC_BIP12_D02		MS1094	Staphylinidae	Paederinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02474	99.761	Y	Y
+6KP2500	6K_project	6K_BIP12_D06	BIBC_BIP12_D06		MS1098	Staphylinidae	Aleocharinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD00654	100	#N/A	Y
+6KP3861	6K_project	6K_BIP12_E02	BIBC_BIP12_E02		MS1106	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02992	100	#N/A	Y
+6KP4042	6K_project	6K_BIP12_E05	BIBC_BIP12_E05		MS1109	Staphylinidae	Oxytelinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02597	100	#N/A	Y
+6KP4060	6K_project	6K_BIP12_E07	BIBC_BIP12_E07		MS1111	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02783	99.043	Y	#N/A
+6KP53	6K_project	6K_BIP12_E09	BIBC_BIP12_E09		MS1113	Staphylinidae	Aleocharinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP3060	6K_project	6K_BIP12_F08	BIBC_BIP12_F08		MS1124	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02993	100	#N/A	Y
+6KP4240	6K_project	6K_BIP12_F09	BIBC_BIP12_F09		MS1125	Staphylinidae	Osorinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02421	99.282	Y	Y
+6KP3633	6K_project	6K_BIP12_F11	BIBC_BIP12_F11		MS1127	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02598	100	#N/A	Y
+6KP1050	6K_project	6K_BIP12_G01	BIBC_BIP12_G01		MS1129	Staphylinidae	Aleocharinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD00565	100	#N/A	Y
+6KP3539	6K_project	6K_BIP12_H02	BIBC_BIP12_H02		MS1142	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD01721	100	#N/A	Y
+6KP2877	6K_project	6K_BIP12_H06	BIBC_BIP12_H06		MS1146	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia	BIOD02985	99.522	Y	Y
+6KP3290	6K_project	6K_BIP12_B05	BIBC_BIP12_B05		MS1073	Staphylinidae	Pselaphinae	#N/A	PB	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP1204	6K_project	6K_BIP12_B11	BIBC_BIP12_B11		MS1079	Staphylinidae	Paederinae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3941	6K_project	6K_BIP12_D04	BIBC_BIP12_D04		MS1096	Staphylinidae	Osorinae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3109	6K_project	6K_BIP12_E04	BIBC_BIP12_E04		MS1108	Staphylinidae	Staphylininae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP2050	6K_project	6K_BIP12_E06	BIBC_BIP12_E06		MS1110	Staphylinidae	Paederinae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP1438	6K_project	6K_BIP12_E10	BIBC_BIP12_E10		MS1114	Staphylinidae	Aleocharinae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3185	6K_project	6K_BIP12_F12	BIBC_BIP12_F12		MS1128	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4356	6K_project	6K_BIP12_G02	BIBC_BIP12_G02		MS1130	Staphylinidae	Pselaphinae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4982	6K_project	6K_BIP12_H05	BIBC_BIP12_H05		MS1145	Staphylinidae	Osorinae	#N/A	PC	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP1395	6K_project	6K_BIP13_A03	BIBC_BIP13_A03		MS1155	Staphylinidae	Paederinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00621	100	#N/A	Y
+6KP2295	6K_project	6K_BIP13_A05	BIBC_BIP13_A05		MS1157	Staphylinidae	Paederinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD09472	100	Y	#N/A
+6KP2678	6K_project	6K_BIP13_A09	BIBC_BIP13_A09		MS1161	Staphylinidae	Oxytelinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD02890	100	#N/A	Y
+6KP2438	6K_project	6K_BIP13_A10	BIBC_BIP13_A10		MS1162	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00622	100	#N/A	Y
+6KP2058	6K_project	6K_BIP13_A11	BIBC_BIP13_A11		MS1163	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00243	100	#N/A	Y
+6KP1196	6K_project	6K_BIP13_A12	BIBC_BIP13_A12		MS1164	Staphylinidae	Tachyporinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD01599	100	#N/A	Y
+6KP2484	6K_project	6K_BIP13_B03	BIBC_BIP13_B03		MS1167	Staphylinidae	Pselaphinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD03084	100	#N/A	Y
+6KP1050	6K_project	6K_BIP13_B04	BIBC_BIP13_B04		MS1168	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00565	100	#N/A	Y
+6KP1050	6K_project	6K_BIP13_B05	BIBC_BIP13_B05		MS1169	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00565	100	#N/A	Y
+6KP1050	6K_project	6K_BIP13_B06	BIBC_BIP13_B06		MS1170	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00565	100	#N/A	Y
+6KP2155	6K_project	6K_BIP13_B12	BIBC_BIP13_B12		MS1176	Staphylinidae	Osorinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD02989	99.522	Y	Y
+6KP3504	6K_project	6K_BIP13_C01	BIBC_BIP13_C01		MS1177	Staphylinidae	Pseudopsinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD02701	100	#N/A	Y
+6KP1527	6K_project	6K_BIP13_C02	BIBC_BIP13_C02		MS1178	Staphylinidae	Megalopsidiinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD02194	99.282	Y	Y
+6KP1538	6K_project	6K_BIP13_C04	BIBC_BIP13_C04		MS1180	Staphylinidae	Tachyporinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD01117	100	#N/A	Y
+6KP935	6K_project	6K_BIP13_D04	BIBC_BIP13_D04		MS1192	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD01343	100	#N/A	Y
+6KP3683	6K_project	6K_BIP13_D05	BIBC_BIP13_D05		MS1193	Staphylinidae	Pselaphinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00540	100	#N/A	Y
+6KP3507	6K_project	6K_BIP13_D06	BIBC_BIP13_D06		MS1194	Staphylinidae	Pselaphinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD02598	98.565	Y	Y
+6KP1325	6K_project	6K_BIP13_D10	BIBC_BIP13_D10		MS1198	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD00550	100	#N/A	Y
+6KP2183	6K_project	6K_BIP13_D11	BIBC_BIP13_D11		MS1199	Staphylinidae	Aleocharinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD02687	98.565	Y	Y
+6KP2786	6K_project	6K_BIP13_E02	BIBC_BIP13_E02		MS1202	Staphylinidae	Pselaphinae	#N/A	PD	Poring	WINKLER	2013	Malaysia	BIOD02985	99.761	Y	Y
+6KP713	6K_project	6K_BIP13_E07	BIBC_BIP13_E07		MS1207	Staphylinidae	Paederinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00351	100	#N/A	Y
+6KP590	6K_project	6K_BIP13_E08	BIBC_BIP13_E08		MS1208	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00895	100	#N/A	Y
+6KP1588	6K_project	6K_BIP13_E10	BIBC_BIP13_E10		MS1210	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00523	100	#N/A	Y
+6KP898	6K_project	6K_BIP13_F02	BIBC_BIP13_F02		MS1214	Staphylinidae	Staphylininae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD09487	99.522	Y	#N/A
+6KP1307	6K_project	6K_BIP13_F05	BIBC_BIP13_F05		MS1217	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01870	100	#N/A	Y
+6KP1174	6K_project	6K_BIP13_F06	BIBC_BIP13_F06		MS1218	Staphylinidae	Pseudopsinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01674	98.804	Y	Y
+6KP1478	6K_project	6K_BIP13_F07	BIBC_BIP13_F07		MS1219	Staphylinidae	Pseudopsinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01674	100	#N/A	Y
+6KP1911	6K_project	6K_BIP13_F09	BIBC_BIP13_F09		MS1221	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00398	100	#N/A	Y
+6KP1147	6K_project	6K_BIP13_F10	BIBC_BIP13_F10		MS1222	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01870	99.522	Y	Y
+6KP803	6K_project	6K_BIP13_F12	BIBC_BIP13_F12		MS1224	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01249	100	#N/A	Y
+6KP1732	6K_project	6K_BIP13_G01	BIBC_BIP13_G01		MS1225	Staphylinidae		#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02890	97.129	Y	Y
+6KP2774	6K_project	6K_BIP13_G02	BIBC_BIP13_G02		MS1226	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02989	100	#N/A	Y
+6KP3531	6K_project	6K_BIP13_G03	BIBC_BIP13_G03		MS1227	Staphylinidae		#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02890	96.89	Y	Y
+6KP3957	6K_project	6K_BIP13_G04	BIBC_BIP13_G04		MS1228	Staphylinidae	Staphylininae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02402	100	#N/A	Y
+6KP277	6K_project	6K_BIP13_G07	BIBC_BIP13_G07		MS1231	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02353	100	#N/A	Y
+6KP1799	6K_project	6K_BIP13_G08	BIBC_BIP13_G08		MS1232	Staphylinidae	Paederinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00539	100	#N/A	Y
+6KP1124	6K_project	6K_BIP13_G09	BIBC_BIP13_G09		MS1233	Staphylinidae	Paederinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01783	100	#N/A	Y
+6KP1124	6K_project	6K_BIP13_G10	BIBC_BIP13_G10		MS1234	Staphylinidae	Paederinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01783	100	#N/A	Y
+6KP803	6K_project	6K_BIP13_G12	BIBC_BIP13_G12		MS1236	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01249	100	#N/A	Y
+6KP1284	6K_project	6K_BIP13_H01	BIBC_BIP13_H01		MS1237	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01600	100	#N/A	Y
+6KP1892	6K_project	6K_BIP13_H02	BIBC_BIP13_H02		MS1238	Staphylinidae	Pseudopsinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00063	99.282	Y	Y
+6KP2288	6K_project	6K_BIP13_H03	BIBC_BIP13_H03		MS1239	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00448	99.522	Y	#N/A
+6KP392	6K_project	6K_BIP13_H04	BIBC_BIP13_H04		MS1240	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP392	6K_project	6K_BIP13_H06	BIBC_BIP13_H06		MS1242	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP431	6K_project	6K_BIP13_H08	BIBC_BIP13_H08		MS1244	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00065	100	#N/A	Y
+6KP275	6K_project	6K_BIP13_H09	BIBC_BIP13_H09		MS1245	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02385	99.761	Y	Y
+6KP3724	6K_project	6K_BIP13_H10	BIBC_BIP13_H10		MS1246	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02677	96.411	Y	Y
+6KP1241	6K_project	6K_BIP13_H11	BIBC_BIP13_H11		MS1247	Staphylinidae	Pseudopsinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00063	100	#N/A	Y
+6KP1942	6K_project	6K_BIP13_H12	BIBC_BIP13_H12		MS1248	Staphylinidae	Pseudopsinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00515	100	#N/A	Y
+6KP1047	6K_project	6K_BIP13_C11	BIBC_BIP13_C11		MS1187	Staphylinidae	Scaphidiinae	#N/A	PD	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP5686	6K_project	6K_BIP13_D02	BIBC_BIP13_D02		MS1190	Staphylinidae	Osorinae	#N/A	PD	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4198	6K_project	6K_BIP13_D07	BIBC_BIP13_D07		MS1195	Staphylinidae	Pselaphinae	#N/A	PD	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP1316	6K_project	6K_BIP13_D12	BIBC_BIP13_D12		MS1200	Staphylinidae	Paederinae	#N/A	PD	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3598	6K_project	6K_BIP13_E03	BIBC_BIP13_E03		MS1203	Staphylinidae	Pselaphinae	#N/A	PD	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP1316	6K_project	6K_BIP13_E05	BIBC_BIP13_E05		MS1205	Staphylinidae	Paederinae	#N/A	PD	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP2460	6K_project	6K_BIP13_F01	BIBC_BIP13_F01		MS1213	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3109	6K_project	6K_BIP13_G05	BIBC_BIP13_G05		MS1229	Staphylinidae	Staphylininae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3941	6K_project	6K_BIP13_G06	BIBC_BIP13_G06		MS1230	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4342	6K_project	6K_BIP13_G11	BIBC_BIP13_G11		MS1235	Staphylinidae		#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP2111	6K_project	6K_BIP14_A01	BIBC_BIP14_A01		MS1249	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01833	100	#N/A	Y
+6KP1423	6K_project	6K_BIP14_A04	BIBC_BIP14_A04		MS1252	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00917	100	#N/A	Y
+6KP555	6K_project	6K_BIP14_A05	BIBC_BIP14_A05		MS1253	Staphylinidae	Scydmaeninae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00897	100	#N/A	Y
+6KP1541	6K_project	6K_BIP14_A07	BIBC_BIP14_A07		MS1255	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02697	100	#N/A	Y
+6KP2668	6K_project	6K_BIP14_A11	BIBC_BIP14_A11		MS1259	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02780	100	#N/A	Y
+6KP1390	6K_project	6K_BIP14_B03	BIBC_BIP14_B03		MS1263	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02591	100	#N/A	Y
+6KP1887	6K_project	6K_BIP14_B10	BIBC_BIP14_B10		MS1270	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01505	100	#N/A	Y
+6KP1714	6K_project	6K_BIP14_B11	BIBC_BIP14_B11		MS1271	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00194	100	#N/A	Y
+6KP13258	6K_project	6K_BIP14_C06	BIBC_BIP14_C06		MS1278	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02307	95.933	Y	Y
+6KP357	6K_project	6K_BIP14_C07	BIBC_BIP14_C07		MS1279	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00086	100	#N/A	Y
+6KP2950	6K_project	6K_BIP14_C08	BIBC_BIP14_C08		MS1280	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02530	100	#N/A	Y
+6KP218	6K_project	6K_BIP14_C09	BIBC_BIP14_C09		MS1281	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02473	100	#N/A	Y
+6KP3642	6K_project	6K_BIP14_C10	BIBC_BIP14_C10		MS1282	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02985	100	#N/A	Y
+6KP1573	6K_project	6K_BIP14_C11	BIBC_BIP14_C11		MS1283	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00086	99.282	Y	Y
+6KP2684	6K_project	6K_BIP14_C12	BIBC_BIP14_C12		MS1284	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02530	99.522	Y	Y
+6KP2242	6K_project	6K_BIP14_D01	BIBC_BIP14_D01		MS1285	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02986	100	#N/A	Y
+6KP4417	6K_project	6K_BIP14_D02	BIBC_BIP14_D02		MS1286	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00141	99.761	Y	Y
+6KP2515	6K_project	6K_BIP14_D03	BIBC_BIP14_D03		MS1287	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02531	100	#N/A	Y
+6KP1325	6K_project	6K_BIP14_D05	BIBC_BIP14_D05		MS1289	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00550	100	#N/A	Y
+6KP1645	6K_project	6K_BIP14_D07	BIBC_BIP14_D07		MS1291	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01051	100	#N/A	Y
+6KP2602	6K_project	6K_BIP14_D08	BIBC_BIP14_D08		MS1292	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00893	100	#N/A	Y
+6KP550	6K_project	6K_BIP14_D09	BIBC_BIP14_D09		MS1293	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02697	99.043	Y	Y
+6KP4240	6K_project	6K_BIP14_D11	BIBC_BIP14_D11		MS1295	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02421	99.282	Y	Y
+6KP533	6K_project	6K_BIP14_D12	BIBC_BIP14_D12		MS1296	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01288	100	#N/A	Y
+6KP5116	6K_project	6K_BIP14_E01	BIBC_BIP14_E01		MS1297	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02307	100	#N/A	Y
+6KP3823	6K_project	6K_BIP14_E02	BIBC_BIP14_E02		MS1298	Staphylinidae	Paederinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02873	99.043	Y	Y
+6KP843	6K_project	6K_BIP14_E04	BIBC_BIP14_E04		MS1300	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02591	96.172	Y	Y
+6KP3183	6K_project	6K_BIP14_E09	BIBC_BIP14_E09		MS1305	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02421	99.761	Y	Y
+6KP721	6K_project	6K_BIP14_E10	BIBC_BIP14_E10		MS1306	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02591	95.933	Y	Y
+6KP218	6K_project	6K_BIP14_E11	BIBC_BIP14_E11		MS1307	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02473	100	#N/A	Y
+6KP1716	6K_project	6K_BIP14_E12	BIBC_BIP14_E12		MS1308	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00547	100	#N/A	Y
+6KP1791	6K_project	6K_BIP14_F01	BIBC_BIP14_F01		MS1309	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01534	100	#N/A	Y
+6KP1791	6K_project	6K_BIP14_F02	BIBC_BIP14_F02		MS1310	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01534	100	#N/A	Y
+6KP13258	6K_project	6K_BIP14_F03	BIBC_BIP14_F03		MS1311	Staphylinidae	Osorinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02307	95.933	Y	Y
+6KP3820	6K_project	6K_BIP14_F06	BIBC_BIP14_F06		MS1314	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00550	99.761	Y	Y
+6KP7354	6K_project	6K_BIP14_F08	BIBC_BIP14_F08		MS1316	Staphylinidae	Oxytelinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02884	100	#N/A	Y
+6KP5125	6K_project	6K_BIP14_G01	BIBC_BIP14_G01		MS1321	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02885	100	#N/A	Y
+6KP4045	6K_project	6K_BIP14_G03	BIBC_BIP14_G03		MS1323	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02781	100	#N/A	Y
+6KP1108	6K_project	6K_BIP14_G05	BIBC_BIP14_G05		MS1325	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00086	98.325	Y	Y
+6KP967	6K_project	6K_BIP14_G08	BIBC_BIP14_G08		MS1328	Staphylinidae	Paederinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02873	100	#N/A	Y
+6KP2304	6K_project	6K_BIP14_G09	BIBC_BIP14_G09		MS1329	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02592	100	#N/A	Y
+6KP1548	6K_project	6K_BIP14_H10	BIBC_BIP14_H10		MS1342	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02698	100	#N/A	Y
+6KP4194	6K_project	6K_BIP14_B04	BIBC_BIP14_B04		MS1264	Staphylinidae		#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP1047	6K_project	6K_BIP14_B08	BIBC_BIP14_B08		MS1268	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP5028	6K_project	6K_BIP14_C04	BIBC_BIP14_C04		MS1276	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4565	6K_project	6K_BIP14_D04	BIBC_BIP14_D04		MS1288	Staphylinidae		#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP685	6K_project	6K_BIP14_E08	BIBC_BIP14_E08		MS1304	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP685	6K_project	6K_BIP14_F04	BIBC_BIP14_F04		MS1312	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP685	6K_project	6K_BIP14_F07	BIBC_BIP14_F07		MS1315	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP381	6K_project	6K_BIP14_F12	BIBC_BIP14_F12		MS1320	Staphylinidae	Scydmaeninae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP5817	6K_project	6K_BIP14_G10	BIBC_BIP14_G10		MS1330	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3653	6K_project	6K_BIP14_G11	BIBC_BIP14_G11		MS1331	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP381	6K_project	6K_BIP14_G12	BIBC_BIP14_G12		MS1332	Staphylinidae	Scydmaeninae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP3397	6K_project	6K_BIP14_H03	BIBC_BIP14_H03		MS1335	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP685	6K_project	6K_BIP14_H04	BIBC_BIP14_H04		MS1336	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP4890	6K_project	6K_BIP14_H05	BIBC_BIP14_H05		MS1337	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP1334	6K_project	6K_BIP14_H06	BIBC_BIP14_H06		MS1338	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia			Y	#N/A
+6KP2365	6K_project	6K_BIP15_A01	BIBC_BIP15_A01		MS1345	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01780	100	#N/A	Y
+6KP3550	6K_project	6K_BIP15_A03	BIBC_BIP15_A03		MS1347	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02598	99.043	Y	Y
+6KP1494	6K_project	6K_BIP15_A05	BIBC_BIP15_A05		MS1349	Staphylinidae	Scydmaeninae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD02223	100	#N/A	Y
+6KP1860	6K_project	6K_BIP15_A06	BIBC_BIP15_A06		MS1350	Staphylinidae	Pselaphinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD00842	100	#N/A	Y
+6KP693	6K_project	6K_BIP15_A09	BIBC_BIP15_A09		MS1353	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01032	100	#N/A	Y
+6KP3400	6K_project	6K_BIP15_A12	BIBC_BIP15_A12		MS1356	Staphylinidae	Aleocharinae	#N/A	PA	Poring	WINKLER	2013	Malaysia	BIOD01559	100	#N/A	Y
+6KP2256	6K_project	6K_BIP15_B09	BIBC_BIP15_B09		MS1365	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD09345	96.411	Y	#N/A
+6KP1043	6K_project	6K_BIP15_B10	BIBC_BIP15_B10		MS1366	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD01253	100	#N/A	Y
+6KP94	6K_project	6K_BIP15_C01	BIBC_BIP15_C01		MS1369	Staphylinidae	Staphylininae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD09415	99.761	Y	#N/A
+6KP1351	6K_project	6K_BIP15_C02	BIBC_BIP15_C02		MS1370	Staphylinidae	Paederinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD09472	97.129	Y	#N/A
+6KP589	6K_project	6K_BIP15_C05	BIBC_BIP15_C05		MS1373	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD00779	100	#N/A	Y
+6KP561	6K_project	6K_BIP15_C06	BIBC_BIP15_C06		MS1374	Staphylinidae	Paederinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD01589	98.565	Y	Y
+6KP991	6K_project	6K_BIP15_C07	BIBC_BIP15_C07		MS1375	Staphylinidae	Paederinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD00043	100	#N/A	Y
+6KP150	6K_project	6K_BIP15_C08	BIBC_BIP15_C08		MS1376	Staphylinidae	Paederinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD01589	98.325	Y	Y
+6KP912	6K_project	6K_BIP15_C09	BIBC_BIP15_C09		MS1377	Staphylinidae	Paederinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD01589	98.804	Y	Y
+6KP1997	6K_project	6K_BIP15_C10	BIBC_BIP15_C10		MS1378	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD00910	100	#N/A	Y
+6KP218	6K_project	6K_BIP15_D01	BIBC_BIP15_D01		MS1381	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD02473	100	#N/A	Y
+6KP2988	6K_project	6K_BIP15_D06	BIBC_BIP15_D06		MS1386	Staphylinidae	Oxytelinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD02763	96.89	Y	Y
+6KP974	6K_project	6K_BIP15_D09	BIBC_BIP15_D09		MS1389	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD02437	100	#N/A	Y
+6KP408	6K_project	6K_BIP15_D12	BIBC_BIP15_D12		MS1392	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD00086	99.761	Y	Y
+6KP275	6K_project	6K_BIP15_E09	BIBC_BIP15_E09		MS1401	Staphylinidae	Oxytelinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD02385	99.761	Y	Y
+6KP759	6K_project	6K_BIP15_E10	BIBC_BIP15_E10		MS1402	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD02113	99.761	Y	Y
+6KP53	6K_project	6K_BIP15_E11	BIBC_BIP15_E11		MS1403	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP1504	6K_project	6K_BIP15_F03	BIBC_BIP15_F03		MS1407	Staphylinidae	Oxytelinae	#N/A	PD	Poring	PITFALL	2013	Malaysia	BIOD01616	98.325	Y	Y
+6KP72	6K_project	6K_BIP15_F09	BIBC_BIP15_F09		MS1413	Staphylinidae	Scaphidiinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD02314	100	#N/A	Y
+6KP409	6K_project	6K_BIP15_B06	BIBC_BIP15_B06		MS1362	Staphylinidae	Staphylininae	#N/A	PD	Poring	PITFALL	2013	Malaysia			Y	#N/A
+6KP1929	6K_project	6K_BIP15_D02	BIBC_BIP15_D02		MS1382	Staphylinidae	Oxytelinae	#N/A	PD	Poring	PITFALL	2013	Malaysia			Y	#N/A
+6KP188	6K_project	6K_BIP15_D07	BIBC_BIP15_D07		MS1387	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia			Y	#N/A
+6KP188	6K_project	6K_BIP15_D08	BIBC_BIP15_D08		MS1388	Staphylinidae	Aleocharinae	#N/A	PD	Poring	PITFALL	2013	Malaysia			Y	#N/A
+6KP299	6K_project	6K_BIP15_E02	BIBC_BIP15_E02		MS1394	Staphylinidae	Proteininae	#N/A	PD	Poring	PITFALL	2013	Malaysia			Y	#N/A
+6KP1785	6K_project	6K_BIP15_F02	BIBC_BIP15_F02		MS1406	Staphylinidae	Oxytelinae	#N/A	PD	Poring	PITFALL	2013	Malaysia			Y	#N/A
+6KP153	6K_project	6K_BIP15_G10	BIBC_BIP15_G10		MS1426	Staphylinidae	Staphylininae	#N/A	PD	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP1118	6K_project	6K_BIP16_A10	BIBC_BIP16_A10		MS1450	Staphylinidae	Staphylininae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD02078	100	#N/A	Y
+6KP2285	6K_project	6K_BIP16_B04	BIBC_BIP16_B04		MS1456	Staphylinidae	Tachyporinae	#N/A	PD	Poring	BEATING	2013	Malaysia	BIOD00184	100	#N/A	Y
+6KP57	6K_project	6K_BIP16_B12	BIBC_BIP16_B12		MS1464	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00935	100	#N/A	Y
+6KP736	6K_project	6K_BIP16_C02	BIBC_BIP16_C02		MS1466	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09671	99.282	Y	#N/A
+6KP736	6K_project	6K_BIP16_C03	BIBC_BIP16_C03		MS1467	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09671	99.282	Y	#N/A
+6KP1885	6K_project	6K_BIP16_C04	BIBC_BIP16_C04		MS1468	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00901	100	#N/A	Y
+6KP609	6K_project	6K_BIP16_C05	BIBC_BIP16_C05		MS1469	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00935	99.761	Y	Y
+6KP15	6K_project	6K_BIP16_C06	BIBC_BIP16_C06		MS1470	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01386	100	#N/A	Y
+6KP15	6K_project	6K_BIP16_C07	BIBC_BIP16_C07		MS1471	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01386	100	#N/A	Y
+6KP307	6K_project	6K_BIP16_C09	BIBC_BIP16_C09		MS1473	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD05221	100	Y	#N/A
+6KP258	6K_project	6K_BIP16_C12	BIBC_BIP16_C12		MS1476	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00637	98.804	Y	Y
+6KP873	6K_project	6K_BIP16_D01	BIBC_BIP16_D01		MS1477	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00637	98.804	Y	Y
+6KP2437	6K_project	6K_BIP16_D02	BIBC_BIP16_D02		MS1478	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01372	98.565	Y	Y
+6KP1491	6K_project	6K_BIP16_D03	BIBC_BIP16_D03		MS1479	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01384	100	#N/A	Y
+6KP1491	6K_project	6K_BIP16_D04	BIBC_BIP16_D04		MS1480	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01384	100	#N/A	Y
+6KP234	6K_project	6K_BIP16_D05	BIBC_BIP16_D05		MS1481	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01970	100	#N/A	Y
+6KP775	6K_project	6K_BIP16_D06	BIBC_BIP16_D06		MS1482	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01116	100	#N/A	Y
+6KP740	6K_project	6K_BIP16_D07	BIBC_BIP16_D07		MS1483	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01970	99.761	Y	Y
+6KP4270	6K_project	6K_BIP16_D08	BIBC_BIP16_D08		MS1484	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00165	99.761	Y	Y
+6KP48	6K_project	6K_BIP16_D09	BIBC_BIP16_D09		MS1485	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00358	100	#N/A	Y
+6KP147	6K_project	6K_BIP16_D10	BIBC_BIP16_D10		MS1486	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD07146	100	Y	#N/A
+6KP191	6K_project	6K_BIP16_D11	BIBC_BIP16_D11		MS1487	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09323	100	Y	#N/A
+6KP190	6K_project	6K_BIP16_D12	BIBC_BIP16_D12		MS1488	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00637	99.761	Y	Y
+6KP1096	6K_project	6K_BIP16_E01	BIBC_BIP16_E01		MS1489	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01381	100	#N/A	Y
+6KP1397	6K_project	6K_BIP16_E02	BIBC_BIP16_E02		MS1490	Staphylinidae	Tachyporinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00368	98.804	Y	Y
+6KP962	6K_project	6K_BIP16_E05	BIBC_BIP16_E05		MS1493	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09415	99.282	Y	#N/A
+6KP48	6K_project	6K_BIP16_E06	BIBC_BIP16_E06		MS1494	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00358	100	#N/A	Y
+6KP121	6K_project	6K_BIP16_E07	BIBC_BIP16_E07		MS1495	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00264	100	#N/A	Y
+6KP48	6K_project	6K_BIP16_E08	BIBC_BIP16_E08		MS1496	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00358	100	#N/A	Y
+6KP121	6K_project	6K_BIP16_E09	BIBC_BIP16_E09		MS1497	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00264	100	#N/A	Y
+6KP1459	6K_project	6K_BIP16_E10	BIBC_BIP16_E10		MS1498	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00909	100	#N/A	Y
+6KP2353	6K_project	6K_BIP16_E11	BIBC_BIP16_E11		MS1499	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00165	100	#N/A	Y
+6KP104	6K_project	6K_BIP16_E12	BIBC_BIP16_E12		MS1500	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00856	100	#N/A	Y
+6KP187	6K_project	6K_BIP16_F01	BIBC_BIP16_F01		MS1501	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01859	98.801	Y	Y
+6KP804	6K_project	6K_BIP16_C01	BIBC_BIP16_C01		MS1465	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP501	6K_project	6K_BIP16_C08	BIBC_BIP16_C08		MS1472	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP155	6K_project	6K_BIP16_C10	BIBC_BIP16_C10		MS1474	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP518	6K_project	6K_BIP16_C11	BIBC_BIP16_C11		MS1475	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP3763	6K_project	6K_BIP17_B08	BIBC_BIP17_B08		MS1556	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02075	100	#N/A	Y
+6KP510	6K_project	6K_BIP17_E10	BIBC_BIP17_E10		MS1594	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09487	100	Y	#N/A
+6KP14490	6K_project	6K_BIP17_E11	BIBC_BIP17_E11		MS1595	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD08990	99.043	Y	#N/A
+6KP4465	6K_project	6K_BIP17_E12	BIBC_BIP17_E12		MS1596	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01698	100	#N/A	Y
+6KP2316	6K_project	6K_BIP17_F01	BIBC_BIP17_F01		MS1597	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09033	99.761	Y	#N/A
+6KP4923	6K_project	6K_BIP17_F02	BIBC_BIP17_F02		MS1598	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01114	100	#N/A	Y
+6KP7865	6K_project	6K_BIP17_F03	BIBC_BIP17_F03		MS1599	Staphylinidae	Tachyporinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02024	100	#N/A	Y
+6KP5432	6K_project	6K_BIP17_F04	BIBC_BIP17_F04		MS1600	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD08099	100	Y	#N/A
+6KP700	6K_project	6K_BIP17_F06	BIBC_BIP17_F06		MS1602	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01859	100	#N/A	Y
+6KP104	6K_project	6K_BIP17_F07	BIBC_BIP17_F07		MS1603	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00856	100	#N/A	Y
+6KP5162	6K_project	6K_BIP17_F08	BIBC_BIP17_F08		MS1604	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD08946	99.761	Y	#N/A
+6KP1562	6K_project	6K_BIP17_F09	BIBC_BIP17_F09		MS1605	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09212	99.522	Y	#N/A
+6KP1680	6K_project	6K_BIP17_F11	BIBC_BIP17_F11		MS1607	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01229	100	#N/A	Y
+6KP628	6K_project	6K_BIP17_F12	BIBC_BIP17_F12		MS1608	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09047	100	Y	#N/A
+6KP5365	6K_project	6K_BIP17_G01	BIBC_BIP17_G01		MS1609	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09212	98.325	Y	#N/A
+6KP178	6K_project	6K_BIP17_G02	BIBC_BIP17_G02		MS1610	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01527	100	#N/A	Y
+6KP1992	6K_project	6K_BIP17_G03	BIBC_BIP17_G03		MS1611	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01860	98.325	Y	Y
+6KP597	6K_project	6K_BIP17_G05	BIBC_BIP17_G05		MS1613	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09212	99.761	Y	#N/A
+6KP912	6K_project	6K_BIP17_G06	BIBC_BIP17_G06		MS1614	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01589	98.804	Y	Y
+6KP9726	6K_project	6K_BIP17_G07	BIBC_BIP17_G07		MS1615	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02352	100	#N/A	Y
+6KP150	6K_project	6K_BIP17_G08	BIBC_BIP17_G08		MS1616	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01589	98.325	Y	Y
+6KP261	6K_project	6K_BIP17_G10	BIBC_BIP17_G10		MS1618	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01329	100	#N/A	Y
+6KP7318	6K_project	6K_BIP17_G11	BIBC_BIP17_G11		MS1619	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00059	100	#N/A	Y
+6KP228	6K_project	6K_BIP17_G12	BIBC_BIP17_G12		MS1620	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02685	100	#N/A	Y
+6KP104	6K_project	6K_BIP17_H01	BIBC_BIP17_H01		MS1621	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00856	100	#N/A	Y
+6KP712	6K_project	6K_BIP17_H02	BIBC_BIP17_H02		MS1622	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09342	100	Y	#N/A
+6KP1562	6K_project	6K_BIP17_H03	BIBC_BIP17_H03		MS1623	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09212	99.522	Y	#N/A
+6KP261	6K_project	6K_BIP17_H04	BIBC_BIP17_H04		MS1624	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01329	100	#N/A	Y
+6KP912	6K_project	6K_BIP17_H05	BIBC_BIP17_H05		MS1625	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01589	98.804	Y	Y
+6KP3572	6K_project	6K_BIP17_H06	BIBC_BIP17_H06		MS1626	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00622	97.608	Y	Y
+6KP125	6K_project	6K_BIP17_H07	BIBC_BIP17_H07		MS1627	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01037	100	#N/A	Y
+6KP4312	6K_project	6K_BIP17_H09	BIBC_BIP17_H09		MS1629	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00622	97.368	Y	Y
+6KP3572	6K_project	6K_BIP17_H10	BIBC_BIP17_H10		MS1630	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00622	97.608	Y	Y
+6KP65	6K_project	6K_BIP17_H11	BIBC_BIP17_H11		MS1631	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00168	100	#N/A	Y
+6KP2591	6K_project	6K_BIP17_H12	BIBC_BIP17_H12		MS1632	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02519	100	#N/A	Y
+6KP1204	6K_project	6K_BIP17_E09	BIBC_BIP17_E09		MS1593	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP5626	6K_project	6K_BIP18_A01	BIBC_BIP18_A01		MS1633	Staphylinidae	Osorinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00473	100	#N/A	Y
+6KP79	6K_project	6K_BIP18_A02	BIBC_BIP18_A02		MS1634	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00559	100	#N/A	Y
+6KP228	6K_project	6K_BIP18_A03	BIBC_BIP18_A03		MS1635	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02685	100	#N/A	Y
+6KP4416	6K_project	6K_BIP18_A04	BIBC_BIP18_A04		MS1636	Staphylinidae	Pseudopsinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02586	99.282	Y	Y
+6KP228	6K_project	6K_BIP18_A05	BIBC_BIP18_A05		MS1637	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02685	100	#N/A	Y
+6KP2386	6K_project	6K_BIP18_A06	BIBC_BIP18_A06		MS1638	Staphylinidae	Megalopsidiinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00233	98.565	Y	Y
+6KP2127	6K_project	6K_BIP18_A07	BIBC_BIP18_A07		MS1639	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00088	100	#N/A	Y
+6KP1707	6K_project	6K_BIP18_A08	BIBC_BIP18_A08		MS1640	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00169	99.043	Y	Y
+6KP178	6K_project	6K_BIP18_A09	BIBC_BIP18_A09		MS1641	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01527	100	#N/A	Y
+6KP1562	6K_project	6K_BIP18_A10	BIBC_BIP18_A10		MS1642	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09212	99.522	Y	#N/A
+6KP261	6K_project	6K_BIP18_A11	BIBC_BIP18_A11		MS1643	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01329	100	#N/A	Y
+6KP2780	6K_project	6K_BIP18_A12	BIBC_BIP18_A12		MS1644	Staphylinidae	Megalopsidiinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01778	100	#N/A	Y
+6KP1992	6K_project	6K_BIP18_B01	BIBC_BIP18_B01		MS1645	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01860	98.325	Y	Y
+6KP1992	6K_project	6K_BIP18_B02	BIBC_BIP18_B02		MS1646	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01860	98.325	Y	Y
+6KP2361	6K_project	6K_BIP18_B03	BIBC_BIP18_B03		MS1647	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00457	100	#N/A	Y
+6KP228	6K_project	6K_BIP18_B04	BIBC_BIP18_B04		MS1648	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02685	100	#N/A	Y
+6KP187	6K_project	6K_BIP18_B05	BIBC_BIP18_B05		MS1649	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01859	98.801	Y	Y
+6KP1692	6K_project	6K_BIP18_B06	BIBC_BIP18_B06		MS1650	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01961	99.282	Y	Y
+6KP2249	6K_project	6K_BIP18_B07	BIBC_BIP18_B07		MS1651	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01616	100	#N/A	Y
+6KP1017	6K_project	6K_BIP18_B08	BIBC_BIP18_B08		MS1652	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01850	100	#N/A	Y
+6KP2685	6K_project	6K_BIP18_B09	BIBC_BIP18_B09		MS1653	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD08298	99.043	Y	#N/A
+6KP150	6K_project	6K_BIP18_B10	BIBC_BIP18_B10		MS1654	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01589	98.325	Y	Y
+6KP261	6K_project	6K_BIP18_B11	BIBC_BIP18_B11		MS1655	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01329	100	#N/A	Y
+6KP1706	6K_project	6K_BIP18_B12	BIBC_BIP18_B12		MS1656	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02588	100	#N/A	Y
+6KP16	6K_project	6K_BIP18_C01	BIBC_BIP18_C01		MS1657	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP1597	6K_project	6K_BIP18_C02	BIBC_BIP18_C02		MS1658	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09212	99.522	Y	#N/A
+6KP1688	6K_project	6K_BIP18_C03	BIBC_BIP18_C03		MS1659	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01589	98.565	Y	Y
+6KP2117	6K_project	6K_BIP18_C04	BIBC_BIP18_C04		MS1660	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01108	100	#N/A	Y
+6KP16	6K_project	6K_BIP18_C05	BIBC_BIP18_C05		MS1661	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP2200	6K_project	6K_BIP18_C06	BIBC_BIP18_C06		MS1662	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00093	99.761	Y	Y
+6KP1999	6K_project	6K_BIP18_C07	BIBC_BIP18_C07		MS1663	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09873	99.761	Y	#N/A
+6KP16	6K_project	6K_BIP18_C08	BIBC_BIP18_C08		MS1664	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP16	6K_project	6K_BIP18_C09	BIBC_BIP18_C09		MS1665	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP2000	6K_project	6K_BIP18_C10	BIBC_BIP18_C10		MS1666	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01439	100	#N/A	Y
+6KP65	6K_project	6K_BIP18_C11	BIBC_BIP18_C11		MS1667	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00168	100	#N/A	Y
+6KP65	6K_project	6K_BIP18_C12	BIBC_BIP18_C12		MS1668	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00168	100	#N/A	Y
+6KP3182	6K_project	6K_BIP18_D01	BIBC_BIP18_D01		MS1669	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00093	100	#N/A	Y
+6KP125	6K_project	6K_BIP18_D02	BIBC_BIP18_D02		MS1670	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01037	100	#N/A	Y
+6KP16	6K_project	6K_BIP18_D03	BIBC_BIP18_D03		MS1671	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP3685	6K_project	6K_BIP18_F01	BIBC_BIP18_F01		MS1693	Staphylinidae	Tachyporinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01692	100	#N/A	Y
+6KP1576	6K_project	6K_BIP18_F07	BIBC_BIP18_F07		MS1699	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00856	99.043	Y	Y
+6KP104	6K_project	6K_BIP18_F08	BIBC_BIP18_F08		MS1700	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00856	100	#N/A	Y
+6KP941	6K_project	6K_BIP18_F09	BIBC_BIP18_F09		MS1701	Staphylinidae	Tachyporinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00368	100	#N/A	Y
+6KP744	6K_project	6K_BIP18_F10	BIBC_BIP18_F10		MS1702	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01520	100	#N/A	Y
+6KP2176	6K_project	6K_BIP18_F11	BIBC_BIP18_F11		MS1703	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02156	99.761	Y	Y
+6KP1521	6K_project	6K_BIP18_F12	BIBC_BIP18_F12		MS1704	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00521	99.761	Y	Y
+6KP684	6K_project	6K_BIP18_G02	BIBC_BIP18_G02		MS1706	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01863	100	#N/A	Y
+6KP3607	6K_project	6K_BIP18_G03	BIBC_BIP18_G03		MS1707	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01113	100	#N/A	Y
+6KP5235	6K_project	6K_BIP18_G04	BIBC_BIP18_G04		MS1708	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00982	99.761	Y	Y
+6KP2121	6K_project	6K_BIP18_G05	BIBC_BIP18_G05		MS1709	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00904	100	#N/A	Y
+6KP4815	6K_project	6K_BIP18_G06	BIBC_BIP18_G06		MS1710	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02686	100	#N/A	Y
+6KP277	6K_project	6K_BIP18_G07	BIBC_BIP18_G07		MS1711	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02353	100	#N/A	Y
+6KP4097	6K_project	6K_BIP18_G08	BIBC_BIP18_G08		MS1712	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00521	99.522	Y	Y
+6KP744	6K_project	6K_BIP18_G09	BIBC_BIP18_G09		MS1713	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01520	100	#N/A	Y
+6KP1855	6K_project	6K_BIP18_G11	BIBC_BIP18_G11		MS1715	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02156	98.804	Y	Y
+6KP3999	6K_project	6K_BIP18_G12	BIBC_BIP18_G12		MS1716	Staphylinidae	Osorinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02589	100	#N/A	Y
+6KP357	6K_project	6K_BIP18_H02	BIBC_BIP18_H02		MS1718	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00086	100	#N/A	Y
+6KP275	6K_project	6K_BIP18_H03	BIBC_BIP18_H03		MS1719	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02385	99.761	Y	Y
+6KP275	6K_project	6K_BIP18_H04	BIBC_BIP18_H04		MS1720	Staphylinidae	Oxytelinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02385	99.761	Y	Y
+6KP967	6K_project	6K_BIP18_H05	BIBC_BIP18_H05		MS1721	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02873	100	#N/A	Y
+6KP3313	6K_project	6K_BIP18_H06	BIBC_BIP18_H06		MS1722	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01480	100	#N/A	Y
+6KP2320	6K_project	6K_BIP18_H07	BIBC_BIP18_H07		MS1723	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00074	100	#N/A	Y
+6KP4671	6K_project	6K_BIP18_H08	BIBC_BIP18_H08		MS1724	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02993	98.561	Y	Y
+6KP2254	6K_project	6K_BIP18_H09	BIBC_BIP18_H09		MS1725	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00086	99.761	Y	Y
+6KP2057	6K_project	6K_BIP18_H10	BIBC_BIP18_H10		MS1726	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00865	100	#N/A	Y
+6KP3483	6K_project	6K_BIP18_H11	BIBC_BIP18_H11		MS1727	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01874	100	#N/A	Y
+6KP1532	6K_project	6K_BIP18_H12	BIBC_BIP18_H12		MS1728	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02441	100	#N/A	Y
+6KP3109	6K_project	6K_BIP18_G01	BIBC_BIP18_G01		MS1705	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP3540	6K_project	6K_BIP18_H01	BIBC_BIP18_H01		MS1717	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP684	6K_project	6K_BIP19_A01	BIBC_BIP19_A01		MS1729	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01863	100	#N/A	Y
+6KP2445	6K_project	6K_BIP19_A02	BIBC_BIP19_A02		MS1730	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02156	99.522	Y	Y
+6KP1356	6K_project	6K_BIP19_A03	BIBC_BIP19_A03		MS1731	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02135	100	#N/A	Y
+6KP2069	6K_project	6K_BIP19_A04	BIBC_BIP19_A04		MS1732	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01152	100	#N/A	Y
+6KP3522	6K_project	6K_BIP19_A05	BIBC_BIP19_A05		MS1733	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02687	100	#N/A	Y
+6KP684	6K_project	6K_BIP19_A06	BIBC_BIP19_A06		MS1734	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01863	100	#N/A	Y
+6KP357	6K_project	6K_BIP19_A07	BIBC_BIP19_A07		MS1735	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00086	100	#N/A	Y
+6KP1532	6K_project	6K_BIP19_A08	BIBC_BIP19_A08		MS1736	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02441	100	#N/A	Y
+6KP967	6K_project	6K_BIP19_A09	BIBC_BIP19_A09		MS1737	Staphylinidae	Paederinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02873	100	#N/A	Y
+6KP2296	6K_project	6K_BIP19_D06	BIBC_BIP19_D06		MS1770	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02875	100	#N/A	Y
+6KP1949	6K_project	6K_BIP19_D08	BIBC_BIP19_D08		MS1772	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02972	99.761	Y	Y
+6KP1276	6K_project	6K_BIP19_D09	BIBC_BIP19_D09		MS1773	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02471	100	#N/A	Y
+6KP1993	6K_project	6K_BIP19_D10	BIBC_BIP19_D10		MS1774	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02688	100	#N/A	Y
+6KP3897	6K_project	6K_BIP19_E09	BIBC_BIP19_E09		MS1785	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03070	100	#N/A	Y
+6KP1330	6K_project	6K_BIP19_E10	BIBC_BIP19_E10		MS1786	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01878	100	#N/A	Y
+6KP4304	6K_project	6K_BIP19_E11	BIBC_BIP19_E11		MS1787	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03071	100	#N/A	Y
+6KP1330	6K_project	6K_BIP19_E12	BIBC_BIP19_E12		MS1788	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01878	100	#N/A	Y
+6KP10001	6K_project	6K_BIP19_F01	BIBC_BIP19_F01		MS1789	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03073	99.761	Y	Y
+6KP3330	6K_project	6K_BIP19_F02	BIBC_BIP19_F02		MS1790	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02877	100	#N/A	Y
+6KP4304	6K_project	6K_BIP19_F03	BIBC_BIP19_F03		MS1791	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03071	100	#N/A	Y
+6KP4304	6K_project	6K_BIP19_F04	BIBC_BIP19_F04		MS1792	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03071	100	#N/A	Y
+6KP3961	6K_project	6K_BIP19_G04	BIBC_BIP19_G04		MS1804	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03073	100	#N/A	Y
+6KP2116	6K_project	6K_BIP19_G07	BIBC_BIP19_G07		MS1807	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01559	98.804	Y	Y
+6KP4004	6K_project	6K_BIP19_G10	BIBC_BIP19_G10		MS1810	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02982	100	#N/A	Y
+6KP555	6K_project	6K_BIP19_H06	BIBC_BIP19_H06		MS1818	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00897	100	#N/A	Y
+6KP1089	6K_project	6K_BIP19_H07	BIBC_BIP19_H07		MS1819	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD09493	99.522	Y	#N/A
+6KP950	6K_project	6K_BIP19_H08	BIBC_BIP19_H08		MS1820	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00154	100	#N/A	Y
+6KP893	6K_project	6K_BIP19_H10	BIBC_BIP19_H10		MS1822	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD00261	100	#N/A	Y
+6KP3214	6K_project	6K_BIP19_D07	BIBC_BIP19_D07		MS1771	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP1589	6K_project	6K_BIP19_D11	BIBC_BIP19_D11		MS1775	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP1343	6K_project	6K_BIP19_D12	BIBC_BIP19_D12		MS1776	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP2783	6K_project	6K_BIP19_E08	BIBC_BIP19_E08		MS1784	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP53	6K_project	6K_BIP20_B05	BIBC_BIP20_B05		MS1841	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP2584	6K_project	6K_BIP20_B12	BIBC_BIP20_B12		MS1848	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01945	100	#N/A	Y
+6KP6320	6K_project	6K_BIP20_C07	BIBC_BIP20_C07		MS1855	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02413	100	#N/A	Y
+6KP4969	6K_project	6K_BIP20_C08	BIBC_BIP20_C08		MS1856	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02691	100	#N/A	Y
+6KP3890	6K_project	6K_BIP20_D05	BIBC_BIP20_D05		MS1865	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD01054	100	#N/A	Y
+6KP4180	6K_project	6K_BIP20_D06	BIBC_BIP20_D06		MS1866	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03074	99.761	Y	Y
+6KP3845	6K_project	6K_BIP20_D07	BIBC_BIP20_D07		MS1867	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD03074	100	#N/A	Y
+6KP4743	6K_project	6K_BIP20_D08	BIBC_BIP20_D08		MS1868	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia	BIOD02397	100	#N/A	Y
+6KP1621	6K_project	6K_BIP20_A08	BIBC_BIP20_A08		MS1832	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP1980	6K_project	6K_BIP20_B01	BIBC_BIP20_B01		MS1837	Staphylinidae	Pselaphinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP3858	6K_project	6K_BIP20_C06	BIBC_BIP20_C06		MS1854	Staphylinidae	Aleocharinae	#N/A	PB	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP3227	6K_project	6K_BIP21_B02	BIBC_BIP21_B02		MS1935	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD09637	100	Y	#N/A
+6KP2088	6K_project	6K_BIP21_B03	BIBC_BIP21_B03		MS1936	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00579	100	#N/A	Y
+6KP1367	6K_project	6K_BIP21_B04	BIBC_BIP21_B04		MS1937	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00935	99.282	Y	Y
+6KP879	6K_project	6K_BIP21_B05	BIBC_BIP21_B05		MS1938	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02216	100	#N/A	Y
+6KP1013	6K_project	6K_BIP21_B06	BIBC_BIP21_B06		MS1939	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01363	99.043	Y	Y
+6KP1786	6K_project	6K_BIP21_B07	BIBC_BIP21_B07		MS1940	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00625	100	#N/A	Y
+6KP2675	6K_project	6K_BIP21_B08	BIBC_BIP21_B08		MS1941	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00258	98.565	Y	Y
+6KP1685	6K_project	6K_BIP21_B09	BIBC_BIP21_B09		MS1942	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01363	99.522	Y	Y
+6KP2974	6K_project	6K_BIP21_B10	BIBC_BIP21_B10		MS1943	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00901	98.565	Y	Y
+6KP827	6K_project	6K_BIP21_B11	BIBC_BIP21_B11		MS1944	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00625	99.522	Y	Y
+6KP15	6K_project	6K_BIP21_C01	BIBC_BIP21_C01		MS1946	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01386	100	#N/A	Y
+6KP742	6K_project	6K_BIP21_C02	BIBC_BIP21_C02		MS1947	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01089	100	#N/A	Y
+6KP2513	6K_project	6K_BIP21_C03	BIBC_BIP21_C03		MS1948	Staphylinidae	Tachyporinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00368	98.804	Y	Y
+6KP1851	6K_project	6K_BIP21_C04	BIBC_BIP21_C04		MS1949	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	GBDL02628	99.522	Y	#N/A
+6KP48	6K_project	6K_BIP21_C05	BIBC_BIP21_C05		MS1950	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00358	100	#N/A	Y
+6KP1998	6K_project	6K_BIP21_C06	BIBC_BIP21_C06		MS1951	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00343	99.761	Y	Y
+6KP6676	6K_project	6K_BIP21_C07	BIBC_BIP21_C07		MS1952	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02585	100	#N/A	Y
+6KP2353	6K_project	6K_BIP21_C08	BIBC_BIP21_C08		MS1953	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00165	100	#N/A	Y
+6KP2475	6K_project	6K_BIP21_C09	BIBC_BIP21_C09		MS1954	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD09487	99.282	Y	#N/A
+6KP2986	6K_project	6K_BIP21_C10	BIBC_BIP21_C10		MS1955	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00131	99.761	Y	Y
+6KP628	6K_project	6K_BIP21_C11	BIBC_BIP21_C11		MS1956	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD09047	100	Y	#N/A
+6KP320	6K_project	6K_BIP21_B01	BIBC_BIP21_B01		MS1934	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP1973	6K_project	6K_BIP21_B12	BIBC_BIP21_B12		MS1945	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP624	6K_project	6K_BIP22_B04	BIBC_BIP22_B04		MS2033	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00164	100	#N/A	Y
+6KP593	6K_project	6K_BIP22_B05	BIBC_BIP22_B05		MS2034	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02676	100	#N/A	Y
+6KP95	6K_project	6K_BIP22_B06	BIBC_BIP22_B06		MS2035	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00765	100	#N/A	Y
+6KP1062	6K_project	6K_BIP22_B07	BIBC_BIP22_B07		MS2036	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00151	100	#N/A	Y
+6KP147	6K_project	6K_BIP22_B08	BIBC_BIP22_B08		MS2037	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD07146	100	Y	#N/A
+6KP872	6K_project	6K_BIP22_B09	BIBC_BIP22_B09		MS2038	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01850	99.761	Y	Y
+6KP1264	6K_project	6K_BIP22_B10	BIBC_BIP22_B10		MS2039	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD09487	99.761	Y	#N/A
+6KP178	6K_project	6K_BIP22_B11	BIBC_BIP22_B11		MS2040	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01527	100	#N/A	Y
+6KP1230	6K_project	6K_BIP22_C01	BIBC_BIP22_C01		MS2042	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00088	99.761	Y	Y
+6KP16	6K_project	6K_BIP22_C02	BIBC_BIP22_C02		MS2043	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP640	6K_project	6K_BIP22_C03	BIBC_BIP22_C03		MS2044	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00049	100	#N/A	Y
+6KP2860	6K_project	6K_BIP22_C04	BIBC_BIP22_C04		MS2045	Staphylinidae	Tachyporinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01058	100	#N/A	Y
+6KP2199	6K_project	6K_BIP22_C05	BIBC_BIP22_C05		MS2046	Staphylinidae	Tachyporinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01227	100	#N/A	Y
+6KP635	6K_project	6K_BIP22_C06	BIBC_BIP22_C06		MS2047	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00892	100	#N/A	Y
+6KP545	6K_project	6K_BIP22_C07	BIBC_BIP22_C07		MS2048	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00168	99.761	Y	Y
+6KP97	6K_project	6K_BIP22_C08	BIBC_BIP22_C08		MS2049	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00559	99.522	Y	Y
+6KP97	6K_project	6K_BIP22_C09	BIBC_BIP22_C09		MS2050	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00559	99.522	Y	Y
+6KP724	6K_project	6K_BIP22_C10	BIBC_BIP22_C10		MS2051	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01163	100	#N/A	Y
+6KP10986	6K_project	6K_BIP22_C11	BIBC_BIP22_C11		MS2052	Staphylinidae	Staphylininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02278	100	#N/A	Y
+6KP178	6K_project	6K_BIP22_C12	BIBC_BIP22_C12		MS2053	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01527	100	#N/A	Y
+6KP345	6K_project	6K_BIP22_D01	BIBC_BIP22_D01		MS2054	Staphylinidae	Pseudopsinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02586	99.761	Y	Y
+6KP292	6K_project	6K_BIP22_D02	BIBC_BIP22_D02		MS2055	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD09873	100	Y	#N/A
+6KP2397	6K_project	6K_BIP22_D04	BIBC_BIP22_D04		MS2057	Staphylinidae	Paederinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00296	100	#N/A	Y
+6KP150	6K_project	6K_BIP22_D05	BIBC_BIP22_D05		MS2058	Staphylinidae	Paederinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01589	98.325	Y	Y
+6KP2591	6K_project	6K_BIP22_D06	BIBC_BIP22_D06		MS2059	Staphylinidae	Paederinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02519	100	#N/A	Y
+6KP1057	6K_project	6K_BIP22_D08	BIBC_BIP22_D08		MS2061	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD09493	98.565	Y	#N/A
+6KP1474	6K_project	6K_BIP22_E02	BIBC_BIP22_E02		MS2067	Staphylinidae	Paederinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01589	100	#N/A	Y
+6KP1787	6K_project	6K_BIP22_E03	BIBC_BIP22_E03		MS2068	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00674	99.522	Y	Y
+6KP708	6K_project	6K_BIP22_E06	BIBC_BIP22_E06		MS2071	Staphylinidae	Pselaphinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD05697	100	Y	#N/A
+6KP866	6K_project	6K_BIP22_E10	BIBC_BIP22_E10		MS2075	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01838	100	#N/A	Y
+6KP65	6K_project	6K_BIP22_E11	BIBC_BIP22_E11		MS2076	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00168	100	#N/A	Y
+6KP79	6K_project	6K_BIP22_E12	BIBC_BIP22_E12		MS2077	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00559	100	#N/A	Y
+6KP3195	6K_project	6K_BIP22_F01	BIBC_BIP22_F01		MS2078	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02441	99.761	Y	Y
+6KP1778	6K_project	6K_BIP22_F02	BIBC_BIP22_F02		MS2079	Staphylinidae	Oxytelinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02385	100	#N/A	Y
+6KP601	6K_project	6K_BIP22_F03	BIBC_BIP22_F03		MS2080	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01152	99.761	Y	Y
+6KP1210	6K_project	6K_BIP22_F04	BIBC_BIP22_F04		MS2081	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02364	100	#N/A	Y
+6KP648	6K_project	6K_BIP22_F05	BIBC_BIP22_F05		MS2082	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01152	98.325	Y	Y
+6KP3101	6K_project	6K_BIP22_F06	BIBC_BIP22_F06		MS2083	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01152	99.761	Y	Y
+6KP967	6K_project	6K_BIP22_F07	BIBC_BIP22_F07		MS2084	Staphylinidae	Paederinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02873	100	#N/A	Y
+6KP2267	6K_project	6K_BIP22_F08	BIBC_BIP22_F08		MS2086	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01014	100	#N/A	Y
+6KP1365	6K_project	6K_BIP22_F09	BIBC_BIP22_F09		MS2087	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD00136	100	#N/A	Y
+6KP601	6K_project	6K_BIP22_G05	BIBC_BIP22_G05		MS2095	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01152	99.761	Y	Y
+6KP1207	6K_project	6K_BIP22_G07	BIBC_BIP22_G07		MS2097	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02155	100	#N/A	Y
+6KP5961	6K_project	6K_BIP22_G08	BIBC_BIP22_G08		MS2098	Staphylinidae	Oxytelinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02677	100	#N/A	Y
+6KP392	6K_project	6K_BIP22_G10	BIBC_BIP22_G10		MS2100	Staphylinidae	Oxytelinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02597	96.411	Y	Y
+6KP648	6K_project	6K_BIP22_G12	BIBC_BIP22_G12		MS2102	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01152	98.325	Y	Y
+6KP2407	6K_project	6K_BIP22_H01	BIBC_BIP22_H01		MS2103	Staphylinidae	Proteininae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01427	100	#N/A	Y
+6KP3609	6K_project	6K_BIP22_H02	BIBC_BIP22_H02		MS2104	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02678	100	#N/A	Y
+6KP98	6K_project	6K_BIP22_B12	BIBC_BIP22_B12		MS2041	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP1253	6K_project	6K_BIP22_D03	BIBC_BIP22_D03		MS2056	Staphylinidae	Tachyporinae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP607	6K_project	6K_BIP22_D07	BIBC_BIP22_D07		MS2060	Staphylinidae	Pseudopsinae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP978	6K_project	6K_BIP22_H03	BIBC_BIP22_H03		MS2105	Staphylinidae	Scydmaeninae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP2644	6K_project	6K_BIP22_H04	BIBC_BIP22_H04		MS2106	Staphylinidae	Pselaphinae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP2376	6K_project	6K_BIP23_A02	BIBC_BIP23_A02		MS2116	Staphylinidae	Pselaphinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD01491	100	#N/A	Y
+6KP2028	6K_project	6K_BIP23_A12	BIBC_BIP23_A12		MS2126	Staphylinidae	Oxytelinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02763	100	#N/A	Y
+6KP2459	6K_project	6K_BIP23_B01	BIBC_BIP23_B01		MS2127	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02764	100	#N/A	Y
+6KP3176	6K_project	6K_BIP23_B02	BIBC_BIP23_B02		MS2128	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02453	100	#N/A	Y
+6KP2483	6K_project	6K_BIP23_B03	BIBC_BIP23_B03		MS2129	Staphylinidae	Pselaphinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02972	100	#N/A	Y
+6KP2020	6K_project	6K_BIP23_B06	BIBC_BIP23_B06		MS2132	Staphylinidae	Scaphidiinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02469	100	#N/A	Y
+6KP2251	6K_project	6K_BIP23_B08	BIBC_BIP23_B08		MS2134	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02973	100	#N/A	Y
+6KP2581	6K_project	6K_BIP23_B09	BIBC_BIP23_B09		MS2135	Staphylinidae	Aleocharinae	#N/A	PA	Poring	FIT1	2013	Malaysia	BIOD02521	100	#N/A	Y
+6KP520	6K_project	6K_BIP23_E11	BIBC_BIP23_E11		MS2173	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00935	99.761	Y	Y
+6KP20	6K_project	6K_BIP23_E12	BIBC_BIP23_E12		MS2174	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01363	100	#N/A	Y
+6KP15	6K_project	6K_BIP23_F01	BIBC_BIP23_F01		MS2175	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01386	100	#N/A	Y
+6KP20	6K_project	6K_BIP23_F02	BIBC_BIP23_F02		MS2176	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01363	100	#N/A	Y
+6KP1600	6K_project	6K_BIP23_F03	BIBC_BIP23_F03		MS2177	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01363	99.761	Y	Y
+6KP4140	6K_project	6K_BIP23_F04	BIBC_BIP23_F04		MS2178	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01871	100	#N/A	Y
+6KP1385	6K_project	6K_BIP23_F05	BIBC_BIP23_F05		MS2179	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01386	99.761	Y	Y
+6KP824	6K_project	6K_BIP23_F06	BIBC_BIP23_F06		MS2180	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01386	99.761	Y	Y
+6KP234	6K_project	6K_BIP23_F08	BIBC_BIP23_F08		MS2182	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01970	100	#N/A	Y
+6KP2353	6K_project	6K_BIP23_F09	BIBC_BIP23_F09		MS2183	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00165	100	#N/A	Y
+6KP579	6K_project	6K_BIP23_F10	BIBC_BIP23_F10		MS2184	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00637	97.847	Y	Y
+6KP1763	6K_project	6K_BIP23_G08	BIBC_BIP23_G08		MS2194	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00927	100	#N/A	Y
+6KP48	6K_project	6K_BIP23_G10	BIBC_BIP23_G10		MS2196	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00358	100	#N/A	Y
+6KP121	6K_project	6K_BIP23_G11	BIBC_BIP23_G11		MS2197	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00264	100	#N/A	Y
+6KP167	6K_project	6K_BIP23_G12	BIBC_BIP23_G12		MS2198	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02767	100	#N/A	Y
+6KP510	6K_project	6K_BIP23_H01	BIBC_BIP23_H01		MS2199	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD09487	100	Y	#N/A
+6KP628	6K_project	6K_BIP23_H02	BIBC_BIP23_H02		MS2200	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD09047	100	Y	#N/A
+6KP191	6K_project	6K_BIP23_H03	BIBC_BIP23_H03		MS2201	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD09323	100	Y	#N/A
+6KP1336	6K_project	6K_BIP23_H04	BIBC_BIP23_H04		MS2202	Staphylinidae	Megalopsidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01966	100	#N/A	Y
+6KP3345	6K_project	6K_BIP23_B05	BIBC_BIP23_B05		MS2131	Staphylinidae	Pselaphinae	#N/A	PA	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP1078	6K_project	6K_BIP23_E10	BIBC_BIP23_E10		MS2172	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP1614	6K_project	6K_BIP23_F07	BIBC_BIP23_F07		MS2181	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP1255	6K_project	6K_BIP23_G09	BIBC_BIP23_G09		MS2195	Staphylinidae	Paederinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP107	6K_project	6K_BIP24_A09	BIBC_BIP24_A09		MS2219	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01372	99.761	Y	Y
+6KP107	6K_project	6K_BIP24_A10	BIBC_BIP24_A10		MS2220	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01372	99.761	Y	Y
+6KP1242	6K_project	6K_BIP24_A11	BIBC_BIP24_A11		MS2221	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01015	100	#N/A	Y
+6KP986	6K_project	6K_BIP24_A12	BIBC_BIP24_A12		MS2222	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00131	100	#N/A	Y
+6KP1691	6K_project	6K_BIP24_B01	BIBC_BIP24_B01		MS2223	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00368	98.565	Y	Y
+6KP2232	6K_project	6K_BIP24_B02	BIBC_BIP24_B02		MS2224	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00368	97.608	Y	Y
+6KP167	6K_project	6K_BIP24_B03	BIBC_BIP24_B03		MS2225	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02767	100	#N/A	Y
+6KP2652	6K_project	6K_BIP24_B04	BIBC_BIP24_B04		MS2226	Staphylinidae	Megalopsidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00233	100	#N/A	Y
+6KP2523	6K_project	6K_BIP24_B05	BIBC_BIP24_B05		MS2227	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01116	99.761	Y	Y
+6KP4085	6K_project	6K_BIP25_B09	BIBC_BIP25_B09		MS2327	Staphylinidae	Paederinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01354	100	#N/A	Y
+6KP510	6K_project	6K_BIP25_B11	BIBC_BIP25_B11		MS2329	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD09487	100	Y	#N/A
+6KP3058	6K_project	6K_BIP25_B12	BIBC_BIP25_B12		MS2330	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD09205	100	Y	#N/A
+6KP3564	6K_project	6K_BIP25_C01	BIBC_BIP25_C01		MS2331	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01527	99.522	Y	Y
+6KP3564	6K_project	6K_BIP25_C02	BIBC_BIP25_C02		MS2332	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01527	99.522	Y	Y
+6KP5137	6K_project	6K_BIP25_C03	BIBC_BIP25_C03		MS2333	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02264	100	#N/A	Y
+6KP6469	6K_project	6K_BIP25_C04	BIBC_BIP25_C04		MS2334	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02268	100	#N/A	Y
+6KP167	6K_project	6K_BIP25_C05	BIBC_BIP25_C05		MS2335	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02767	100	#N/A	Y
+6KP1992	6K_project	6K_BIP25_C06	BIBC_BIP25_C06		MS2336	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01860	98.325	Y	Y
+6KP5494	6K_project	6K_BIP25_C07	BIBC_BIP25_C07		MS2337	Staphylinidae	Paederinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00303	100	#N/A	Y
+6KP5203	6K_project	6K_BIP25_C08	BIBC_BIP25_C08		MS2338	Staphylinidae	Osorinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01828	100	#N/A	Y
+6KP5098	6K_project	6K_BIP25_C09	BIBC_BIP25_C09		MS2339	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00162	100	#N/A	Y
+6KP5285	6K_project	6K_BIP25_C10	BIBC_BIP25_C10		MS2340	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02097	100	#N/A	Y
+6KP4443	6K_project	6K_BIP25_C11	BIBC_BIP25_C11		MS2341	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00470	100	#N/A	Y
+6KP5538	6K_project	6K_BIP25_C12	BIBC_BIP25_C12		MS2342	Staphylinidae	Paederinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD08298	99.282	Y	#N/A
+6KP3564	6K_project	6K_BIP25_D01	BIBC_BIP25_D01		MS2343	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01527	99.522	Y	Y
+6KP6238	6K_project	6K_BIP25_D03	BIBC_BIP25_D03		MS2345	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00088	98.086	Y	Y
+6KP5470	6K_project	6K_BIP25_D04	BIBC_BIP25_D04		MS2346	Staphylinidae	Oxytelinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01616	99.043	Y	Y
+6KP2127	6K_project	6K_BIP25_D06	BIBC_BIP25_D06		MS2348	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00088	100	#N/A	Y
+6KP1504	6K_project	6K_BIP25_D07	BIBC_BIP25_D07		MS2349	Staphylinidae	Oxytelinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01616	98.325	Y	Y
+6KP345	6K_project	6K_BIP25_D08	BIBC_BIP25_D08		MS2350	Staphylinidae	Pseudopsinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02586	99.761	Y	Y
+6KP4691	6K_project	6K_BIP25_D09	BIBC_BIP25_D09		MS2351	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00926	100	#N/A	Y
+6KP450	6K_project	6K_BIP25_D11	BIBC_BIP25_D11		MS2353	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00521	100	#N/A	Y
+6KP16	6K_project	6K_BIP25_D12	BIBC_BIP25_D12		MS2354	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP19049	6K_project	6K_BIP25_E01	BIBC_BIP25_E01		MS2355	Staphylinidae		#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02586	98.086	Y	Y
+6KP600	6K_project	6K_BIP25_E02	BIBC_BIP25_E02		MS2356	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02976	100	#N/A	Y
+6KP7362	6K_project	6K_BIP25_E03	BIBC_BIP25_E03		MS2357	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01501	100	#N/A	Y
+6KP5414	6K_project	6K_BIP25_E04	BIBC_BIP25_E04		MS2358	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01775	100	#N/A	Y
+6KP118682	6K_project	6K_BIP25_E05	BIBC_BIP25_E05		MS2359	Staphylinidae	Pseudopsinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02586	98.804	Y	Y
+6KP5251	6K_project	6K_BIP25_E06	BIBC_BIP25_E06		MS2360	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01070	100	#N/A	Y
+6KP3957	6K_project	6K_BIP25_E11	BIBC_BIP25_E11		MS2365	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02402	100	#N/A	Y
+6KP5470	6K_project	6K_BIP25_F01	BIBC_BIP25_F01		MS2367	Staphylinidae	Oxytelinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01616	99.043	Y	Y
+6KP1642	6K_project	6K_BIP25_F02	BIBC_BIP25_F02		MS2368	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02977	100	#N/A	Y
+6KP5339	6K_project	6K_BIP25_F03	BIBC_BIP25_F03		MS2369	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02587	100	#N/A	Y
+6KP4242	6K_project	6K_BIP25_F04	BIBC_BIP25_F04		MS2370	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01775	99.522	Y	Y
+6KP1778	6K_project	6K_BIP25_F05	BIBC_BIP25_F05		MS2371	Staphylinidae	Oxytelinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02385	100	#N/A	Y
+6KP6348	6K_project	6K_BIP25_F06	BIBC_BIP25_F06		MS2372	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01050	100	#N/A	Y
+6KP1521	6K_project	6K_BIP25_F07	BIBC_BIP25_F07		MS2373	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00521	99.761	Y	Y
+6KP8682	6K_project	6K_BIP25_F08	BIBC_BIP25_F08		MS2374	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00910	98.804	Y	Y
+6KP6110	6K_project	6K_BIP25_F09	BIBC_BIP25_F09		MS2375	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01273	100	#N/A	Y
+6KP53	6K_project	6K_BIP25_F10	BIBC_BIP25_F10		MS2376	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP53	6K_project	6K_BIP25_F11	BIBC_BIP25_F11		MS2377	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP4693	6K_project	6K_BIP25_F12	BIBC_BIP25_F12		MS2378	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01201	100	#N/A	Y
+6KP53	6K_project	6K_BIP25_G01	BIBC_BIP25_G01		MS2379	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP53	6K_project	6K_BIP25_G04	BIBC_BIP25_G04		MS2382	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP275	6K_project	6K_BIP25_G06	BIBC_BIP25_G06		MS2384	Staphylinidae	Oxytelinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02385	99.761	Y	Y
+6KP8450	6K_project	6K_BIP25_G07	BIBC_BIP25_G07		MS2385	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02437	99.282	Y	Y
+6KP11848	6K_project	6K_BIP25_G08	BIBC_BIP25_G08		MS2386	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02681	100	#N/A	Y
+6KP1532	6K_project	6K_BIP25_G09	BIBC_BIP25_G09		MS2387	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02441	100	#N/A	Y
+6KP6252	6K_project	6K_BIP25_G10	BIBC_BIP25_G10		MS2388	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02437	99.522	Y	Y
+6KP53	6K_project	6K_BIP25_G11	BIBC_BIP25_G11		MS2389	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02156	100	#N/A	Y
+6KP967	6K_project	6K_BIP25_G12	BIBC_BIP25_G12		MS2390	Staphylinidae	Paederinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02873	100	#N/A	Y
+6KP325	6K_project	6K_BIP25_H01	BIBC_BIP25_H01		MS2391	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00648	100	#N/A	Y
+6KP931	6K_project	6K_BIP25_H02	BIBC_BIP25_H02		MS2392	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00228	100	#N/A	Y
+6KP4056	6K_project	6K_BIP25_H03	BIBC_BIP25_H03		MS2393	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00252	100	#N/A	Y
+6KP357	6K_project	6K_BIP25_H04	BIBC_BIP25_H04		MS2394	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00086	100	#N/A	Y
+6KP9100	6K_project	6K_BIP25_H05	BIBC_BIP25_H05		MS2395	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00656	100	#N/A	Y
+6KP8620	6K_project	6K_BIP25_H07	BIBC_BIP25_H07		MS2397	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01555	98.804	Y	Y
+6KP3130	6K_project	6K_BIP25_B10	BIBC_BIP25_B10		MS2328	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP5645	6K_project	6K_BIP25_D02	BIBC_BIP25_D02		MS2344	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP6337	6K_project	6K_BIP25_D05	BIBC_BIP25_D05		MS2347	Staphylinidae	Paederinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP4927	6K_project	6K_BIP25_D10	BIBC_BIP25_D10		MS2352	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP909466	6K_project	6K_BIP25_E07	BIBC_BIP25_E07		MS2361	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP1591990	6K_project	6K_BIP25_E08	BIBC_BIP25_E08		MS2362	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP5562	6K_project	6K_BIP25_E12	BIBC_BIP25_E12		MS2366	Staphylinidae	Staphylininae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP2783	6K_project	6K_BIP25_H06	BIBC_BIP25_H06		MS2396	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP1911	6K_project	6K_BIP26_C03	BIBC_BIP26_C03		MS2429	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00398	100	#N/A	Y
+6KP708	6K_project	6K_BIP26_C04	BIBC_BIP26_C04		MS2430	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD05697	100	Y	#N/A
+6KP708	6K_project	6K_BIP26_C05	BIBC_BIP26_C05		MS2431	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD05697	100	Y	#N/A
+6KP4563	6K_project	6K_BIP26_C08	BIBC_BIP26_C08		MS2434	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01115	100	#N/A	Y
+6KP4794	6K_project	6K_BIP26_C09	BIBC_BIP26_C09		MS2435	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01630	99.282	Y	Y
+6KP2315	6K_project	6K_BIP26_C10	BIBC_BIP26_C10		MS2436	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01352	100	#N/A	Y
+6KP3848	6K_project	6K_BIP26_C11	BIBC_BIP26_C11		MS2437	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01630	100	#N/A	Y
+6KP2656	6K_project	6K_BIP26_C12	BIBC_BIP26_C12		MS2438	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02069	100	#N/A	Y
+6KP1711	6K_project	6K_BIP26_D01	BIBC_BIP26_D01		MS2439	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02020	100	#N/A	Y
+6KP3513	6K_project	6K_BIP26_E01	BIBC_BIP26_E01		MS2451	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01649	100	#N/A	Y
+6KP4737	6K_project	6K_BIP26_E02	BIBC_BIP26_E02		MS2452	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00141	100	#N/A	Y
+6KP4731	6K_project	6K_BIP26_E10	BIBC_BIP26_E10		MS2460	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD03064	100	#N/A	Y
+6KP2536	6K_project	6K_BIP26_E12	BIBC_BIP26_E12		MS2462	Staphylinidae	Scydmaeninae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00974	100	#N/A	Y
+6KP3784	6K_project	6K_BIP26_F02	BIBC_BIP26_F02		MS2464	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00872	100	#N/A	Y
+6KP3775	6K_project	6K_BIP26_F03	BIBC_BIP26_F03		MS2465	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00791	100	#N/A	Y
+6KP4436	6K_project	6K_BIP26_F04	BIBC_BIP26_F04		MS2466	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01278	100	#N/A	Y
+6KP5078	6K_project	6K_BIP26_F05	BIBC_BIP26_F05		MS2467	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01818	100	#N/A	Y
+6KP150	6K_project	6K_BIP26_F06	BIBC_BIP26_F06		MS2468	Staphylinidae	Paederinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01589	98.325	Y	Y
+6KP16	6K_project	6K_BIP26_F07	BIBC_BIP26_F07		MS2469	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00502	100	#N/A	Y
+6KP4212	6K_project	6K_BIP26_F08	BIBC_BIP26_F08		MS2470	Staphylinidae	Pseudopsinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD04340	98.325	Y	#N/A
+6KP4874	6K_project	6K_BIP26_F09	BIBC_BIP26_F09		MS2471	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00241	99.522	Y	Y
+6KP893	6K_project	6K_BIP26_F10	BIBC_BIP26_F10		MS2472	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00261	100	#N/A	Y
+6KP175	6K_project	6K_BIP26_F11	BIBC_BIP26_F11		MS2473	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02339	100	#N/A	Y
+6KP3812	6K_project	6K_BIP26_F12	BIBC_BIP26_F12		MS2474	Staphylinidae	Scaphidiinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01052	100	#N/A	Y
+6KP4446	6K_project	6K_BIP26_G03	BIBC_BIP26_G03		MS2477	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02682	100	#N/A	Y
+6KP14104	6K_project	6K_BIP26_G04	BIBC_BIP26_G04		MS2478	Staphylinidae	Oxytelinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02763	97.129	Y	Y
+6KP643	6K_project	6K_BIP26_G05	BIBC_BIP26_G05		MS2479	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02444	100	#N/A	Y
+6KP3657	6K_project	6K_BIP26_G06	BIBC_BIP26_G06		MS2480	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02683	100	#N/A	Y
+6KP3026	6K_project	6K_BIP26_G09	BIBC_BIP26_G09		MS2483	Staphylinidae	Osorinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02180	100	#N/A	Y
+6KP3782	6K_project	6K_BIP26_G10	BIBC_BIP26_G10		MS2484	Staphylinidae	Proteininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00234	100	#N/A	Y
+6KP4880	6K_project	6K_BIP26_G11	BIBC_BIP26_G11		MS2485	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00804	100	#N/A	Y
+6KP4816	6K_project	6K_BIP26_G12	BIBC_BIP26_G12		MS2486	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01555	100	#N/A	Y
+6KP4742	6K_project	6K_BIP26_H02	BIBC_BIP26_H02		MS2488	Staphylinidae	Proteininae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD03065	100	#N/A	Y
+6KP4811	6K_project	6K_BIP26_H03	BIBC_BIP26_H03		MS2489	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02770	100	#N/A	Y
+6KP3807	6K_project	6K_BIP26_H09	BIBC_BIP26_H09		MS2495	Staphylinidae	Scydmaeninae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02467	96.411	Y	#N/A
+6KP1621	6K_project	6K_BIP26_E11	BIBC_BIP26_E11		MS2461	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP3276	6K_project	6K_BIP26_G01	BIBC_BIP26_G01		MS2475	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP3276	6K_project	6K_BIP26_G02	BIBC_BIP26_G02		MS2476	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP2783	6K_project	6K_BIP26_G07	BIBC_BIP26_G07		MS2481	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP3276	6K_project	6K_BIP26_H01	BIBC_BIP26_H01		MS2487	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP978	6K_project	6K_BIP26_H10	BIBC_BIP26_H10		MS2496	Staphylinidae	Scydmaeninae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP5323	6K_project	6K_BIP26_H12	BIBC_BIP26_H12		MS2498	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP3060	6K_project	6K_BIP27_B08	BIBC_BIP27_B08		MS2518	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02993	100	#N/A	Y
+6KP3060	6K_project	6K_BIP27_B09	BIBC_BIP27_B09		MS2519	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02993	100	#N/A	Y
+6KP8570	6K_project	6K_BIP27_B11	BIBC_BIP27_B11		MS2521	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD06653	100	Y	#N/A
+6KP4627	6K_project	6K_BIP27_C01	BIBC_BIP27_C01		MS2523	Staphylinidae	Scydmaeninae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02427	100	#N/A	Y
+6KP3197	6K_project	6K_BIP27_C03	BIBC_BIP27_C03		MS2525	Staphylinidae	Scydmaeninae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02523	100	#N/A	Y
+6KP2910	6K_project	6K_BIP27_C04	BIBC_BIP27_C04		MS2526	Staphylinidae	Scydmaeninae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02017	100	#N/A	Y
+6KP3349	6K_project	6K_BIP27_C05	BIBC_BIP27_C05		MS2527	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02773	100	#N/A	Y
+6KP436	6K_project	6K_BIP27_C06	BIBC_BIP27_C06		MS2528	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01874	99.522	Y	Y
+6KP5102	6K_project	6K_BIP27_C08	BIBC_BIP27_C08		MS2530	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD00789	100	#N/A	Y
+6KP3387	6K_project	6K_BIP27_C09	BIBC_BIP27_C09		MS2531	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD03066	100	#N/A	Y
+6KP2296	6K_project	6K_BIP27_D05	BIBC_BIP27_D05		MS2539	Staphylinidae	Aleocharinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02875	100	#N/A	Y
+6KP3415	6K_project	6K_BIP27_D06	BIBC_BIP27_D06		MS2540	Staphylinidae	Tachyporinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD01437	100	#N/A	Y
+6KP4227	6K_project	6K_BIP27_D08	BIBC_BIP27_D08		MS2542	Staphylinidae	Scydmaeninae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02471	99.043	Y	Y
+6KP3837	6K_project	6K_BIP27_D09	BIBC_BIP27_D09		MS2543	Staphylinidae	Pselaphinae	#N/A	PC	Poring	FIT1	2013	Malaysia	BIOD02397	98.325	Y	Y
+6KP1138	6K_project	6K_BIP27_F03	BIBC_BIP27_F03		MS2561	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00258	98.565	Y	Y
+6KP1083	6K_project	6K_BIP27_F12	BIBC_BIP27_F12		MS2570	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00901	98.565	Y	Y
+6KP358	6K_project	6K_BIP27_G01	BIBC_BIP27_G01		MS2571	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00258	100	#N/A	Y
+6KP20	6K_project	6K_BIP27_G02	BIBC_BIP27_G02		MS2572	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01363	100	#N/A	Y
+6KP307	6K_project	6K_BIP27_G04	BIBC_BIP27_G04		MS2574	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD05221	100	Y	#N/A
+6KP1129	6K_project	6K_BIP27_G07	BIBC_BIP27_G07		MS2577	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00343	100	#N/A	Y
+6KP191	6K_project	6K_BIP27_G08	BIBC_BIP27_G08		MS2578	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD09323	100	Y	#N/A
+6KP864	6K_project	6K_BIP27_G09	BIBC_BIP27_G09		MS2579	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00381	100	#N/A	Y
+6KP492	6K_project	6K_BIP27_H03	BIBC_BIP27_H03		MS2585	Staphylinidae	Tachyporinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD07156	100	Y	#N/A
+6KP815	6K_project	6K_BIP27_H04	BIBC_BIP27_H04		MS2586	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00334	100	#N/A	Y
+6KP2011	6K_project	6K_BIP27_H05	BIBC_BIP27_H05		MS2587	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00856	99.761	Y	Y
+6KP646	6K_project	6K_BIP27_H08	BIBC_BIP27_H08		MS2590	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01957	100	#N/A	Y
+6KP170	6K_project	6K_BIP27_H11	BIBC_BIP27_H11		MS2593	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01563	100	#N/A	Y
+6KP170	6K_project	6K_BIP27_H12	BIBC_BIP27_H12		MS2594	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01563	100	#N/A	Y
+6KP2336	6K_project	6K_BIP27_G03	BIBC_BIP27_G03		MS2573	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP305	6K_project	6K_BIP28_A01	BIBC_BIP28_A01		MS2595	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD09379	100	Y	#N/A
+6KP700	6K_project	6K_BIP28_A02	BIBC_BIP28_A02		MS2596	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01859	100	#N/A	Y
+6KP884	6K_project	6K_BIP28_A03	BIBC_BIP28_A03		MS2597	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00321	100	#N/A	Y
+6KP1347	6K_project	6K_BIP28_A04	BIBC_BIP28_A04		MS2598	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00918	100	#N/A	Y
+6KP170	6K_project	6K_BIP28_A05	BIBC_BIP28_A05		MS2599	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01563	100	#N/A	Y
+6KP985	6K_project	6K_BIP28_A07	BIBC_BIP28_A07		MS2601	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00083	100	#N/A	Y
+6KP104	6K_project	6K_BIP28_A08	BIBC_BIP28_A08		MS2602	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00856	100	#N/A	Y
+6KP1314	6K_project	6K_BIP28_A10	BIBC_BIP28_A10		MS2604	Staphylinidae	Tachyporinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00532	100	#N/A	Y
+6KP2566	6K_project	6K_BIP28_A11	BIBC_BIP28_A11		MS2605	Staphylinidae	Pseudopsinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01674	99.043	Y	Y
+6KP712	6K_project	6K_BIP28_B02	BIBC_BIP28_B02		MS2608	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD09342	100	Y	#N/A
+6KP829	6K_project	6K_BIP28_B05	BIBC_BIP28_B05		MS2611	Staphylinidae	Tachyporinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01348	100	#N/A	Y
+6KP595	6K_project	6K_BIP28_B08	BIBC_BIP28_B08		MS2614	Staphylinidae	Megalopsidiinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01708	100	#N/A	Y
+6KP1646	6K_project	6K_BIP28_B10	BIBC_BIP28_B10		MS2616	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00169	98.804	Y	Y
+6KP615	6K_project	6K_BIP28_B11	BIBC_BIP28_B11		MS2617	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01527	99.522	Y	Y
+6KP526	6K_project	6K_BIP28_C01	BIBC_BIP28_C01		MS2619	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01860	100	#N/A	Y
+6KP692	6K_project	6K_BIP28_C02	BIBC_BIP28_C02		MS2620	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00169	100	#N/A	Y
+6KP677	6K_project	6K_BIP28_C03	BIBC_BIP28_C03		MS2621	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00169	99.761	Y	Y
+6KP869	6K_project	6K_BIP28_C04	BIBC_BIP28_C04		MS2622	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00807	97.608	Y	Y
+6KP125	6K_project	6K_BIP28_D03	BIBC_BIP28_D03		MS2633	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01037	100	#N/A	Y
+6KP1282	6K_project	6K_BIP28_D11	BIBC_BIP28_D11		MS2641	Staphylinidae	Megalopsidiinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02194	100	#N/A	Y
+6KP459	6K_project	6K_BIP28_E03	BIBC_BIP28_E03		MS2645	Staphylinidae	Scaphidiinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01590	100	#N/A	Y
+6KP345	6K_project	6K_BIP28_E05	BIBC_BIP28_E05		MS2647	Staphylinidae	Pseudopsinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02586	99.761	Y	Y
+6KP719	6K_project	6K_BIP28_E06	BIBC_BIP28_E06		MS2648	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02012	100	#N/A	Y
+6KP600	6K_project	6K_BIP28_E09	BIBC_BIP28_E09		MS2651	Staphylinidae	Tachyporinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02976	100	#N/A	Y
+6KP1642	6K_project	6K_BIP28_E10	BIBC_BIP28_E10		MS2652	Staphylinidae	Staphylininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02977	100	#N/A	Y
+6KP1383	6K_project	6K_BIP28_E11	BIBC_BIP28_E11		MS2653	Staphylinidae	Paederinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01525	100	#N/A	Y
+6KP482	6K_project	6K_BIP28_E12	BIBC_BIP28_E12		MS2654	Staphylinidae	Oxytelinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01422	100	#N/A	Y
+6KP450	6K_project	6K_BIP28_F02	BIBC_BIP28_F02		MS2656	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00521	100	#N/A	Y
+6KP644	6K_project	6K_BIP28_F04	BIBC_BIP28_F04		MS2658	Staphylinidae	Tachyporinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02048	100	#N/A	Y
+6KP125	6K_project	6K_BIP28_F05	BIBC_BIP28_F05		MS2659	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01037	100	#N/A	Y
+6KP1069	6K_project	6K_BIP28_F06	BIBC_BIP28_F06		MS2660	Staphylinidae	Tachyporinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01630	98.804	Y	Y
+6KP789	6K_project	6K_BIP28_F07	BIBC_BIP28_F07		MS2661	Staphylinidae	Tachyporinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01974	100	#N/A	Y
+6KP384	6K_project	6K_BIP28_F09	BIBC_BIP28_F09		MS2663	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01632	100	#N/A	Y
+6KP325	6K_project	6K_BIP28_F12	BIBC_BIP28_F12		MS2666	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00648	100	#N/A	Y
+6KP2822	6K_project	6K_BIP28_G11	BIBC_BIP28_G11		MS2677	Staphylinidae	Proteininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02525	100	#N/A	Y
+6KP504	6K_project	6K_BIP28_G12	BIBC_BIP28_G12		MS2678	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02692	100	#N/A	Y
+6KP1543	6K_project	6K_BIP28_H01	BIBC_BIP28_H01		MS2679	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00521	99.282	Y	Y
+6KP1398	6K_project	6K_BIP28_H05	BIBC_BIP28_H05		MS2683	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00511	100	#N/A	Y
+6KP706	6K_project	6K_BIP28_H06	BIBC_BIP28_H06		MS2684	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00920	100	#N/A	Y
+6KP931	6K_project	6K_BIP28_H07	BIBC_BIP28_H07		MS2685	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00228	100	#N/A	Y
+6KP2767	6K_project	6K_BIP28_H08	BIBC_BIP28_H08		MS2686	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD03075	100	#N/A	Y
+6KP2289	6K_project	6K_BIP28_H09	BIBC_BIP28_H09		MS2687	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02386	100	#N/A	Y
+6KP763	6K_project	6K_BIP28_E04	BIBC_BIP28_E04		MS2646	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP4129	6K_project	6K_BIP28_E07	BIBC_BIP28_E07		MS2649	Staphylinidae	Oxytelinae	#N/A	PD	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP3075	6K_project	6K_BIP28_G01	BIBC_BIP28_G01		MS2667	Staphylinidae	Paederinae	#N/A	PD	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP417	6K_project	6K_BIP28_G09	BIBC_BIP28_G09		MS2675	Staphylinidae	Proteininae	#N/A	PD	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP483	6K_project	6K_BIP29_A01	BIBC_BIP29_A01		MS2691	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00301	100	#N/A	Y
+6KP490	6K_project	6K_BIP29_A04	BIBC_BIP29_A04		MS2694	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD03076	100	#N/A	Y
+6KP4817	6K_project	6K_BIP29_A05	BIBC_BIP29_A05		MS2695	Staphylinidae	Proteininae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02777	100	#N/A	Y
+6KP436	6K_project	6K_BIP29_A11	BIBC_BIP29_A11		MS2701	Staphylinidae	Pselaphinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01874	99.522	Y	Y
+6KP5058	6K_project	6K_BIP29_B02	BIBC_BIP29_B02		MS2704	Staphylinidae	Pselaphinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02472	100	#N/A	Y
+6KP2041	6K_project	6K_BIP29_B06	BIBC_BIP29_B06		MS2708	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01279	100	#N/A	Y
+6KP2185	6K_project	6K_BIP29_B07	BIBC_BIP29_B07		MS2709	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01285	100	#N/A	Y
+6KP1333	6K_project	6K_BIP29_B08	BIBC_BIP29_B08		MS2710	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD01597	100	#N/A	Y
+6KP1815	6K_project	6K_BIP29_B12	BIBC_BIP29_B12		MS2714	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02392	100	#N/A	Y
+6KP3005	6K_project	6K_BIP29_C05	BIBC_BIP29_C05		MS2719	Staphylinidae	Pselaphinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02526	100	#N/A	Y
+6KP483	6K_project	6K_BIP29_C07	BIBC_BIP29_C07		MS2721	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD00301	100	#N/A	Y
+6KP3590	6K_project	6K_BIP29_C08	BIBC_BIP29_C08		MS2722	Staphylinidae	Euaesthetinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02694	100	#N/A	Y
+6KP6909	6K_project	6K_BIP29_C09	BIBC_BIP29_C09		MS2723	Staphylinidae	Aleocharinae	#N/A	PD	Poring	FIT2	2013	Malaysia	BIOD02779	100	#N/A	Y
+6KP88	6K_project	6K_BIP29_E09	BIBC_BIP29_E09		MS2747	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01341	100	#N/A	Y
+6KP88	6K_project	6K_BIP29_E10	BIBC_BIP29_E10		MS2748	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01341	100	#N/A	Y
+6KP242	6K_project	6K_BIP29_E12	BIBC_BIP29_E12		MS2750	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01388	100	#N/A	Y
+6KP447	6K_project	6K_BIP29_F02	BIBC_BIP29_F02		MS2752	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD00935	99.522	Y	Y
+6KP493	6K_project	6K_BIP29_F04	BIBC_BIP29_F04		MS2754	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD00901	99.043	Y	Y
+6KP508	6K_project	6K_BIP29_F05	BIBC_BIP29_F05		MS2755	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01363	99.761	Y	Y
+6KP20	6K_project	6K_BIP29_F06	BIBC_BIP29_F06		MS2756	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01363	100	#N/A	Y
+6KP574	6K_project	6K_BIP29_H01	BIBC_BIP29_H01		MS2775	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01386	99.761	Y	Y
+6KP917	6K_project	6K_BIP29_H02	BIBC_BIP29_H02		MS2776	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01386	99.761	Y	Y
+6KP395	6K_project	6K_BIP29_H04	BIBC_BIP29_H04		MS2778	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD00935	99.522	Y	Y
+6KP437	6K_project	6K_BIP29_H06	BIBC_BIP29_H06		MS2780	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD00935	99.522	Y	Y
+6KP15	6K_project	6K_BIP29_H07	BIBC_BIP29_H07		MS2781	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01386	100	#N/A	Y
+6KP57	6K_project	6K_BIP29_H08	BIBC_BIP29_H08		MS2782	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD00935	100	#N/A	Y
+6KP313	6K_project	6K_BIP29_H09	BIBC_BIP29_H09		MS2783	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD01917	100	#N/A	Y
+6KP477	6K_project	6K_BIP29_H10	BIBC_BIP29_H10		MS2784	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD07071	100	Y	#N/A
+6KP656	6K_project	6K_BIP29_H11	BIBC_BIP29_H11		MS2785	Staphylinidae	Scaphidiinae	#N/A	PB	Poring	FIT1	2013	Malaysia	BIOD02105	100	#N/A	Y
+6KP1065	6K_project	6K_BIP29_B09	BIBC_BIP29_B09		MS2711	Staphylinidae	Osorinae	#N/A	PD	Poring	FIT2	2013	Malaysia			Y	#N/A
+6KP501	6K_project	6K_BIP29_F01	BIBC_BIP29_F01		MS2751	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP320	6K_project	6K_BIP29_F03	BIBC_BIP29_F03		MS2753	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP779	6K_project	6K_BIP29_H03	BIBC_BIP29_H03		MS2777	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia			Y	#N/A
+6KP155	6K_project	6K_BIP29_H05	BIBC_BIP29_H05		MS2779	Staphylinidae	Staphylininae	#N/A	PB	Poring	FIT1	2013	Malaysia			Y	#N/A
+MSL2621	BATCH01_project	BIBC_MSL1015_B10	BIBC_MSL1015_B10	MSL1015	Tube04Plate02-06_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07156	100	Y	#N/A
+MSL3083	BATCH01_project	BIBC_MSL1015_C06	BIBC_MSL1015_C06	MSL1015	Tube03Plate02-04_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07894	100	Y	#N/A
+MSL1927	BATCH01_project	BIBC_MSL1015_C07	BIBC_MSL1015_C07	MSL1015	Tube03Plate05-02_0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05221	100	Y	#N/A
+MSL6752	BATCH01_project	BIBC_MSL1015_D09	BIBC_MSL1015_D09	MSL1015	Tube04Plate02-02_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02886	100	Y	Y
+MSL14029	BATCH01_project	BIBC_MSL1015_F06	BIBC_MSL1015_F06	MSL1015	Tube03Plate03-01_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02586	99.761	Y	Y
+MSL2889	BATCH01_project	BIBC_MSL1015_A06	BIBC_MSL1015_A06	MSL1015	Tube03Plate02_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+1SO1744	SO_project	BIBC_MSL1015_B10	BIBC_MSL1015_B10	MSL1015	Tube04Plate02-06_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07156	100	Y	#N/A
+1SO2082	SO_project	BIBC_MSL1015_C06	BIBC_MSL1015_C06	MSL1015	Tube03Plate02-04_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07894	100	Y	#N/A
+1SO1228	SO_project	BIBC_MSL1015_C07	BIBC_MSL1015_C07	MSL1015	Tube03Plate05-02_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05221	100	Y	#N/A
+1SO4459	SO_project	BIBC_MSL1015_D09	BIBC_MSL1015_D09	MSL1015	Tube04Plate02-02_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02886	100	Y	Y
+1SO3795	SO_project	BIBC_MSL1015_F06	BIBC_MSL1015_F06	MSL1015	Tube03Plate03-01_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02586	99.761	Y	Y
+1SO1927	SO_project	BIBC_MSL1015_A06	BIBC_MSL1015_A06	MSL1015	Tube03Plate02_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+MSL3493	BATCH01_project	BIBC_MSL1016_A11	BIBC_MSL1016_A11	MSL1016	Tube05Plate06-01_0004	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02676	100	Y	Y
+MSL2750	BATCH01_project	BIBC_MSL1016_B08	BIBC_MSL1016_B08	MSL1016	Tube05Plate02-04_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08298	100	Y	#N/A
+MSL3051	BATCH01_project	BIBC_MSL1016_B11	BIBC_MSL1016_B11	MSL1016	Tube05Plate06-01_0005	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07375	100	Y	#N/A
+MSL10000	BATCH01_project	BIBC_MSL1016_C07	BIBC_MSL1016_C07	MSL1016	Tube05Plate02-01_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD04190	100	Y	#N/A
+MSL1719	BATCH01_project	BIBC_MSL1016_C08	BIBC_MSL1016_C08	MSL1016	Tube05Plate03_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05231	100	Y	#N/A
+MSL2968	BATCH01_project	BIBC_MSL1016_C10	BIBC_MSL1016_C10	MSL1016	Tube05Plate04-01_0009	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07480	100	Y	#N/A
+MSL4789	BATCH01_project	BIBC_MSL1016_C11	BIBC_MSL1016_C11	MSL1016	Tube05Plate06-01_0006	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07146	100	Y	#N/A
+MSL1657	BATCH01_project	BIBC_MSL1016_D10	BIBC_MSL1016_D10	MSL1016	Tube05Plate04-01_0010	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08298	99.522	Y	#N/A
+MSL1489	BATCH01_project	BIBC_MSL1016_E10	BIBC_MSL1016_E10	MSL1016	Tube05Plate04-01_0011	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08946	99.522	Y	#N/A
+MSL25429	BATCH01_project	BIBC_MSL1016_F07	BIBC_MSL1016_F07	MSL1016	Tube05Plate02-02_0002	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07887	100	Y	#N/A
+MSL1511	BATCH01_project	BIBC_MSL1016_F08	BIBC_MSL1016_F08	MSL1016	Tube05Plate03_0004	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05219	100	Y	#N/A
+MSL638	BATCH01_project	BIBC_MSL1016_G10	BIBC_MSL1016_G10	MSL1016	Tube05Plate06-01_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00358	99.761	Y	Y
+MSL1823	BATCH01_project	BIBC_MSL1016_H08	BIBC_MSL1016_H08	MSL1016	Tube05Plate04-02_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00559	97.608	Y	Y
+MSL79389	BATCH01_project	BIBC_MSL1016_E12	BIBC_MSL1016_E12	MSL1016	Tube05Plate07-04_0004	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+MSL4168	BATCH01_project	BIBC_MSL1016_F12	BIBC_MSL1016_F12	MSL1016	Tube05Plate07-04_0005	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+MSL2929	BATCH01_project	BIBC_MSL1016_D12	BIBC_MSL1016_D12	MSL1016	Tube05Plate07-04_0003	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+1SO2383	SO_project	BIBC_MSL1016_A11	BIBC_MSL1016_A11	MSL1016	Tube05Plate06-01_0004	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02676	100	Y	Y
+1SO1827	SO_project	BIBC_MSL1016_B08	BIBC_MSL1016_B08	MSL1016	Tube05Plate02-04_0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08298	100	Y	#N/A
+1SO2060	SO_project	BIBC_MSL1016_B11	BIBC_MSL1016_B11	MSL1016	Tube05Plate06-01_0005	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07375	100	Y	#N/A
+1SO4157	SO_project	BIBC_MSL1016_B12	BIBC_MSL1016_B12	MSL1016	Tube05Plate07-04_0001	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05382	100	Y	#N/A
+1SO2441	SO_project	BIBC_MSL1016_C07	BIBC_MSL1016_C07	MSL1016	Tube05Plate02-01_0001	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD04190	100	Y	#N/A
+1SO964	SO_project	BIBC_MSL1016_C08	BIBC_MSL1016_C08	MSL1016	Tube05Plate03_0001	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05231	100	Y	#N/A
+1SO1990	SO_project	BIBC_MSL1016_C10	BIBC_MSL1016_C10	MSL1016	Tube05Plate04-01_0009	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07480	100	Y	#N/A
+1SO2256	SO_project	BIBC_MSL1016_C11	BIBC_MSL1016_C11	MSL1016	Tube05Plate06-01_0006	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07146	100	Y	#N/A
+1SO2364	SO_project	BIBC_MSL1016_D07	BIBC_MSL1016_D07	MSL1016	Tube05Plate02-01_0002	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08099	100	Y	#N/A
+1SO1075	SO_project	BIBC_MSL1016_D10	BIBC_MSL1016_D10	MSL1016	Tube05Plate04-01_0010	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08298	99.522	Y	#N/A
+1SO976	SO_project	BIBC_MSL1016_E10	BIBC_MSL1016_E10	MSL1016	Tube05Plate04-01_0011	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08946	99.522	Y	#N/A
+1SO867	SO_project	BIBC_MSL1016_F07	BIBC_MSL1016_F07	MSL1016	Tube05Plate02-02_0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07887	100	Y	#N/A
+1SO988	SO_project	BIBC_MSL1016_F08	BIBC_MSL1016_F08	MSL1016	Tube05Plate03_0004	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05219	100	Y	#N/A
+1SO453	SO_project	BIBC_MSL1016_G10	BIBC_MSL1016_G10	MSL1016	Tube05Plate06-01_0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00358	99.761	Y	Y
+1SO1165	SO_project	BIBC_MSL1016_H08	BIBC_MSL1016_H08	MSL1016	Tube05Plate04-02_0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00559	97.608	Y	Y
+1SO9926	SO_project	BIBC_MSL1016_E12	BIBC_MSL1016_E12	MSL1016	Tube05Plate07-04_0004	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+1SO2919	SO_project	BIBC_MSL1016_F12	BIBC_MSL1016_F12	MSL1016	Tube05Plate07-04_0005	Staphylinidae	Paederinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+MSL4469	BATCH01_project	BIBC_MSL1021_C10	BIBC_MSL1021_C10	MSL1021	P3_0030	Staphylinidae		#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia	BIOD04340	100	Y	#N/A
+MSL2737	BATCH01_project	BIBC_MSL1021_D08	BIBC_MSL1021_D08	MSL1021	P3_0015	Staphylinidae	Scaphidiinae	#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia	BIOD07604	100	Y	#N/A
+MSL4310	BATCH01_project	BIBC_MSL1021_E11	BIBC_MSL1021_E11	MSL1021	P8a_0007	Staphylinidae	Scaphidiinae	#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia	BIOD07203	100	Y	#N/A
+MSL2611	BATCH01_project	BIBC_MSL1021_F10	BIBC_MSL1021_F10	MSL1021	P3_0033	Staphylinidae		#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia	BIOD07757	100	Y	#N/A
+MSL1414	BATCH01_project	BIBC_MSL1021_G09	BIBC_MSL1021_G09	MSL1021	P3_0026	Staphylinidae		#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia	BIOD07599	100	Y	#N/A
+MSL4346	BATCH01_project	BIBC_MSL1021_C08	BIBC_MSL1021_C08	MSL1021	P3_0014	Staphylinidae		#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia			Y	#N/A
+MSL5266	BATCH01_project	BIBC_MSL1021_B10	BIBC_MSL1021_B10	MSL1021	P3_0029	Staphylinidae		#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia			Y	#N/A
+MSL13500	BATCH01_project	BIBC_MSL1022_C08	BIBC_MSL1022_C08	MSL1022	P4_0012	Staphylinidae	Pselaphinae	#N/A		Poring		2013	Malaysia	BIOD08163	100	Y	#N/A
+MSL419	BATCH01_project	BIBC_MSL1022_D10	BIBC_MSL1022_D10	MSL1022	P14_0004	Staphylinidae		#N/A		Poring		2013	Malaysia	BIOD04405	100	Y	#N/A
+MSL3915	BATCH01_project	BIBC_MSL1022_H01	BIBC_MSL1022_H01	MSL1022	P9_0006	Staphylinidae		#N/A		Poring		2013	Malaysia	BIOD08379	99.282	Y	#N/A
+MSL6068	BATCH01_project	BIBC_MSL1022_A08	BIBC_MSL1022_A08	MSL1022	P4_0010	Staphylinidae	Pselaphinae	#N/A		Poring		2013	Malaysia			Y	#N/A
+MSL7802	BATCH01_project	BIBC_MSL1023_A06	BIBC_MSL1023_A06	MSL1023	P21a_0010	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD05236	99.282	Y	#N/A
+MSL3350	BATCH01_project	BIBC_MSL1023_D03	BIBC_MSL1023_E03	MSL1023	P20a_0013	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD07893	100	Y	#N/A
+MSL3350	BATCH01_project	BIBC_MSL1023_E03	BIBC_MSL1023_D03	MSL1023	P20a_0013	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD07893	100	Y	#N/A
+MSL3848	BATCH01_project	BIBC_MSL1023_G05	BIBC_MSL1023_G05	MSL1023	P21a_0008	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD05236	100	Y	#N/A
+MSL7076	BATCH01_project	BIBC_MSL1023_H04	BIBC_MSL1023_H04	MSL1023	P21a_0001	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD05418	100	Y	#N/A
+MSL5509	BATCH01_project	BIBC_MSL1024_A04	BIBC_MSL1024_A04	MSL1024	KINAB-HQ-02_0007	Staphylinidae	Scydmaeninae	#N/A		EMAS		2013	Malaysia	BIOD04859	100	Y	#N/A
+MSL2215	BATCH01_project	BIBC_MSL1024_C06	BIBC_MSL1024_C06	MSL1024	KINAB-HQ-03_0006	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD06429	100	Y	#N/A
+MSL3199	BATCH01_project	BIBC_MSL1024_C07	BIBC_MSL1024_C07	MSL1024	KINAB-HQ-03_0016	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD03624	100	Y	#N/A
+MSL202	BATCH01_project	BIBC_MSL1024_D03	BIBC_MSL1024_D03	MSL1024	KINAB-HQ-02_0002	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD05599	100	Y	#N/A
+MSL894	BATCH01_project	BIBC_MSL1024_D05	BIBC_MSL1024_D05	MSL1024	KINAB-HQ-02_0018	Staphylinidae	Pselaphinae	#N/A		EMAS		2013	Malaysia	BIOD04629	100	Y	#N/A
+MSL2879	BATCH01_project	BIBC_MSL1024_D07	BIBC_MSL1024_D07	MSL1024	KINAB-HQ-03_0017	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD07383	100	Y	#N/A
+MSL2875	BATCH01_project	BIBC_MSL1024_D11	BIBC_MSL1024_D11	MSL1024	KINAB-HQ-03_0049	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD04401	100	Y	#N/A
+MSL1725	BATCH01_project	BIBC_MSL1024_E03	BIBC_MSL1024_E03	MSL1024	KINAB-HQ-02_0003	Staphylinidae	Pselaphinae	#N/A		EMAS		2013	Malaysia	BIOD04935	99.282	Y	#N/A
+MSL6327	BATCH01_project	BIBC_MSL1024_F03	BIBC_MSL1024_F03	MSL1024	KINAB-HQ-02_0004	Staphylinidae	Pselaphinae	#N/A		EMAS		2013	Malaysia	BIOD06653	100	Y	#N/A
+MSL15899	BATCH01_project	BIBC_MSL1024_F04	BIBC_MSL1024_F04	MSL1024	KINAB-HQ-02_0012	Staphylinidae	Pselaphinae	#N/A		EMAS		2013	Malaysia	BIOD08108	100	Y	#N/A
+MSL1136	BATCH01_project	BIBC_MSL1024_G03	BIBC_MSL1024_G03	MSL1024	KINAB-HQ-02_0005	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD05170	100	Y	#N/A
+MSL2511	BATCH01_project	BIBC_MSL1029_E12	BIBC_MSL1016_D07	MSL1016	Tube05Plate02-01_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08099	100	Y	#N/A
+MSL202	BATCH01_project	BIBC_MSL1038_B09	BIBC_MSL1038_B09	MSL1038	KINAB-HQ-09_0002	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD05599	100	Y	#N/A
+MSL4337	BATCH01_project	BIBC_MSL1038_E10	BIBC_MSL1038_E10	MSL1038	KINAB-HQ-10_0011	Staphylinidae		#N/A		EMAS		2013	Malaysia	BIOD06399	100	Y	#N/A
+MSL2898	BATCH01_project	BIBC_MSL1038_C08	BIBC_MSL1038_C08	MSL1038	KINAB-HQ-07_0018	Staphylinidae		#N/A		EMAS		2013	Malaysia			Y	#N/A
+MSL4463	BATCH01_project	BIBC_MSL1058_C03	BIBC_MSL1021_C12	MSL1021	P3_0006	Staphylinidae		#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia	BIOD07612	99.522	Y	#N/A
+MSL2879	BATCH01_project	BIBC_MSL1058_E03	BIBC_MSL1022_B01	MSL1022	P8a_0020	Staphylinidae		#N/A		Poring		2013	Malaysia	BIOD07383	100	Y	#N/A
+MSL82498	BATCH01_project	BIBC_MSL1058_B03	BIBC_MSL1021_B12	MSL1021	P3_0005	Staphylinidae		#N/A	TRUS MAD1 1000m	Poring		2013	Malaysia			Y	#N/A
+MSL86632	BATCH01_project	BIBC_MSL1059_B05	BIBC_MSL1015_B04	MSL1015	Tube01Plate13-01_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02105	100	Y	Y
+MSL10784	BATCH01_project	BIBC_MSL1059_C05	BIBC_MSL1015_C04	MSL1015	Tube01Plate13-02_0003	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD05382	98.325	Y	#N/A
+MSL2743	BATCH01_project	BIBC_MSL1059_E05	BIBC_MSL1015_E04	MSL1015	Tube01Plate13-03_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07743	100	Y	#N/A
+MSL14029	BATCH01_project	BIBC_MSL1059_F05	BIBC_MSL1015_F04	MSL1015	Tube01Plate14_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02586	99.761	Y	Y
+MSL12309	BATCH01_project	BIBC_MSL1059_G04	BIBC_MSL1015_G03	MSL1015	Tube01Plate13-02_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00926	100	Y	Y
+MSL3992	BATCH01_project	BIBC_MSL1059_G06	BIBC_MSL1015_G05	MSL1015	Tube03Plate01-02_0001	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD07071	100	Y	#N/A
+MSL204047	BATCH01_project	BIBC_MSL1059_H04	BIBC_MSL1015_H03	MSL1015	Tube01Plate13-02_0002	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02886	98.801	Y	Y
+MSL34186	BATCH01_project	BIBC_MSL1059_G05	BIBC_MSL1015_G04	MSL1015	Tube01Plate14_0002	Staphylinidae	Scaphidiinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL125	5MSL_project	BIBC_MSL1060_B08	BIBC_MSL1060_B08	MSL1060	EMAS-IN-0203-0004	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09875	98.804	Y	#N/A
+5MSL261	5MSL_project	BIBC_MSL1060_C01	BIBC_MSL1060_C01	MSL1060	EMAS-IN-0101-0003	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD02871	100	Y	Y
+5MSL144	5MSL_project	BIBC_MSL1060_C06	BIBC_MSL1060_C06	MSL1060	EMAS-IN-0103-0022	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09875	99.282	Y	#N/A
+5MSL144	5MSL_project	BIBC_MSL1060_C08	BIBC_MSL1060_C08	MSL1060	EMAS-IN-0203-0005	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09875	99.282	Y	#N/A
+5MSL1693	5MSL_project	BIBC_MSL1060_C09	BIBC_MSL1060_C09	MSL1060	EMAS-IN-0203-0013	Staphylinidae	Paederinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD02519	95.215	Y	Y
+5MSL45	5MSL_project	BIBC_MSL1060_D05	BIBC_MSL1060_D05	MSL1060	EMAS-IN-0103-0015	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09379	100	Y	#N/A
+5MSL300	5MSL_project	BIBC_MSL1060_D09	BIBC_MSL1060_D09	MSL1060	EMAS-IN-0203-0014	Staphylinidae	Paederinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD07893	98.804	Y	#N/A
+5MSL45	5MSL_project	BIBC_MSL1060_D11	BIBC_MSL1060_D11	MSL1060	EMAS-IN-0203-0030	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09379	100	Y	#N/A
+5MSL144	5MSL_project	BIBC_MSL1060_E05	BIBC_MSL1060_E05	MSL1060	EMAS-IN-0103-0016	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09875	99.282	Y	#N/A
+5MSL145	5MSL_project	BIBC_MSL1060_E08	BIBC_MSL1060_E08	MSL1060	EMAS-IN-0203-0007	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09208	100	Y	#N/A
+5MSL1190	5MSL_project	BIBC_MSL1060_F02	BIBC_MSL1060_F02	MSL1060	EMAS-IN-0101-0014	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD00920	99.761	Y	Y
+5MSL145	5MSL_project	BIBC_MSL1060_F08	BIBC_MSL1060_F08	MSL1060	EMAS-IN-0203-0008	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09208	100	Y	#N/A
+5MSL696	5MSL_project	BIBC_MSL1060_F09	BIBC_MSL1060_F09	MSL1060	EMAS-IN-0203-0016	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD02386	99.282	Y	Y
+5MSL1296	5MSL_project	BIBC_MSL1060_G03	BIBC_MSL1060_G03	MSL1060	EMAS-IN-0103-0002	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09875	98.804	Y	#N/A
+5MSL144	5MSL_project	BIBC_MSL1060_H05	BIBC_MSL1060_H05	MSL1060	EMAS-IN-0103-0019	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09875	99.282	Y	#N/A
+5MSL400	5MSL_project	BIBC_MSL1060_A01	BIBC_MSL1060_A01	MSL1060	EMAS-IN-0101-0001	Staphylinidae	Euasthetinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL739	5MSL_project	BIBC_MSL1060_D01	BIBC_MSL1060_D01	MSL1060	EMAS-IN-0101-0004	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL466	5MSL_project	BIBC_MSL1060_D02	BIBC_MSL1060_D02	MSL1060	EMAS-IN-0101-0012	Staphylinidae	Tachyporinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL90	5MSL_project	BIBC_MSL1060_D03	BIBC_MSL1060_D03	MSL1060	EMAS-IN-0102-0002	Staphylinidae	Scydmaeninae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL541	5MSL_project	BIBC_MSL1060_D06	BIBC_MSL1060_D06	MSL1060	EMAS-IN-0103-0023	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL239	5MSL_project	BIBC_MSL1060_D10	BIBC_MSL1060_D10	MSL1060	EMAS-IN-0203-0022	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL688	5MSL_project	BIBC_MSL1060_E02	BIBC_MSL1060_E02	MSL1060	EMAS-IN-0101-0013	Staphylinidae	Scydmaeninae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL191	5MSL_project	BIBC_MSL1060_F11	BIBC_MSL1060_F11	MSL1060	EMAS-IN-0204-0001	Staphylinidae	Tachyporinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL691	5MSL_project	BIBC_MSL1060_G02	BIBC_MSL1060_G02	MSL1060	EMAS-IN-0101-0015	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL208	5MSL_project	BIBC_MSL1060_G05	BIBC_MSL1060_G05	MSL1060	EMAS-IN-0103-0018	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL777	5MSL_project	BIBC_MSL1060_H01	BIBC_MSL1060_H01	MSL1060	EMAS-IN-0101-0008	Staphylinidae	Scaphidiinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL492	5MSL_project	BIBC_MSL1060_H09	BIBC_MSL1060_H09	MSL1060	EMAS-IN-0203-0018	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL63	5MSL_project	BIBC_MSL1060_E10	BIBC_MSL1060_E10	MSL1060	EMAS-IN-0203-0023	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL18	5MSL_project	BIBC_MSL1060_C10	BIBC_MSL1060_C10	MSL1060	EMAS-IN-0203-0021	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL100	5MSL_project	BIBC_MSL1060_D08	BIBC_MSL1060_D08	MSL1060	EMAS-IN-0203-0006	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL63	5MSL_project	BIBC_MSL1060_F06	BIBC_MSL1060_F06	MSL1060	EMAS-IN-0103-0025	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL18	5MSL_project	BIBC_MSL1060_E06	BIBC_MSL1060_E06	MSL1060	EMAS-IN-0103-0024	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL63	5MSL_project	BIBC_MSL1060_G12	BIBC_MSL1060_G12	MSL1060	EMAS-IN-0301-0005	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL18	5MSL_project	BIBC_MSL1060_B09	BIBC_MSL1060_B09	MSL1060	EMAS-IN-0203-0012	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL100	5MSL_project	BIBC_MSL1060_G01	BIBC_MSL1060_G01	MSL1060	EMAS-IN-0101-0007	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL621	5MSL_project	BIBC_MSL1061_A08	BIBC_MSL1061_A08	MSL1061	EMAS-IN-0402-0006	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD02113	99.761	Y	Y
+5MSL93	5MSL_project	BIBC_MSL1061_D12	BIBC_MSL1061_D12	MSL1061	MalaB01-0005	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09323	100	Y	#N/A
+5MSL45	5MSL_project	BIBC_MSL1061_E04	BIBC_MSL1061_E04	MSL1061	EMAS-IN-0302-0002	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09379	100	Y	#N/A
+5MSL261	5MSL_project	BIBC_MSL1061_E10	BIBC_MSL1061_E10	MSL1061	EMAS-IN-0402-0026	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD02871	100	Y	Y
+5MSL145	5MSL_project	BIBC_MSL1061_F04	BIBC_MSL1061_F04	MSL1061	EMAS-IN-0302-0003	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD09208	100	Y	#N/A
+5MSL1588	5MSL_project	BIBC_MSL1061_F10	BIBC_MSL1061_F10	MSL1061	EMAS-IN-0402-0027	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD02473	100	Y	Y
+5MSL163	5MSL_project	BIBC_MSL1061_G04	BIBC_MSL1061_G04	MSL1061	EMAS-IN-0302-0004	Staphylinidae	Staphylininae	#N/A		EMAS	INTERC	2013	Malaysia	BIOD02977	99.522	Y	Y
+5MSL1007	5MSL_project	BIBC_MSL1061_B10	BIBC_MSL1061_B10	MSL1061	EMAS-IN-0402-0023	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL91	5MSL_project	BIBC_MSL1061_C08	BIBC_MSL1061_C08	MSL1061	EMAS-IN-0402-0008	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL652	5MSL_project	BIBC_MSL1061_D08	BIBC_MSL1061_D08	MSL1061	EMAS-IN-0402-0009	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL68	5MSL_project	BIBC_MSL1061_D09	BIBC_MSL1061_D09	MSL1061	EMAS-IN-0402-0017	Staphylinidae	Scydmaeninae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL140	5MSL_project	BIBC_MSL1061_E05	BIBC_MSL1061_E05	MSL1061	EMAS-IN-0302-0010	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL613	5MSL_project	BIBC_MSL1061_E06	BIBC_MSL1061_E06	MSL1061	EMAS-IN-0303-0008	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL29	5MSL_project	BIBC_MSL1061_E07	BIBC_MSL1061_E07	MSL1061	EMAS-IN-0402-0002	Staphylinidae	Staphylininae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL857	5MSL_project	BIBC_MSL1061_E09	BIBC_MSL1061_E09	MSL1061	EMAS-IN-0402-0018	Staphylinidae	Pselaphinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL258	5MSL_project	BIBC_MSL1061_F08	BIBC_MSL1061_F08	MSL1061	EMAS-IN-0402-0011	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL434	5MSL_project	BIBC_MSL1061_G01	BIBC_MSL1061_G01	MSL1061	EMAS-IN-0301-0013	Staphylinidae	Steninae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL292	5MSL_project	BIBC_MSL1061_G05	BIBC_MSL1061_G05	MSL1061	EMAS-IN-0303-0001	Staphylinidae	Paederinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL2414	5MSL_project	BIBC_MSL1061_G06	BIBC_MSL1061_G06	MSL1061	EMAS-IN-0303-0010	Staphylinidae	Pselaphinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL742	5MSL_project	BIBC_MSL1061_G10	BIBC_MSL1061_G10	MSL1061	EMAS-IN-0402-0028	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL657	5MSL_project	BIBC_MSL1061_H02	BIBC_MSL1061_H02	MSL1061	EMAS-IN-0301-0022	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL849	5MSL_project	BIBC_MSL1061_H03	BIBC_MSL1061_H03	MSL1061	EMAS-IN-0301-0030	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL1503	5MSL_project	BIBC_MSL1061_H05	BIBC_MSL1061_H05	MSL1061	EMAS-IN-0303-0002	Staphylinidae	Pselaphinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL211	5MSL_project	BIBC_MSL1061_H07	BIBC_MSL1061_H07	MSL1061	EMAS-IN-0402-0005	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL494	5MSL_project	BIBC_MSL1061_D06	BIBC_MSL1061_D06	MSL1061	EMAS-IN-0303-0007	Staphylinidae	Euasthetinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL230	5MSL_project	BIBC_MSL1061_A06	BIBC_MSL1061_A06	MSL1061	EMAS-IN-0303-0004	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL100	5MSL_project	BIBC_MSL1061_E11	BIBC_MSL1061_E11	MSL1061	EMAS-IN-0403-0005	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL108	5MSL_project	BIBC_MSL1061_F11	BIBC_MSL1061_F11	MSL1061	EMAS-IN-0403-0006	Staphylinidae	Euasthetinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL202	5MSL_project	BIBC_MSL1061_C02	BIBC_MSL1061_C02	MSL1061	EMAS-IN-0301-0017	Staphylinidae	Paederinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL108	5MSL_project	BIBC_MSL1061_D05	BIBC_MSL1061_D05	MSL1061	EMAS-IN-0302-0009	Staphylinidae	Euasthetinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL18	5MSL_project	BIBC_MSL1061_G08	BIBC_MSL1061_G08	MSL1061	EMAS-IN-0402-0012	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL18	5MSL_project	BIBC_MSL1061_B01	BIBC_MSL1061_B01	MSL1061	EMAS-IN-0301-0008	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL100	5MSL_project	BIBC_MSL1061_A01	BIBC_MSL1061_A01	MSL1061	EMAS-IN-0301-0007	Staphylinidae	Oxytelinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL230	5MSL_project	BIBC_MSL1061_B11	BIBC_MSL1061_B11	MSL1061	EMAS-IN-0403-0002	Staphylinidae	Aleocharinae	#N/A		EMAS	INTERC	2013	Malaysia			Y	#N/A
+5MSL30	5MSL_project	BIBC_MSL1062_A09	BIBC_MSL1062_A09	MSL1062	FD0202-0008	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00093	100	Y	Y
+5MSL893	5MSL_project	BIBC_MSL1062_A10	BIBC_MSL1062_A10	MSL1062	FD0302-0008	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD02692	98.565	Y	Y
+5MSL326	5MSL_project	BIBC_MSL1062_B08	BIBC_MSL1062_B08	MSL1062	FD0202-0001	Staphylinidae	Scaphidiinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD02069	95.933	Y	Y
+5MSL594	5MSL_project	BIBC_MSL1062_B09	BIBC_MSL1062_B09	MSL1062	FD0302-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00804	100	Y	Y
+5MSL357	5MSL_project	BIBC_MSL1062_C08	BIBC_MSL1062_C08	MSL1062	FD0202-0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD01859	99.761	Y	Y
+5MSL630	5MSL_project	BIBC_MSL1062_D01	BIBC_MSL1062_D01	MSL1062	MalaB01-0015	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD09873	100	Y	#N/A
+5MSL747	5MSL_project	BIBC_MSL1062_D07	BIBC_MSL1062_D07	MSL1062	FC0202-0006	Staphylinidae	Tachyporinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00368	98.565	Y	Y
+5MSL384	5MSL_project	BIBC_MSL1062_D10	BIBC_MSL1062_D10	MSL1062	FD0402-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00674	99.282	Y	Y
+5MSL443	5MSL_project	BIBC_MSL1062_E10	BIBC_MSL1062_E10	MSL1062	FD0402-0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00511	99.761	Y	Y
+5MSL576	5MSL_project	BIBC_MSL1062_F08	BIBC_MSL1062_F08	MSL1062	FD0202-0005	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00169	100	Y	Y
+5MSL462	5MSL_project	BIBC_MSL1062_F09	BIBC_MSL1062_F09	MSL1062	FD0302-0005	Staphylinidae	Osorinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD01427	98.565	Y	Y
+5MSL710	5MSL_project	BIBC_MSL1062_F10	BIBC_MSL1062_F10	MSL1062	FD0402-0003	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00779	98.565	Y	Y
+5MSL2790	5MSL_project	BIBC_MSL1062_G03	BIBC_MSL1062_G03	MSL1062	MalaB04-0013	Staphylinidae	Paederinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD01589	98.804	Y	Y
+5MSL556	5MSL_project	BIBC_MSL1062_G09	BIBC_MSL1062_G09	MSL1062	FD0302-0006	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD02156	100	Y	Y
+5MSL98	5MSL_project	BIBC_MSL1062_H02	BIBC_MSL1062_H02	MSL1062	MalaB04-0006	Staphylinidae	Scaphidiinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD09679	100	Y	#N/A
+5MSL394	5MSL_project	BIBC_MSL1062_H08	BIBC_MSL1062_H08	MSL1062	FD0202-0007	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia	BIOD00807	97.608	Y	Y
+5MSL362	5MSL_project	BIBC_MSL1062_C10	BIBC_MSL1062_C10	MSL1062	FD0401-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL608	5MSL_project	BIBC_MSL1062_D02	BIBC_MSL1062_D02	MSL1062	MalaB04-0002	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL418	5MSL_project	BIBC_MSL1062_D09	BIBC_MSL1062_D09	MSL1062	FD0302-0003	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL360	5MSL_project	BIBC_MSL1062_B10	BIBC_MSL1062_B10	MSL1062	FD0302-0009	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL459	5MSL_project	BIBC_MSL1062_H09	BIBC_MSL1062_H09	MSL1062	FD0302-0007	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL569	5MSL_project	BIBC_MSL1063_A06	BIBC_MSL1063_A06	MSL1063	IB02-0001	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01363	100	Y	Y
+5MSL486	5MSL_project	BIBC_MSL1063_A07	BIBC_MSL1063_A07	MSL1063	IB02-0009	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00164	99.043	Y	Y
+5MSL377	5MSL_project	BIBC_MSL1063_A11	BIBC_MSL1063_A11	MSL1063	IAD12-0302-0001	Staphylinidae	Scaphidiinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD09205	96.411	Y	#N/A
+5MSL1548	5MSL_project	BIBC_MSL1063_B04	BIBC_MSL1063_B04	MSL1063	FC0402-0006	Staphylinidae	Pselaphinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01775	99.522	Y	Y
+5MSL472	5MSL_project	BIBC_MSL1063_B06	BIBC_MSL1063_B06	MSL1063	IB02-0002	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01386	99.282	Y	Y
+5MSL718	5MSL_project	BIBC_MSL1063_B07	BIBC_MSL1063_B07	MSL1063	IB02-0010	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01372	100	#N/A	Y
+5MSL82	5MSL_project	BIBC_MSL1063_B08	BIBC_MSL1063_B08	MSL1063	IB0302-0008	Staphylinidae	Paederinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00151	96.411	Y	Y
+5MSL931	5MSL_project	BIBC_MSL1063_B11	BIBC_MSL1063_B11	MSL1063	IAD12-0302-0002	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02048	100	Y	Y
+5MSL1198	5MSL_project	BIBC_MSL1063_C05	BIBC_MSL1063_C05	MSL1063	FC0502-0003	Staphylinidae	Megalopsidiinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02194	100	Y	Y
+5MSL1418	5MSL_project	BIBC_MSL1063_C06	BIBC_MSL1063_C06	MSL1063	IB02-0003	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01381	99.043	Y	Y
+5MSL468	5MSL_project	BIBC_MSL1063_C07	BIBC_MSL1063_C07	MSL1063	IB0302-0001	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD09415	100	Y	#N/A
+5MSL35	5MSL_project	BIBC_MSL1063_C08	BIBC_MSL1063_C08	MSL1063	IB0302-0009	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00856	100	Y	Y
+5MSL851	5MSL_project	BIBC_MSL1063_D01	BIBC_MSL1063_D01	MSL1063	WA01-0003	Staphylinidae	Pselaphinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02598	98.325	Y	Y
+5MSL518	5MSL_project	BIBC_MSL1063_D06	BIBC_MSL1063_D06	MSL1063	IB02-0004	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02078	98.565	Y	Y
+5MSL35	5MSL_project	BIBC_MSL1063_D07	BIBC_MSL1063_D07	MSL1063	IB0302-0002	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00856	100	Y	Y
+5MSL433	5MSL_project	BIBC_MSL1063_E01	BIBC_MSL1063_E01	MSL1063	WA02-0001	Staphylinidae	Proteininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00063	99.282	Y	Y
+5MSL496	5MSL_project	BIBC_MSL1063_E02	BIBC_MSL1063_E02	MSL1063	WC02-0005	Staphylinidae	Osorinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02886	100	Y	Y
+5MSL690	5MSL_project	BIBC_MSL1063_E05	BIBC_MSL1063_E05	MSL1063	FC0502-0005	Staphylinidae	Megalopsidiinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00233	97.847	Y	Y
+5MSL42	5MSL_project	BIBC_MSL1063_E06	BIBC_MSL1063_E06	MSL1063	IB02-0005	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00358	100	Y	Y
+5MSL797	5MSL_project	BIBC_MSL1063_E07	BIBC_MSL1063_E07	MSL1063	IB0302-0003	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00381	99.761	Y	Y
+5MSL46	5MSL_project	BIBC_MSL1063_E08	BIBC_MSL1063_E08	MSL1063	IC01-0001	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00625	99.761	Y	Y
+5MSL531	5MSL_project	BIBC_MSL1063_F05	BIBC_MSL1063_F05	MSL1063	FC0503-0001	Staphylinidae	Tachyporinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02069	100	Y	Y
+5MSL1014	5MSL_project	BIBC_MSL1063_F06	BIBC_MSL1063_F06	MSL1063	IB02-0006	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01089	99.522	Y	Y
+5MSL480	5MSL_project	BIBC_MSL1063_F07	BIBC_MSL1063_F07	MSL1063	IB0302-0004	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00264	100	Y	Y
+5MSL1085	5MSL_project	BIBC_MSL1063_G01	BIBC_MSL1063_G01	MSL1063	WC01-0001	Staphylinidae	Tachyporinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00565	100	Y	Y
+5MSL662	5MSL_project	BIBC_MSL1063_G03	BIBC_MSL1063_G03	MSL1063	FC0402-0003	Staphylinidae	Tachyporinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02976	100	Y	Y
+5MSL561	5MSL_project	BIBC_MSL1063_G05	BIBC_MSL1063_G05	MSL1063	FC0503-0002	Staphylinidae	Oxytelinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02586	99.522	Y	Y
+5MSL925	5MSL_project	BIBC_MSL1063_G06	BIBC_MSL1063_G06	MSL1063	IB02-0007	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01372	98.565	Y	Y
+5MSL35	5MSL_project	BIBC_MSL1063_G07	BIBC_MSL1063_G07	MSL1063	IB0302-0005	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD00856	100	Y	Y
+5MSL1185	5MSL_project	BIBC_MSL1063_H02	BIBC_MSL1063_H02	MSL1063	WC02-0008	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD02397	98.565	Y	Y
+5MSL670	5MSL_project	BIBC_MSL1063_H06	BIBC_MSL1063_H06	MSL1063	IB02-0008	Staphylinidae	Aleocharinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD07146	100	Y	#N/A
+5MSL348	5MSL_project	BIBC_MSL1063_H07	BIBC_MSL1063_H07	MSL1063	IB0302-0006	Staphylinidae	Staphylininae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD09415	99.761	Y	#N/A
+5MSL508	5MSL_project	BIBC_MSL1063_H10	BIBC_MSL1063_H10	MSL1063	IAD12-0301-0003	Staphylinidae	Scaphidiinae	#N/A	Plot C	Poring	FIT	2013	Malaysia	BIOD01220	99.522	Y	Y
+5MSL768	5MSL_project	BIBC_MSL1063_A10	BIBC_MSL1063_A10	MSL1063	IAD12-01-0004	Staphylinidae	Paederinae	#N/A	Plot C	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL295	5MSL_project	BIBC_MSL1063_B01	BIBC_MSL1063_B01	MSL1063	WA01-0001	Staphylinidae	Pselaphinae	#N/A	Plot C	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL651	5MSL_project	BIBC_MSL1063_G02	BIBC_MSL1063_G02	MSL1063	WC02-0007	Staphylinidae	Paederinae	#N/A	Plot C	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL194	5MSL_project	BIBC_MSL1063_B02	BIBC_MSL1063_B02	MSL1063	WC02-0002	Staphylinidae	Scaphidiinae	#N/A	Plot C	Poring	FIT	2013	Malaysia			Y	#N/A
+5MSL278	5MSL_project	BIBC_MSL1064_A04	BIBC_MSL1064_A04	MSL1064	IAD12-0701-0001	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02597	96.411	Y	Y
+5MSL286	5MSL_project	BIBC_MSL1064_D05	BIBC_MSL1064_D05	MSL1064	IAD12-0403-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00252	99.043	Y	Y
+5MSL185	5MSL_project	BIBC_MSL1064_E12	BIBC_MSL1064_E12	MSL1064	IAD22-0201-0001	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD07240	100	Y	#N/A
+5MSL485	5MSL_project	BIBC_MSL1064_F02	BIBC_MSL1064_F02	MSL1064	IAD12-0501-0001	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02586	99.761	Y	Y
+5MSL717	5MSL_project	BIBC_MSL1064_B04	BIBC_MSL1064_B04	MSL1064	IAD12-0701-0002	Staphylinidae	Megalopsidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL757	5MSL_project	BIBC_MSL1064_C05	BIBC_MSL1064_C05	MSL1064	IAD12-0402-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL299	5MSL_project	BIBC_MSL1064_E05	BIBC_MSL1064_E05	MSL1064	IAD12-0801-0001	Staphylinidae		#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL622	5MSL_project	BIBC_MSL1064_F12	BIBC_MSL1064_F12	MSL1064	IAD22-0203-0001	Staphylinidae	Tachyporinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL316	5MSL_project	BIBC_MSL1065_A05	BIBC_MSL1065_A05	MSL1065	IBD23-0102-0011	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01253	100	Y	Y
+5MSL1271	5MSL_project	BIBC_MSL1065_A10	BIBC_MSL1065_A10	MSL1065	IBD13-0501-0004	Staphylinidae	Tachyporinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01630	98.804	Y	Y
+5MSL42	5MSL_project	BIBC_MSL1065_B04	BIBC_MSL1065_B04	MSL1065	IBD23-0102-0004	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00358	100	Y	Y
+5MSL93	5MSL_project	BIBC_MSL1065_B05	BIBC_MSL1065_B05	MSL1065	IBD23-0102-0012	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09323	100	Y	#N/A
+5MSL276	5MSL_project	BIBC_MSL1065_B06	BIBC_MSL1065_B06	MSL1065	IBD23-0302-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01439	99.282	Y	Y
+5MSL625	5MSL_project	BIBC_MSL1065_B10	BIBC_MSL1065_B10	MSL1065	IBD13-0501-0005	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00674	99.522	Y	Y
+5MSL451	5MSL_project	BIBC_MSL1065_B11	BIBC_MSL1065_B11	MSL1065	IBD13-08-0001	Staphylinidae	Euaesthetinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00904	99.761	Y	Y
+5MSL162	5MSL_project	BIBC_MSL1065_C01	BIBC_MSL1065_C01	MSL1065	IAD22-0205-0004	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08990	100	Y	#N/A
+5MSL328	5MSL_project	BIBC_MSL1065_C05	BIBC_MSL1065_C05	MSL1065	IBD23-0102-0013	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09047	100	Y	#N/A
+5MSL1623	5MSL_project	BIBC_MSL1065_C06	BIBC_MSL1065_C06	MSL1065	IBD23-0302-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08966	99.043	Y	#N/A
+5MSL206	5MSL_project	BIBC_MSL1065_C09	BIBC_MSL1065_C09	MSL1065	IBD23-0503-0001	Staphylinidae		#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00521	99.043	Y	Y
+5MSL370	5MSL_project	BIBC_MSL1065_C10	BIBC_MSL1065_C10	MSL1065	IBD13-06-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01863	100	Y	Y
+5MSL670	5MSL_project	BIBC_MSL1065_D01	BIBC_MSL1065_D01	MSL1065	IAD22-0205-0005	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD07146	100	Y	#N/A
+5MSL346	5MSL_project	BIBC_MSL1065_D09	BIBC_MSL1065_D09	MSL1065	IBD23-0503-0002	Staphylinidae		#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00622	97.368	Y	Y
+5MSL5	5MSL_project	BIBC_MSL1065_E03	BIBC_MSL1065_E03	MSL1065	IBD23-0101-0002	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD05221	100	Y	#N/A
+5MSL162	5MSL_project	BIBC_MSL1065_E04	BIBC_MSL1065_E04	MSL1065	IBD23-0102-0007	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08990	100	Y	#N/A
+5MSL35	5MSL_project	BIBC_MSL1065_E05	BIBC_MSL1065_E05	MSL1065	IBD23-0102-0015	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00856	100	Y	Y
+5MSL328	5MSL_project	BIBC_MSL1065_E06	BIBC_MSL1065_E06	MSL1065	IBD23-0302-0004	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09047	100	Y	#N/A
+5MSL98	5MSL_project	BIBC_MSL1065_E08	BIBC_MSL1065_E08	MSL1065	IBD23-0402-0013	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09679	100	Y	#N/A
+5MSL216	5MSL_project	BIBC_MSL1065_E11	BIBC_MSL1065_E11	MSL1065	IBD13-08-0004	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00910	98.804	Y	Y
+5MSL532	5MSL_project	BIBC_MSL1065_F03	BIBC_MSL1065_F03	MSL1065	IBD23-0101-0003	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00151	96.89	Y	Y
+5MSL647	5MSL_project	BIBC_MSL1065_F10	BIBC_MSL1065_F10	MSL1065	IBD13-06-0004	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00303	99.282	Y	Y
+5MSL318	5MSL_project	BIBC_MSL1065_F11	BIBC_MSL1065_F11	MSL1065	IBD13-08-0005	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00086	100	Y	Y
+5MSL276	5MSL_project	BIBC_MSL1065_G09	BIBC_MSL1065_G09	MSL1065	IBD13-0501-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01439	99.282	Y	Y
+5MSL684	5MSL_project	BIBC_MSL1065_G10	BIBC_MSL1065_G10	MSL1065	IBD13-07-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01108	98.325	Y	Y
+5MSL647	5MSL_project	BIBC_MSL1065_H05	BIBC_MSL1065_H05	MSL1065	IBD23-0301-0001	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00303	99.282	Y	Y
+5MSL469	5MSL_project	BIBC_MSL1065_H08	BIBC_MSL1065_H08	MSL1065	IBD23-0501-0003	Staphylinidae		#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00261	100	Y	Y
+5MSL323	5MSL_project	BIBC_MSL1065_H10	BIBC_MSL1065_H10	MSL1065	IBD13-07-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00521	100	Y	Y
+5MSL654	5MSL_project	BIBC_MSL1065_A06	BIBC_MSL1065_A06	MSL1065	IBD23-0301-0002	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL330	5MSL_project	BIBC_MSL1065_A11	BIBC_MSL1065_A11	MSL1065	IBD13-07-0003	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL130	5MSL_project	BIBC_MSL1065_C11	BIBC_MSL1065_C11	MSL1065	IBD13-08-0002	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL415	5MSL_project	BIBC_MSL1065_D06	BIBC_MSL1065_D06	MSL1065	IBD23-0302-0003	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL1213	5MSL_project	BIBC_MSL1065_D11	BIBC_MSL1065_D11	MSL1065	IBD13-08-0003	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL583	5MSL_project	BIBC_MSL1065_E09	BIBC_MSL1065_E09	MSL1065	IBD13-0401-0001	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL510	5MSL_project	BIBC_MSL1065_E10	BIBC_MSL1065_E10	MSL1065	IBD13-06-0003	Staphylinidae		#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL1477	5MSL_project	BIBC_MSL1065_F09	BIBC_MSL1065_F09	MSL1065	IBD13-0501-0001	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL246	5MSL_project	BIBC_MSL1065_G05	BIBC_MSL1065_G05	MSL1065	IBD23-0202-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL794	5MSL_project	BIBC_MSL1065_G12	BIBC_MSL1065_G12	MSL1065	IBD13-0901-0009	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL588	5MSL_project	BIBC_MSL1065_B09	BIBC_MSL1065_B09	MSL1065	IBD23-0502-0002	Staphylinidae		#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL10	5MSL_project	BIBC_MSL1065_B12	BIBC_MSL1065_B12	MSL1065	IBD13-0901-0004	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL2223	6MSL_project	BIBC_MSL1066_A05	BIBC_MSL1066_A05	MSL1066	ICD-0401-0004	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09345	100	Y	#N/A
+6MSL3757	6MSL_project	BIBC_MSL1066_B02	BIBC_MSL1066_B02	MSL1066	IBD13-1002-0003	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00547	99.761	Y	Y
+6MSL1810	6MSL_project	BIBC_MSL1066_B03	BIBC_MSL1066_B03	MSL1066	IBD13-1102-0001	Staphylinidae	Scydmaeninae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD08871	99.522	Y	#N/A
+6MSL1961	6MSL_project	BIBC_MSL1066_B05	BIBC_MSL1066_B05	MSL1066	ICD-0401-0005	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09335	100	Y	#N/A
+6MSL212	6MSL_project	BIBC_MSL1066_C05	BIBC_MSL1066_C05	MSL1066	ICD-0401-0006	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09873	100	Y	#N/A
+6MSL212	6MSL_project	BIBC_MSL1066_C06	BIBC_MSL1066_C06	MSL1066	ICD-05-0005	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09873	100	Y	#N/A
+6MSL1094	6MSL_project	BIBC_MSL1066_D02	BIBC_MSL1066_D02	MSL1066	IBD13-1003-0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02339	99.761	Y	Y
+6MSL1491	6MSL_project	BIBC_MSL1066_D05	BIBC_MSL1066_D05	MSL1066	ICD-0401-0007	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09033	100	Y	#N/A
+6MSL1825	6MSL_project	BIBC_MSL1066_D10	BIBC_MSL1066_D10	MSL1066	IDN13-0302-0003	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD01859	99.761	Y	Y
+6MSL3358	6MSL_project	BIBC_MSL1066_E01	BIBC_MSL1066_E01	MSL1066	IBD13-1001-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00261	100	Y	Y
+6MSL10908	6MSL_project	BIBC_MSL1066_E05	BIBC_MSL1066_E05	MSL1066	ICD-0402-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD01563	100	Y	Y
+6MSL1914	6MSL_project	BIBC_MSL1066_E10	BIBC_MSL1066_E10	MSL1066	IDN13-0302-0004	Staphylinidae	Tachyporinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09286	100	Y	#N/A
+6MSL3889	6MSL_project	BIBC_MSL1066_E12	BIBC_MSL1066_E12	MSL1066	FBD22-03-0006	Staphylinidae	Pselaphinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD03074	99.761	Y	Y
+6MSL227	6MSL_project	BIBC_MSL1066_F01	BIBC_MSL1066_F01	MSL1066	IBD13-1001-0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00502	100	Y	Y
+6MSL5971	6MSL_project	BIBC_MSL1066_F04	BIBC_MSL1066_F04	MSL1066	ICD-0401-0001	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09637	100	Y	#N/A
+6MSL2351	6MSL_project	BIBC_MSL1066_F10	BIBC_MSL1066_F10	MSL1066	IDN13-04-0001	Staphylinidae	Scaphidiinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09205	100	Y	#N/A
+6MSL6273	6MSL_project	BIBC_MSL1066_F11	BIBC_MSL1066_F11	MSL1066	FBD22-02-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD02441	100	Y	Y
+6MSL6631	6MSL_project	BIBC_MSL1066_G05	BIBC_MSL1066_G05	MSL1066	ICD-05-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09342	100	Y	#N/A
+6MSL7354	6MSL_project	BIBC_MSL1066_G07	BIBC_MSL1066_G07	MSL1066	ICD-0701-0010	Staphylinidae	Scaphidiinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09851	95.592	Y	#N/A
+6MSL227	6MSL_project	BIBC_MSL1066_H08	BIBC_MSL1066_H08	MSL1066	ICD-0701-0019	Staphylinidae	Scydmaeninae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD00502	100	Y	Y
+6MSL44	6MSL_project	BIBC_MSL1066_H12	BIBC_MSL1066_H12	MSL1066	IDN13-0302-0002	Staphylinidae	Oxytelinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia	BIOD09212	99.761	Y	#N/A
+6MSL2129	6MSL_project	BIBC_MSL1066_A01	BIBC_MSL1066_A01	MSL1066	IBD13-0901-0011	Staphylinidae	Scaphidiinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL557	6MSL_project	BIBC_MSL1066_A02	BIBC_MSL1066_A02	MSL1066	IBD13-1002-0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL1955	6MSL_project	BIBC_MSL1066_A03	BIBC_MSL1066_A03	MSL1066	IBD13-1101-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL21856	6MSL_project	BIBC_MSL1066_A06	BIBC_MSL1066_A06	MSL1066	ICD-05-0003	Staphylinidae	Osorinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL6433	6MSL_project	BIBC_MSL1066_C10	BIBC_MSL1066_C10	MSL1066	ICD-0703-0001-0006	Staphylinidae		#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL4786	6MSL_project	BIBC_MSL1066_E06	BIBC_MSL1066_E06	MSL1066	ICD-06-0001	Staphylinidae	Osorinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL3021	6MSL_project	BIBC_MSL1066_F05	BIBC_MSL1066_F05	MSL1066	ICD-0402-0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL7694	6MSL_project	BIBC_MSL1066_G11	BIBC_MSL1066_G11	MSL1066	FBD22-02-0002	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL158	6MSL_project	BIBC_MSL1066_H05	BIBC_MSL1066_H05	MSL1066	ICD-05-0002	Staphylinidae	Osorinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL134	6MSL_project	BIBC_MSL1066_H07	BIBC_MSL1066_H07	MSL1066	ICD-0701-0011	Staphylinidae	Scaphidiinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL588	6MSL_project	BIBC_MSL1066_H01	BIBC_MSL1066_H01	MSL1066	IBD13-1002-0001	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL563	6MSL_project	BIBC_MSL1066_H02	BIBC_MSL1066_H02	MSL1066	IBD13-1005-0002	Staphylinidae	Tachyporinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL537	6MSL_project	BIBC_MSL1066_G01	BIBC_MSL1066_G01	MSL1066	IBD13-1001-0003	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL430	6MSL_project	BIBC_MSL1066_B06	BIBC_MSL1066_B06	MSL1066	ICD-05-0004	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL430	6MSL_project	BIBC_MSL1066_D06	BIBC_MSL1066_D06	MSL1066	ICD-05-0006	Staphylinidae	Aleocharinae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL534	6MSL_project	BIBC_MSL1066_G04	BIBC_MSL1066_G04	MSL1066	ICD-0401-0002	Staphylinidae	Staphylininae	#N/A	Plot B	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL8925	6MSL_project	BIBC_MSL1067_A04	BIBC_MSL1067_A04	MSL1067	IDN23-01-0004	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD08958	100	Y	#N/A
+6MSL6091	6MSL_project	BIBC_MSL1067_A11	BIBC_MSL1067_A11	MSL1067	IDN13-06-0004	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD00674	99.282	Y	Y
+6MSL7335	6MSL_project	BIBC_MSL1067_B11	BIBC_MSL1067_B11	MSL1067	IDN13-06-0005	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD00559	99.522	Y	Y
+6MSL1522	6MSL_project	BIBC_MSL1067_B12	BIBC_MSL1067_B12	MSL1067	IDN13-07-0003	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD00093	100	Y	Y
+6MSL212	6MSL_project	BIBC_MSL1067_C11	BIBC_MSL1067_C11	MSL1067	IDN13-06-0006	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD09873	100	Y	#N/A
+6MSL3825	6MSL_project	BIBC_MSL1067_C12	BIBC_MSL1067_C12	MSL1067	IDN13-07-0004	Staphylinidae	Tachyporinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD01115	99.522	Y	Y
+6MSL20193	6MSL_project	BIBC_MSL1067_D06	BIBC_MSL1067_D06	MSL1067	IDN23-0303-0007	Staphylinidae	Oxytelinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD02988	97.847	Y	Y
+6MSL3646	6MSL_project	BIBC_MSL1067_D11	BIBC_MSL1067_D11	MSL1067	IDN13-06-0007	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD09047	100	Y	#N/A
+6MSL7105	6MSL_project	BIBC_MSL1067_D12	BIBC_MSL1067_D12	MSL1067	IDN13-07-0005	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD00358	100	Y	Y
+6MSL1623	6MSL_project	BIBC_MSL1067_E11	BIBC_MSL1067_E11	MSL1067	IDN13-06-0008	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD08953	99.043	Y	#N/A
+6MSL1110	6MSL_project	BIBC_MSL1067_F03	BIBC_MSL1067_F03	MSL1067	IDN23-01-0001	Staphylinidae	Staphylininae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD09671	100	Y	#N/A
+6MSL3014	6MSL_project	BIBC_MSL1067_F05	BIBC_MSL1067_F05	MSL1067	IDN23-0303-0001	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD01253	100	Y	Y
+6MSL7190	6MSL_project	BIBC_MSL1067_F11	BIBC_MSL1067_F11	MSL1067	IDN13-06-0009	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD02012	100	Y	Y
+6MSL2029	6MSL_project	BIBC_MSL1067_F12	BIBC_MSL1067_F12	MSL1067	IDN13-07-0007	Staphylinidae	Oxytelinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD02890	97.368	Y	Y
+6MSL2051	6MSL_project	BIBC_MSL1067_G03	BIBC_MSL1067_G03	MSL1067	IDN23-01-0002	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD09898	99.761	Y	#N/A
+6MSL7036	6MSL_project	BIBC_MSL1067_G05	BIBC_MSL1067_G05	MSL1067	IDN23-0303-0002	Staphylinidae	Oxytelinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD02890	96.411	Y	Y
+6MSL5214	6MSL_project	BIBC_MSL1067_G06	BIBC_MSL1067_G06	MSL1067	IDN23-0401-0002	Staphylinidae	Scaphidiinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD09679	100	Y	#N/A
+6MSL26810	6MSL_project	BIBC_MSL1067_G08	BIBC_MSL1067_G08	MSL1067	IDN23-0404-0003	Staphylinidae	Tachyporinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD01115	100	Y	Y
+6MSL7555	6MSL_project	BIBC_MSL1067_G10	BIBC_MSL1067_G10	MSL1067	IDN13-06-0002	Staphylinidae	Oxytelinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD09314	100	Y	#N/A
+6MSL1666	6MSL_project	BIBC_MSL1067_G11	BIBC_MSL1067_G11	MSL1067	IDN13-06-0010	Staphylinidae	Paederinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD01589	100	Y	Y
+6MSL1252	6MSL_project	BIBC_MSL1067_H03	BIBC_MSL1067_H03	MSL1067	IDN23-01-0003	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD08981	100	Y	#N/A
+6MSL2222	6MSL_project	BIBC_MSL1067_H05	BIBC_MSL1067_H05	MSL1067	IDN23-0303-0003	Staphylinidae	Oxytelinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD02385	100	Y	Y
+6MSL5205	6MSL_project	BIBC_MSL1067_H10	BIBC_MSL1067_H10	MSL1067	IDN13-06-0003	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD08952	100	Y	#N/A
+6MSL1138	6MSL_project	BIBC_MSL1067_H11	BIBC_MSL1067_H11	MSL1067	IDN13-07-0001	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia	BIOD09474	100	Y	#N/A
+6MSL24720	6MSL_project	BIBC_MSL1067_A12	BIBC_MSL1067_A12	MSL1067	IDN13-07-0002	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL11449	6MSL_project	BIBC_MSL1067_F10	BIBC_MSL1067_F10	MSL1067	IDN13-06-0001	Staphylinidae		#N/A	Plot D	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL6926	6MSL_project	BIBC_MSL1067_E06	BIBC_MSL1067_E06	MSL1067	IDN23-0303-0008	Staphylinidae	Tachyporinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL1410	6MSL_project	BIBC_MSL1067_E12	BIBC_MSL1067_E12	MSL1067	IDN13-07-0006	Staphylinidae	Aleocharinae	#N/A	Plot D	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL318	5MSL_project	BIBC_MSL1068_A01	BIBC_MSL1068_A01	MSL1068	IDN13-0904-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00086	100	Y	Y
+5MSL110	5MSL_project	BIBC_MSL1068_A09	BIBC_MSL1068_A09	MSL1068	IA5D22-0502-0004	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08675	99.522	Y	#N/A
+5MSL101	5MSL_project	BIBC_MSL1068_B05	BIBC_MSL1068_B05	MSL1068	IA5D22-01-0002	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01917	99.522	Y	Y
+5MSL22	5MSL_project	BIBC_MSL1068_C11	BIBC_MSL1068_A11	MSL1068	IAN15-0302-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01253	97.129	Y	Y
+5MSL496	5MSL_project	BIBC_MSL1068_D02	BIBC_MSL1068_D02	MSL1068	IDN23-0503-0002	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02886	100	Y	Y
+5MSL416	5MSL_project	BIBC_MSL1068_E01	BIBC_MSL1068_E01	MSL1068	IDN13-0904-0005	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02421	99.043	Y	Y
+5MSL1099	5MSL_project	BIBC_MSL1068_G12	BIBC_MSL1068_G12	MSL1068	IAN15-0603-0001	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02385	99.761	Y	Y
+5MSL479	5MSL_project	BIBC_MSL1068_C01	BIBC_MSL1068_C01	MSL1068	IDN13-0904-0003	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL740	5MSL_project	BIBC_MSL1068_D01	BIBC_MSL1068_D01	MSL1068	IDN13-0904-0004	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL137	5MSL_project	BIBC_MSL1068_D11	BIBC_MSL1068_D11	MSL1068	IAN15-0302-0005	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL64	5MSL_project	BIBC_MSL1068_E11	BIBC_MSL1068_E11	MSL1068	IAN15-0302-0006	Staphylinidae	Pselaphinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL245	5MSL_project	BIBC_MSL1069_A01	BIBC_MSL1069_A01	MSL1069	IAN45-02-0001	Staphylinidae	Tachyporinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD07156	100	Y	#N/A
+5MSL477	5MSL_project	BIBC_MSL1069_A08	BIBC_MSL1069_A08	MSL1069	IBN24-08-0003	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02339	100	Y	Y
+5MSL131	5MSL_project	BIBC_MSL1069_A11	BIBC_MSL1069_A11	MSL1069	IBN44-03-0003	Staphylinidae	Tachyporinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00368	98.804	Y	Y
+5MSL222	5MSL_project	BIBC_MSL1069_B03	BIBC_MSL1069_B03	MSL1069	IAN45-1001-0001	Staphylinidae	Euaesthetinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00521	99.761	Y	Y
+5MSL158	5MSL_project	BIBC_MSL1069_B05	BIBC_MSL1069_B05	MSL1069	IBN24-03-0004	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09756	100	Y	#N/A
+5MSL404	5MSL_project	BIBC_MSL1069_B09	BIBC_MSL1069_B09	MSL1069	IBN34-03-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09300	100	Y	#N/A
+5MSL389	5MSL_project	BIBC_MSL1069_C05	BIBC_MSL1069_C05	MSL1069	IBN24-03-0005	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09487	99.761	Y	#N/A
+5MSL237	5MSL_project	BIBC_MSL1069_C09	BIBC_MSL1069_C09	MSL1069	IBN34-03-0002	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00303	99.282	Y	Y
+5MSL349	5MSL_project	BIBC_MSL1069_D07	BIBC_MSL1069_D07	MSL1069	IBN24-07-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02352	99.761	Y	Y
+5MSL19	5MSL_project	BIBC_MSL1069_E05	BIBC_MSL1069_E05	MSL1069	IBN24-0501-0002	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09205	100	Y	#N/A
+5MSL40	5MSL_project	BIBC_MSL1069_E07	BIBC_MSL1069_E07	MSL1069	IBN24-07-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01850	99.761	Y	Y
+5MSL122	5MSL_project	BIBC_MSL1069_F07	BIBC_MSL1069_F07	MSL1069	IBN24-07-0003	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00157	99.761	Y	Y
+5MSL278	5MSL_project	BIBC_MSL1069_F11	BIBC_MSL1069_F11	MSL1069	IBN44-06-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02597	96.411	Y	Y
+5MSL169	5MSL_project	BIBC_MSL1069_G04	BIBC_MSL1069_G04	MSL1069	IBN24-03-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00303	99.282	Y	Y
+5MSL923	5MSL_project	BIBC_MSL1069_G07	BIBC_MSL1069_G07	MSL1069	IBN24-08-0001	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02586	98.086	Y	Y
+5MSL312	5MSL_project	BIBC_MSL1069_G10	BIBC_MSL1069_G10	MSL1069	IBN44-03-0001	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02808	99.761	Y	Y
+5MSL255	5MSL_project	BIBC_MSL1069_H07	BIBC_MSL1069_H07	MSL1069	IBN24-08-0002	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00303	98.804	Y	Y
+5MSL188	5MSL_project	BIBC_MSL1069_H10	BIBC_MSL1069_H10	MSL1069	IBN44-03-0002	Staphylinidae	Megalopsidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01966	99.043	Y	Y
+5MSL106	5MSL_project	BIBC_MSL1069_A05	BIBC_MSL1069_A05	MSL1069	IBN24-03-0003	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL94	5MSL_project	BIBC_MSL1069_D04	BIBC_MSL1069_D04	MSL1069	IBN24-0102-0001	Staphylinidae	Tachyporinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL92	5MSL_project	BIBC_MSL1069_E10	BIBC_MSL1069_E10	MSL1069	IBN44-02-0001	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL173	5MSL_project	BIBC_MSL1069_F05	BIBC_MSL1069_F05	MSL1069	IBN24-0501-0003	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL637	5MSL_project	BIBC_MSL1069_F10	BIBC_MSL1069_F10	MSL1069	IBN44-02-0002	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL482	5MSL_project	BIBC_MSL1069_H04	BIBC_MSL1069_H04	MSL1069	IBN24-03-0002	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL371	5MSL_project	BIBC_MSL1070_A03	BIBC_MSL1070_A03	MSL1070	IC7D-0402-0001	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09844	100	Y	#N/A
+5MSL59	5MSL_project	BIBC_MSL1070_A05	BIBC_MSL1070_A05	MSL1070	ID5D-02-0003	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09335	96.651	Y	#N/A
+5MSL223	5MSL_project	BIBC_MSL1070_B02	BIBC_MSL1070_B02	MSL1070	IC7D-03-0001	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08486	99.522	Y	#N/A
+5MSL142	5MSL_project	BIBC_MSL1070_B05	BIBC_MSL1070_B05	MSL1070	ID5D-02-0004	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01957	100	Y	Y
+5MSL359	5MSL_project	BIBC_MSL1070_C05	BIBC_MSL1070_C05	MSL1070	ID5D-02-0005	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09756	99.761	Y	#N/A
+5MSL104	5MSL_project	BIBC_MSL1070_D05	BIBC_MSL1070_D05	MSL1070	ID5D-02-0006	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09487	99.522	Y	#N/A
+5MSL112	5MSL_project	BIBC_MSL1070_E05	BIBC_MSL1070_E05	MSL1070	ID5D-02-0007	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08946	99.761	Y	#N/A
+5MSL95	5MSL_project	BIBC_MSL1070_E12	BIBC_MSL1070_E12	MSL1070	ID7D22-0201-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09530	100	Y	#N/A
+5MSL288	5MSL_project	BIBC_MSL1070_F12	BIBC_MSL1070_F12	MSL1070	ID7D22-0202-0001	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01422	97.129	Y	Y
+5MSL398	5MSL_project	BIBC_MSL1070_G02	BIBC_MSL1070_G02	MSL1070	IC7D-03-0006	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01527	100	Y	Y
+5MSL650	5MSL_project	BIBC_MSL1070_G07	BIBC_MSL1070_G07	MSL1070	ID5D-03-0017	Staphylinidae	Pselaphinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02353	99.522	Y	Y
+5MSL361	5MSL_project	BIBC_MSL1070_G12	BIBC_MSL1070_G12	MSL1070	ID7D22-0202-0002	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00927	99.761	Y	Y
+5MSL46	5MSL_project	BIBC_MSL1070_H04	BIBC_MSL1070_H04	MSL1070	ID5D-02-0002	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00625	99.761	Y	Y
+5MSL528	5MSL_project	BIBC_MSL1070_F02	BIBC_MSL1070_F02	MSL1070	IC7D-03-0005	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL195	5MSL_project	BIBC_MSL1070_F05	BIBC_MSL1070_F05	MSL1070	ID5D-02-0008	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL58	5MSL_project	BIBC_MSL1070_G04	BIBC_MSL1070_G04	MSL1070	ID5D-02-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL695	5MSL_project	BIBC_MSL1070_H02	BIBC_MSL1070_H02	MSL1070	IC7D-03-0007	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL10	5MSL_project	BIBC_MSL1070_B08	BIBC_MSL1070_B08	MSL1070	ID5D-03-0020	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL252	5MSL_project	BIBC_MSL1071_A02	BIBC_MSL1071_A02	MSL1071	ID7D22-0302-0010	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00872	100	Y	Y
+5MSL46	5MSL_project	BIBC_MSL1071_A04	BIBC_MSL1071_A04	MSL1071	ICN33-02-0001	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00625	99.761	Y	Y
+5MSL275	5MSL_project	BIBC_MSL1071_A08	BIBC_MSL1071_A08	MSL1071	IA7D22-0402-0007	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02586	99.043	Y	Y
+5MSL2	5MSL_project	BIBC_MSL1071_A12	BIBC_MSL1071_A12	MSL1071	IB7D-04-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09345	100	Y	#N/A
+5MSL551	5MSL_project	BIBC_MSL1071_B09	BIBC_MSL1071_B09	MSL1071	IB7D-0501-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00303	99.522	Y	Y
+5MSL54	5MSL_project	BIBC_MSL1071_B12	BIBC_MSL1071_B12	MSL1071	IB7D-04-0003	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09345	95.465	Y	#N/A
+5MSL935	5MSL_project	BIBC_MSL1071_C03	BIBC_MSL1071_C03	MSL1071	IB5D12-0302-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00303	99.282	Y	Y
+5MSL391	5MSL_project	BIBC_MSL1071_C04	BIBC_MSL1071_C04	MSL1071	ICN33-02-0003	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01089	98.325	Y	Y
+5MSL437	5MSL_project	BIBC_MSL1071_C05	BIBC_MSL1071_C05	MSL1071	ICN33-0502-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09493	98.325	Y	#N/A
+5MSL429	5MSL_project	BIBC_MSL1071_C06	BIBC_MSL1071_C06	MSL1071	IA7D22-02-0002	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00502	100	Y	Y
+5MSL5	5MSL_project	BIBC_MSL1071_C12	BIBC_MSL1071_C12	MSL1071	IB7D-04-0004	Staphylinidae	Osorinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD05221	100	Y	#N/A
+5MSL19	5MSL_project	BIBC_MSL1071_D04	BIBC_MSL1071_D04	MSL1071	ICN33-03-0001	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09205	100	Y	#N/A
+5MSL189	5MSL_project	BIBC_MSL1071_D05	BIBC_MSL1071_D05	MSL1071	ICN33-0502-0002	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09342	99.043	Y	#N/A
+5MSL141	5MSL_project	BIBC_MSL1071_D09	BIBC_MSL1071_D09	MSL1071	IB7D-0501-0003	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD00358	99.761	Y	Y
+5MSL98	5MSL_project	BIBC_MSL1071_E01	BIBC_MSL1071_E01	MSL1071	ID7D22-0302-0006	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09679	100	Y	#N/A
+5MSL366	5MSL_project	BIBC_MSL1071_E06	BIBC_MSL1071_E06	MSL1071	IA7D22-02-0004	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08990	99.282	Y	#N/A
+5MSL288	5MSL_project	BIBC_MSL1071_E09	BIBC_MSL1071_E09	MSL1071	IB7D-0501-0004	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01422	97.129	Y	Y
+5MSL414	5MSL_project	BIBC_MSL1071_G02	BIBC_MSL1071_G02	MSL1071	IB5D12-01-0003	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02216	96.411	Y	Y
+5MSL881	5MSL_project	BIBC_MSL1071_G06	BIBC_MSL1071_G06	MSL1071	IA7D22-02-0006	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02216	99.282	Y	Y
+5MSL26	5MSL_project	BIBC_MSL1071_G11	BIBC_MSL1071_G11	MSL1071	IB7D-03-0005	Staphylinidae	Tachyporinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD08955	97.129	Y	#N/A
+5MSL745	5MSL_project	BIBC_MSL1071_H02	BIBC_MSL1071_H02	MSL1071	IB5D12-02-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09524	100	Y	#N/A
+5MSL271	5MSL_project	BIBC_MSL1071_A01	BIBC_MSL1071_A01	MSL1071	ID7D22-0302-0002	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL460	5MSL_project	BIBC_MSL1071_B04	BIBC_MSL1071_B04	MSL1071	ICN33-02-0002	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL310	5MSL_project	BIBC_MSL1071_C09	BIBC_MSL1071_C09	MSL1071	IB7D-0501-0002	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL254	5MSL_project	BIBC_MSL1071_E02	BIBC_MSL1071_E02	MSL1071	IB5D12-01-0001	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL754	5MSL_project	BIBC_MSL1071_E08	BIBC_MSL1071_E08	MSL1071	IA7D22-0502-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL819	5MSL_project	BIBC_MSL1071_F06	BIBC_MSL1071_F06	MSL1071	IA7D22-02-0005	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL500	5MSL_project	BIBC_MSL1071_F09	BIBC_MSL1071_F09	MSL1071	IB7D-0501-0005	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+5MSL194	5MSL_project	BIBC_MSL1071_D02	BIBC_MSL1071_D02	MSL1071	ID7D22-0302-0013	Staphylinidae	Scaphidiinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL65	6MSL_project	BIBC_MSL72_99_A01	BIBC_MSL1072_A01	MSL1072	IAN35-02-0001	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD07071	100	Y	#N/A
+6MSL1520	6MSL_project	BIBC_MSL72_99_A02	BIBC_MSL1072_A02	MSL1072	IAN35-0601-0001	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD09314	99.282	Y	#N/A
+6MSL2418	6MSL_project	BIBC_MSL72_99_A06	BIBC_MSL1072_E02	MSL1072	IAN35-0702-0002	Staphylinidae	Tachyporinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD02719	100	Y	Y
+6MSL8432	6MSL_project	BIBC_MSL72_99_A07	BIBC_MSL1072_E03	MSL1072	IB9D33-04-0003	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01108	97.847	Y	Y
+6MSL65	6MSL_project	BIBC_MSL72_99_B01	BIBC_MSL1072_B01	MSL1072	IAN35-02-0002	Staphylinidae	Staphylininae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD07071	100	Y	#N/A
+6MSL1666	6MSL_project	BIBC_MSL72_99_D02	BIBC_MSL1072_D02	MSL1072	IAN35-0702-0001	Staphylinidae	Paederinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD01589	100	Y	Y
+6MSL2334	6MSL_project	BIBC_MSL72_99_D05	BIBC_MSL1072_H01	MSL1072	IAN35-0601-0002	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia	BIOD06769	100	Y	#N/A
+6MSL3184	6MSL_project	BIBC_MSL72_99_D03	BIBC_MSL1072_D03	MSL1072	IB9D33-04-0002	Staphylinidae	Oxytelinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL2509	6MSL_project	BIBC_MSL72_99_A08	BIBC_MSL1072_E04	MSL1072	IB9D33-0601-0001	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL1740	6MSL_project	BIBC_MSL72_99_B04	BIBC_MSL1072_B04	MSL1072	IB9D33-07-0001	Staphylinidae	Pselaphinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+6MSL12033	6MSL_project	BIBC_MSL72_99_B06	BIBC_MSL1072_F02	MSL1072	IAN35-0702-0003	Staphylinidae	Aleocharinae	#N/A	Plot A	Poring	INTERC	2013	Malaysia			Y	#N/A
+6KP4486	6K_project	6K_SOP1_A08	BIBC_SOP1_A08		Oxyt2	Staphylinidae	Oxytelinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD00685	97.368	Y	#N/A
+6KP4390	6K_project	6K_SOP1_A10	BIBC_SOP1_A10		Paed27	Staphylinidae	Paederinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD00247	98.565	Y	Y
+6KP7116	6K_project	6K_SOP1_B01	BIBC_SOP1_B01		Osor12	Staphylinidae	Osorinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD02486	100	#N/A	Y
+6KP4313	6K_project	6K_SOP1_B02	BIBC_SOP1_B02		Aleoch3	Staphylinidae	Aleocharinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD02806	100	#N/A	Y
+6KP3352	6K_project	6K_SOP1_B09	BIBC_SOP1_B09		Paed3	Staphylinidae	Paederinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD02487	100	#N/A	Y
+6KP600	6K_project	6K_SOP1_B11	BIBC_SOP1_B11		Tach5	Staphylinidae	Tachyporinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD02976	100	#N/A	Y
+6KP3068	6K_project	6K_SOP1_C12	BIBC_SOP1_C12		Osor7	Staphylinidae	Osorinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD00052	100	#N/A	Y
+6KP5288	6K_project	6K_SOP1_F03	BIBC_SOP1_F03		Osor2	Staphylinidae	Osorinae	#N/A	PB	Poring	MALAISE	2013	Malaysia	BIOD02718	100	#N/A	Y
+6KP3429	6K_project	6K_SOP1_F07	BIBC_SOP1_F07		Tach7	Staphylinidae	Tachyporinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD02719	100	#N/A	Y
+6KP7786	6K_project	6K_SOP1_G06	BIBC_SOP1_G06		Aleoch50	Staphylinidae	Aleocharinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD00169	98.565	Y	Y
+6KP13585	6K_project	6K_SOP1_G08	BIBC_SOP1_G08		Paed10	Staphylinidae	Paederinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD02909	100	#N/A	Y
+6KP4805	6K_project	6K_SOP1_H07	BIBC_SOP1_H07		Oxyt5	Staphylinidae	Oxytelinae	#N/A	PC	Poring	MALAISE	2013	Malaysia	BIOD02543	100	#N/A	Y
+6KP1973	6K_project	6K_SOP1_D03	BIBC_SOP1_D03		Staph2	Staphylinidae	Staphylininae	#N/A	PA	Poring	MALAISE	2013	Malaysia			Y	#N/A
+6KP12334	6K_project	6K_SOP1_D09	BIBC_SOP1_D09		Pselaph39	Staphylinidae	Pselaphinae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP6369	6K_project	6K_SOP1_E02	BIBC_SOP1_E02		Pselaph34	Staphylinidae	Pselaphinae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP4907	6K_project	6K_SOP1_E04	BIBC_SOP1_E04		Pselaph7	Staphylinidae	Pselaphinae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP5556	6K_project	6K_SOP1_F08	BIBC_SOP1_F08		Aleoch54	Staphylinidae	Aleocharinae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP6856	6K_project	6K_SOP1_F12	BIBC_SOP1_F12		Paed29	Staphylinidae	Paederinae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP103479	6K_project	6K_SOP1_G03	BIBC_SOP1_G03		Pselaph17	Staphylinidae	Pselaphinae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP18165	6K_project	6K_SOP1_G04	BIBC_SOP1_G04		Scyd7	Staphylinidae	Scydmaeninae	#N/A	PB	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP75689	6K_project	6K_SOP2_A11	BIBC_SOP2_A11		Osor4	Staphylinidae	Osorinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD00473	97.129	Y	Y
+6KP4127	6K_project	6K_SOP2_A12	BIBC_SOP2_A12		Paed12	Staphylinidae	Paederinae	#N/A	PA	Poring	BEATING	2013	Malaysia	MIZA00119	97.143	Y	#N/A
+6KP275	6K_project	6K_SOP2_B03	BIBC_SOP2_B03		Oxyt8	Staphylinidae	Oxytelinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02385	99.761	Y	Y
+6KP5967	6K_project	6K_SOP2_B11	BIBC_SOP2_B11		Staph5	Staphylinidae	Staphylininae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02808	100	#N/A	Y
+6KP2990	6K_project	6K_SOP2_D04	BIBC_SOP2_D04		Oxyt13	Staphylinidae	Oxytelinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02489	100	#N/A	Y
+6KP4612	6K_project	6K_SOP2_F05	BIBC_SOP2_F05		Oxyt14	Staphylinidae	Oxytelinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02677	99.043	Y	Y
+6KP3956	6K_project	6K_SOP2_F10	BIBC_SOP2_F10		Tach1	Staphylinidae	Tachyporinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD02383	100	#N/A	Y
+6KP2999	6K_project	6K_SOP2_H06	BIBC_SOP2_H06		Paed23	Staphylinidae	Paederinae	#N/A	PA	Poring	BEATING	2013	Malaysia	BIOD03110	100	#N/A	Y
+6KP29575	6K_project	6K_SOP2_H08	BIBC_SOP2_H08		Oxyt1	Staphylinidae		#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP6886	6K_project	6K_SOP2_A01	BIBC_SOP2_A01		Paed33	Staphylinidae	Paederinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP11050	6K_project	6K_SOP2_A04	BIBC_SOP2_A04		Tach2	Staphylinidae	Tachyporinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP79009	6K_project	6K_SOP2_A07	BIBC_SOP2_A07		Oxyt17	Staphylinidae	Oxytelinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP5080	6K_project	6K_SOP2_A08	BIBC_SOP2_A08		Tach8	Staphylinidae	Tachyporinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP4355	6K_project	6K_SOP2_B01	BIBC_SOP2_B01		Pselaph1	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP4261	6K_project	6K_SOP2_B04	BIBC_SOP2_B04		Pselaph30	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP8955	6K_project	6K_SOP2_D11	BIBC_SOP2_D11		Pselaph18	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP64632	6K_project	6K_SOP2_D12	BIBC_SOP2_D12		Aleoch54	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP4261	6K_project	6K_SOP2_E01	BIBC_SOP2_E01		Pselaph24	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP7155	6K_project	6K_SOP2_G04	BIBC_SOP2_G04		Aleoch4	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP4962	6K_project	6K_SOP2_G06	BIBC_SOP2_G06		Aleoch53	Staphylinidae	Aleocharinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP12526	6K_project	6K_SOP2_G07	BIBC_SOP2_G07		Pselaph8	Staphylinidae	Pselaphinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP16148	6K_project	6K_SOP2_H02	BIBC_SOP2_H02		Osor22	Staphylinidae	Osorinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP51960	6K_project	6K_SOP2_H05	BIBC_SOP2_H05		Osor25	Staphylinidae	Osorinae	#N/A	PA	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP14739	6K_project	6K_SOP2_H12	BIBC_SOP2_H12		Pselaph2	Staphylinidae	Pselaphinae	#N/A	PC	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP4116	6K_project	6K_SOP3_A03	BIBC_SOP3_A03		Staph3	Staphylinidae	Staphylininae	#N/A	PC	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP5128	6K_project	6K_SOP3_B05	BIBC_SOP3_B05		Paed13	Staphylinidae	Paederinae	#N/A	PC	Poring	BEATING	2013	Malaysia			Y	#N/A
+6KP3225	6K_project	6K_SOP3_C01	BIBC_SOP3_C01		Pselaph6	Staphylinidae	Pselaphinae	#N/A	PC	Poring	BEATING	2013	Malaysia			Y	#N/A
